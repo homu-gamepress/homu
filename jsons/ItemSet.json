@@ -1,4 +1,4 @@
-{ "entries": [
+[
 { "rewardId": "0", "reward1": "18446744073709551615", "reward1Qty": 0, "reward2": "0", "reward2Qty": 0, "reward3": "0", "reward3Qty": 0, "reward4": "0", "reward4Qty": 0, "reward5": "0", "reward5Qty": 0, "reward6": "0", "reward6Qty": 0, "reward7": "0", "reward7Qty": 0, "reward8": "0", "reward8Qty": 0, "reward9": "0", "reward9Qty": 0, "reward10": "0", "reward10Qty": 0 },
 { "rewardId": "1", "reward1": "410000000001", "reward1Qty": 10, "reward2": "0", "reward2Qty": 0, "reward3": "0", "reward3Qty": 0, "reward4": "0", "reward4Qty": 0, "reward5": "0", "reward5Qty": 0, "reward6": "0", "reward6Qty": 0, "reward7": "0", "reward7Qty": 0, "reward8": "0", "reward8Qty": 0, "reward9": "0", "reward9Qty": 0, "reward10": "0", "reward10Qty": 0 },
 { "rewardId": "2", "reward1": "410000000001", "reward1Qty": 30, "reward2": "0", "reward2Qty": 0, "reward3": "0", "reward3Qty": 0, "reward4": "0", "reward4Qty": 0, "reward5": "0", "reward5Qty": 0, "reward6": "0", "reward6Qty": 0, "reward7": "0", "reward7Qty": 0, "reward8": "0", "reward8Qty": 0, "reward9": "0", "reward9Qty": 0, "reward10": "0", "reward10Qty": 0 },
@@ -3647,4 +3647,4 @@
 { "rewardId": "1030505030010900", "reward1": "510000004201", "reward1Qty": 1, "reward2": "0", "reward2Qty": 0, "reward3": "0", "reward3Qty": 0, "reward4": "0", "reward4Qty": 0, "reward5": "0", "reward5Qty": 0, "reward6": "0", "reward6Qty": 0, "reward7": "0", "reward7Qty": 0, "reward8": "0", "reward8Qty": 0, "reward9": "0", "reward9Qty": 0, "reward10": "0", "reward10Qty": 0 },
 { "rewardId": "1030505030011000", "reward1": "1030505030011100", "reward1Qty": 1, "reward2": "0", "reward2Qty": 0, "reward3": "0", "reward3Qty": 0, "reward4": "0", "reward4Qty": 0, "reward5": "0", "reward5Qty": 0, "reward6": "0", "reward6Qty": 0, "reward7": "0", "reward7Qty": 0, "reward8": "0", "reward8Qty": 0, "reward9": "0", "reward9Qty": 0, "reward10": "0", "reward10Qty": 0 },
 { "rewardId": "1030505030011100", "reward1": "510000004201", "reward1Qty": 1, "reward2": "0", "reward2Qty": 0, "reward3": "0", "reward3Qty": 0, "reward4": "0", "reward4Qty": 0, "reward5": "0", "reward5Qty": 0, "reward6": "0", "reward6Qty": 0, "reward7": "0", "reward7Qty": 0, "reward8": "0", "reward8Qty": 0, "reward9": "0", "reward9Qty": 0, "reward10": "0", "reward10Qty": 0 },
-]}
+]

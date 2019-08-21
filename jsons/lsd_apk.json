@@ -1,4 +1,4 @@
-{
+[{
 'country_en.lsd': {
 'IS': 'Iceland',
 'IE': 'Ireland',
@@ -74,14 +74,14 @@
 'TW': 'Taiwan',
 'JP': 'Japan',
 'ZZ': 'Other',
-}, 
+}], 
 'error_dialog_title_en.lsd': {
 'error': 'Error',
 'force_update': 'App Update',
 'maintenance': 'Maintenance',
 'asset_update': 'Update',
 'player_ban': 'Account Suspended',
-}, 
+}], 
 'trainer_description_en.lsd': {
 '10002000000': 'This highly curious, active young Trainer cherishes the\nbonds she has with her Pokémon. She is always doting\non them.',
 '10005000000': 'This cool beauty who uses Ice-type Pokémon is one of\nthe Elite Four. She likes cute things and has many plushies\nat home.',
@@ -151,7 +151,7 @@
 '10101000000': 'This high-spirited young lady likes to stand out and has\na strong sense of justice. Her dream is to have many\nbattles with Trainers all over the world.',
 '18000000000': 'This Trainer class is for new Trainers who are ready to\ntake their important first steps toward becoming a strong\nTrainer on a new adventure with their Pokémon. ',
 '10110000000': 'A Gym Leader known as the Tomboyish Mermaid,\nshe has an upbeat personality but also acts tough\nand takes rules very seriously.',
-}, 
+}], 
 'trainer_name_en.lsd': {
 'ch0002': 'Lyra',
 'ch0004': 'Hilda',
@@ -250,7 +250,7 @@
 'ch0105': 'Camilla',
 'ch8000': '',
 'ch0110': 'Misty',
-}, 
+}], 
 'common_widget_en.lsd': {
 'common_widget/cell_001': 'Lv.',
 'common_widget/cell_002': '',
@@ -451,7 +451,7 @@
 'common_widget/purchase_003': 'You can change your preferences at any time\nusing the Settings menu.',
 'common_widget/purchase_004': 'Notification settings have been enabled\nfor this device. You will be notified\nwhen the gems purchased in a single\nmonth reach or exceed 3,000 gems,\n6,000 gems, or 10,000 gems, as well\nas every time 20,000 gems beyond\nthat are purchased.',
 'common_widget/template_001': 'Sync Pairs',
-}, 
+}], 
 'error_dialog_contents_en.lsd': {
 'error_dialog_contents/fatal': 'An error has occurred.\nRestarting the game.',
 'error_dialog_contents/retry': 'Please check your connection\nand try again.',
@@ -504,7 +504,7 @@
 'error_dialog_contents/30103': 'This Nintendo Account is logged in on\nanother device. Logging in again on\nthis device.',
 'error_dialog_contents/30104': 'The time on your device is different\nthan the actual time. Please correct\nyour time settings. Closing the app.',
 'error_dialog_contents/30105': 'There is no save data for this account.\nPlease delete and reinstall the app.\nClosing the app.',
-}, 
+}], 
 'home_en.lsd': {
 'home/quest_list_001': 'Main Story',
 'home/quest_list_002': 'Events',
@@ -663,7 +663,7 @@
 'home/app_review_005': 'Contact us',
 'home/attention_download_001': 'Download',
 'home/attention_download_002': 'The application must restart in order to\ndownload the main story data.',
-}, 
+}], 
 'shop_en.lsd': {
 'shop/shop_top_001': 'Shop',
 'shop/shop_top_003': 'Sync Pair Scout',
@@ -828,7 +828,7 @@
 'shop/deck_item_sale_013': 'Exchange Complete',
 'shop/deck_item_sale_014': 'You exchanged your gear!',
 'shop/deck_item_sale_015': 'OK',
-}, 
+}], 
 'system_en.lsd': {
 'system/remaining_days': '[Digit:3digits ] more day(s)',
 'system/minutes_ago': '[Digit:2digits ] minute(s) ago',
@@ -837,7 +837,7 @@
 'system/more_than_days_ago': 'more than [Digit:2digits ] day(s) ago',
 'system/until_time': 'Ends [Name:DateTime ]',
 'system/title_name': 'Pokémon Masters',
-}, 
+}], 
 'title_en.lsd': {
 'title/assetdl_001': 'No. [Digit:3digits ] [Name:TrainerName ]',
 'title/assetdl_002': '',
@@ -1010,5 +1010,5 @@
 'title/language_007': '한국어',
 'title/language_008': '简体中文',
 'title/language_009': '繁體中文',
-}, 
+}], 
 }

@@ -1,4 +1,4 @@
-{ "entries": [
+[
 { "itemId": "10002000000", "itemType": 1 },
 { "itemId": "10005000000", "itemType": 1 },
 { "itemId": "10006000000", "itemType": 1 },
@@ -657,4 +657,4 @@
 { "itemId": "1030505030010900", "itemType": 3 },
 { "itemId": "1030505030011000", "itemType": 3 },
 { "itemId": "1030505030011100", "itemType": 3 },
-]}
+]

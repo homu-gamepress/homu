@@ -1,4 +1,4 @@
-{ "entries": [
+[
 { "questId": "30090000020", "u2": [ ], "u3": 0, "battleId": [ ], "u5": [ "-1" ], "background": "s010_200_Pokecen.level" },
 { "questId": "1030100000000100", "u2": [ ], "u3": 0, "battleId": [ ], "u5": [ "-1" ], "background": "s003_200_System.level" },
 { "questId": "1030100000010100", "u2": [ ], "u3": 0, "battleId": [ ], "u5": [ "-1" ], "background": "s030_200_Downtown.level" },
@@ -343,4 +343,4 @@
 { "questId": "1030505030010900", "u2": [ 10, 2, 4 ], "u3": 2, "battleId": [ "1030500010109011" ], "u5": [ "1030500010109011" ], "background": "s045_403_SubArena.level" },
 { "questId": "1030505030011000", "u2": [ 13, 10, 3 ], "u3": 2, "battleId": [ "1030500010110011" ], "u5": [ "1030500010110011" ], "background": "s045_403_SubArena.level" },
 { "questId": "1030505030011100", "u2": [ 13, 10, 3 ], "u3": 2, "battleId": [ "1030500010111011" ], "u5": [ "1030500010111011" ], "background": "s045_403_SubArena.level" },
-]}
+]

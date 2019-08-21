@@ -1,4 +1,4 @@
-{ "entries": [
+[
 { "dropTableId": 0, "u2": 1, "itemProb": 100, "itemId": [ ], "itemCount": [ ], "u6": [ ], "u7": 1 },
 { "dropTableId": 1, "u2": 1, "itemProb": 10, "itemId": [ "510000004201" ], "itemCount": [ 1 ], "u6": [ 100 ], "u7": 1 },
 { "dropTableId": 2, "u2": 1, "itemProb": 20, "itemId": [ "510000004201" ], "itemCount": [ 1 ], "u6": [ 100 ], "u7": 1 },
@@ -1178,4 +1178,4 @@
 { "dropTableId": 10053, "u2": 1, "itemProb": 100, "itemId": [ "520000000001" ], "itemCount": [ 1 ], "u6": [ 100 ], "u7": 1 },
 { "dropTableId": 10054, "u2": 1, "itemProb": 100, "itemId": [ "520000000001" ], "itemCount": [ 1 ], "u6": [ 100 ], "u7": 1 },
 { "dropTableId": 10055, "u2": 1, "itemProb": 100, "itemId": [ "520000000001" ], "itemCount": [ 1 ], "u6": [ 100 ], "u7": 1 },
-]}
+]

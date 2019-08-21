@@ -1,4 +1,4 @@
-{ "entries": [
+[
 { "questId": "0", "Type": "completionReward", "rewardId": 0 },
 { "questId": "2001", "Type": "completionReward", "rewardId": 0 },
 { "questId": "21000200", "Type": "firstReward", "rewardId": 1 },
@@ -532,4 +532,4 @@
 { "questId": "1030505030011000", "Type": "firstReward", "rewardId": 361 },
 { "questId": "1030505030011100", "Type": "completionReward", "rewardId": 376 },
 { "questId": "1030505030011100", "Type": "firstReward", "rewardId": 362 },
-]}
+]

@@ -1,4 +1,4 @@
-{
+[{
 'abnormal_state_en.lsd': {
 '101': 'Physical Moves',
 '102': 'Attack Down',
@@ -57,7 +57,7 @@
 '318': 'Unity Disruption',
 '319': 'Chain Reduction',
 '320': 'Weather Lock',
-}, 
+}], 
 'banner_text_en.lsd': {
 '700000101': 'Trial Scout',
 '700000102': 'Sync Pair Scout',
@@ -77,14 +77,14 @@
 '21108005': 'Take Down Marlon!',
 '15108001': 'Launch Celebration\nSpecial Rally!',
 '16108001': 'One-time-only\ngem special!',
-}, 
+}], 
 'bardge_item_name_en.lsd': {
 '730000000010': 'Tranquility\nBadge',
 '730000000020': 'Freedom\nBadge',
 '730000000030': 'Patience\nBadge',
 '730000000040': 'Harmony\nBadge',
 '730000000050': 'Pride\nBadge',
-}, 
+}], 
 'battle_message_en.lsd': {
 '307': '[Name:PokemonName ]’s HP is full!',
 '311': 'It doesn’t affect [Name:PokemonName ]...',
@@ -189,13 +189,13 @@
 '1548': 'Those [Digit:1digit ] Pokémon’s critical-hit rates didn’t lower!',
 '1549': 'The stats of those [Digit:1digit ] Pokémon were not lowered!',
 '1996': 'The move gauge was refreshed!',
-}, 
+}], 
 'breakthrough_item_description_en.lsd': {
 '5100': 'Used for learning moves and passive skills\nand for unlocking sync pair level caps.',
 '5101': 'Used for unlocking sync pair level caps.',
 '5102': 'Used for learning moves\nand passive skills.',
 '5103': 'Used to participate in sync pair stories\nabout Pokémon Evolution.',
-}, 
+}], 
 'breakthrough_item_name_en.lsd': {
 '510000001101': 'Buff Blend',
 '510000001102': 'Great Buff Blend',
@@ -225,10 +225,10 @@
 '510000004304': '',
 '510000004305': '',
 '510000004306': '',
-}, 
+}], 
 'campaign_name_en.lsd': {
 'inventory_campaign_anniv_release': 'Launch Celebration',
-}, 
+}], 
 'debug_story_quest_name_en.lsd': {
 'quest_title_1030100000000100': '',
 'quest_title_1030100000010100': '',
@@ -915,13 +915,13 @@
 'quest_group_title_9999999': '',
 'quest_group_detail_999999': '',
 'quest_group_detail_9999999': '',
-}, 
+}], 
 'deck_item_description_en.lsd': {
 '8100': 'Equip to enhance your team.',
-}, 
+}], 
 'deck_item_lvup_item_description_en.lsd': {
 '8200': 'Used to level up gear.',
-}, 
+}], 
 'deck_item_lvup_item_name_en.lsd': {
 '820000000001': '1★ Normal Cloth',
 '820000000002': '1★ Fire Cloth',
@@ -965,7 +965,7 @@
 '820000000204': '2★ Upgrade Thread',
 '820000000205': '2★ Upgrade Scissors',
 '820000000206': '2★ Upgrade Needle',
-}, 
+}], 
 'deck_item_name_en.lsd': {
 '810001020101': '1★ Normal Bandanna',
 '810001020102': '1★ Fire Bandanna',
@@ -1075,7 +1075,7 @@
 '810002030316': '2★ Dark Pin',
 '810002030317': '2★ Steel Pin',
 '810002030318': '2★ Fairy Pin',
-}, 
+}], 
 'deck_item_param_description_en.lsd': {
 'hp_updown': 'HP [Digit:5digits ]',
 'atk_updown': 'Attack [Digit:5digits ]',
@@ -1083,65 +1083,65 @@
 'sp_atk_updown': 'Sp. Atk [Digit:5digits ]',
 'sp_def_updown': 'Sp. Def [Digit:5digits ]',
 'spd_updown': 'Speed [Digit:5digits ]',
-}, 
+}], 
 'event_item_description_en.lsd': {
 '600000': 'Can be exchanged for items in the shop\nduring events.',
-}, 
+}], 
 'event_item_name_en.lsd': {
 '750000000002': 'Voucher A',
 '750000000003': 'Voucher B',
 '750000000004': 'Voucher D',
 '750000000005': 'Voucher C',
-}, 
+}], 
 'event_legend_header_description_en.lsd': {
 '': '',
-}, 
+}], 
 'event_legend_header_title_en.lsd': {
 '': '',
-}, 
+}], 
 'event_name_en.lsd': {
 '600000': 'Story: Reach for the Top',
 '610013': 'Rock-Type Training Event',
 '610003': 'Water-Type Training Event',
 '610005': 'Grass-Type Training Event',
-}, 
+}], 
 'field_cheer_en.lsd': {
 '3': 'Your sync pairs’ Attack and Defense\nwere temporarily raised!',
 '4': 'Your sync pairs’ Sp. Atk and Sp. Def\nwere temporarily raised!',
 '5': 'Your sync pairs’ Speed and evasiveness\nwere temporarily raised!',
 '6': 'Your sync pairs’ critical-hit rate and\naccuracy were temporarily raised!',
 '7': 'All of your sync pairs’ stats\nwere temporarily raised!',
-}, 
+}], 
 'field_item_description_en.lsd': {
 '720000000100': '',
 '720000000200': '',
 '720000000300': '',
-}, 
+}], 
 'field_item_name_en.lsd': {
 '720000000100': '',
 '720000000200': '',
 '720000000300': '',
-}, 
+}], 
 'gamecenter_info_en.lsd': {
-}, 
+}], 
 'gamecenter_title_en.lsd': {
-}, 
+}], 
 'item_category_name_en.lsd': {
 '1': 'Sync Pair Items',
 '2': '★ Power-Ups',
 '3': 'Gear-Upgrade Items',
 '4': 'Other',
 '5': 'Event Items',
-}, 
+}], 
 'login_bonus_name_en.lsd': {
 'inventory_campaign_anniv_release': 'Launch Celebration\nLog-In Bonus',
 'regular_login_bonus': 'General Log-In Bonus',
-}, 
+}], 
 'lottery_description_en.lsd': {
 'tutorial_gacha1': 'This Johto Gym Leader\nparalyzes her opponents\nwith Body Slam!',
 'feature_GuaranteeRarity5_gacha_Normal_01': 'One time only!\n5★ guaranteed!',
 'feature_limited_gacha_Normal_01': '',
-}, 
+}], 
 'lottery_name_en.lsd': {
 'tutorial_gacha1': '',
 'feature_GuaranteeRarity5_gacha_Normal_01': '5★-Guaranteed Launch Celebration Scout',
@@ -1150,14 +1150,14 @@
 'event_M1_4W_Normal_01': 'Hilbert Spotlight Scout',
 'event_M1_3W_Normal_01': 'Lyra Spotlight Scout',
 'feature_limited_gacha_Normal_01': 'Sync Pair Scout',
-}, 
+}], 
 'lottery_pickup_description_en.lsd': {
 '10021000000': '',
 'event_M1_1W_Normal_01_1': 'This Kanto legend hits all his\nopponents at once with Air Cutter!',
 'event_M1_2W_Normal_01_1': 'This island kahuna of Alola\ndevastates with Stone Edge!',
 'event_M1_4W_Normal_01_1': 'This savvy Trainer from Unova \npowers up his allies’ attacks!',
 'event_M1_3W_Normal_01_1': 'This skilled Trainer from Johto\ndefends allies with Light Screen!',
-}, 
+}], 
 'mission_detail_en.lsd': {
 '1': 'Log in ×[Digit:3digits ] (once per day)',
 '2': 'Befriend different sync pairs ×[Digit:3digits ]',
@@ -1178,13 +1178,13 @@
 '18': 'Obtain coins ×[Digit:9digits ]',
 '21': 'Complete an area that has a battle',
 '19': 'Win a co-op battle',
-}, 
+}], 
 'mission_group_order_requirement_en.lsd': {
 '3': 'Requirement:\n[Name:TrainerPass ]',
-}, 
+}], 
 'mission_order_requirement_en.lsd': {
 '3': 'Mission [Digit:3digits ] must first be completed.',
-}, 
+}], 
 'mission_requirement_en.lsd': {
 '1': 'Log in to the game',
 '2': 'Join up with a sync pair',
@@ -1205,7 +1205,7 @@
 '18': 'Get coins',
 '21': 'Complete an area with a battle',
 '19': 'Win a co-op battle',
-}, 
+}], 
 'monster_description_en.lsd': {
 '20000100': 'Bulbasaur can be seen napping in bright sunlight. There is a seed on its back. By soaking up the sun’s rays, the seed grows progressively larger.',
 '20000200': 'There is a bud on this Pokémon’s back. To support its weight, Ivysaur’s legs and trunk grow thick and strong. If it starts spending more time lying in the sunlight, it’s a sign that the bud will bloom into a large flower soon.',
@@ -1462,7 +1462,7 @@
 '20082921': 'The sharp rocks in its mane can cut like knives. Lycanroc wears its prey down by degrees before finishing them off.',
 '20082922': 'It has no problem ignoring orders it doesn’t like. It doesn’t seem to mind getting hurt at all—as long as it can finish off its opponent.',
 '20082301': 'Each of its grains of sand has its own will. Palossand eats small Pokémon and siphons away their vital essence while they’re still alive.',
-}, 
+}], 
 'monster_name_en.lsd': {
 '20000100': 'Bulbasaur',
 '20000200': 'Ivysaur',
@@ -1719,7 +1719,7 @@
 '20082921': 'Lycanroc',
 '20082922': 'Lycanroc',
 '20082301': 'Palossand',
-}, 
+}], 
 'motif_type_name_en.lsd': {
 '0': '—',
 '1': 'Normal',
@@ -1740,7 +1740,7 @@
 '16': 'Dark',
 '17': 'Steel',
 '18': 'Fairy',
-}, 
+}], 
 'move_description_en.lsd': {
 '2': 'Critical hits land more easily.',
 '7': 'Has a very small chance of leaving the target burned.',
@@ -2142,7 +2142,7 @@
 '75800': 'No additional effect.',
 '75900': 'No additional effect.',
 '77000': 'The more the user’s Sp. Def has been raised, the greater the power of this move.',
-}, 
+}], 
 'move_name_en.lsd': {
 '2': 'Karate Chop',
 '7': 'Fire Punch',
@@ -2544,10 +2544,10 @@
 '75800': 'Sygnature Rock-Solid\nStone Edge',
 '75900': 'Thunder of\nNewfound Passion',
 '77000': 'Tomboyish Mermaid\nBubble Beam',
-}, 
+}], 
 'move_short_name_en.lsd': {
 '71900': 'Crashdown\nAqua Jet',
-}, 
+}], 
 'move_tag_en.lsd': {
 '1': 'Forced Switch',
 '2': 'Sudden Switch',
@@ -2561,7 +2561,7 @@
 '512': 'Absorbs',
 '1024': 'Continues',
 '2048': 'Recoil',
-}, 
+}], 
 'move_target_type_en.lsd': {
 '0': 'An ally',
 '1': 'All allies',
@@ -2573,7 +2573,7 @@
 '7': 'Allied side',
 '8': 'Opponents’ side',
 '9': 'Entire field',
-}, 
+}], 
 'other_item_description_en.lsd': {
 '4100': 'Can be used in the shop.',
 '4500': 'Can be exchanged for coins in the shop.',
@@ -2581,7 +2581,7 @@
 '6600': 'Used to participate in sync pair stories\nabout Pokémon Evolution.',
 '6700': 'Extends the move gauge by one slot.',
 '5300': '',
-}, 
+}], 
 'other_item_name_en.lsd': {
 '40000000001': 'Coins',
 '410000000001': 'Gems',
@@ -2591,7 +2591,7 @@
 '670000000001': 'Move Gauge Slot',
 '660000000001': 'Evolution Shard',
 '660000000002': 'Evolution Crystal',
-}, 
+}], 
 'paid_virtual_currency_en.lsd': {
 '1001': '',
 '1002': '',
@@ -2601,7 +2601,7 @@
 '2108002': 'One-time special: 3,400 gems',
 '2108003': 'One-time special: 5,200 gems',
 '3000001': 'Monthly special: 3,400 gems',
-}, 
+}], 
 'passive_skill_description_en.lsd': {
 '17010101': 'Prevents the Pokémon from getting poisoned or badly poisoned.',
 '17010201': 'Prevents the Pokémon from getting burned.',
@@ -3067,7 +3067,7 @@
 '24011701': 'Reduces damage when the Pokémon is attacked by Steel-type moves.',
 '24011801': 'Reduces damage when the Pokémon is attacked by Fairy-type moves.',
 '99010101': 'Changes to Blade Forme when the Pokémon attacks. Changes to Shield Forme when the Pokémon uses King’s Shield or switches out.',
-}, 
+}], 
 'passive_skill_name_en.lsd': {
 '17010101': 'Antitoxin',
 '17010201': 'Flameproof',
@@ -3533,15 +3533,15 @@
 '24011701': 'Steel Guard',
 '24011801': 'Fairy Guard',
 '99010101': 'Stance Change',
-}, 
+}], 
 'product_en.lsd': {
 'activity_booster.name': '',
-}, 
+}], 
 'role_type_name_en.lsd': {
 '1': 'Strike',
 '2': 'Tech',
 '3': 'Support',
-}, 
+}], 
 'shop_legal_en.lsd': {
 'specified_commercial_transactions_law_01': 'Information regarding Commercial Transactions',
 'specified_commercial_transactions_law_02': 'Information regarding Commercial Transactions',
@@ -3568,13 +3568,13 @@
 'act_on_settlement_12': 'Information regarding Gems',
 'act_on_settlement_99': 'Information regarding Gems',
 'payment_amount_cap': '',
-}, 
+}], 
 'side_npc_item_description_en.lsd': {
 '6401': '',
-}, 
+}], 
 'side_npc_item_name_en.lsd': {
 '640000000001': '',
-}, 
+}], 
 'speaker_name_en.lsd': {
 'speaker_011': 'Brock Fan #1',
 'speaker_012': 'Brock Fan #2',
@@ -3586,7 +3586,7 @@
 'speaker_107': 'Bruno’s Apprentice',
 'speaker_108': 'Mystery-Loving Girl',
 'speaker_999': '???',
-}, 
+}], 
 'story_quest_name_en.lsd': {
 'quest_title_1030100000000100': 'The Adventure Begins',
 'quest_title_1030100000010100': 'Trouble in Centra City',
@@ -4267,9 +4267,9 @@
 'quest_group_detail_10100000000': '',
 'quest_group_detail_10101000000': '',
 'quest_group_detail_10110000000': '',
-}, 
+}], 
 'story_quest_subtitle_en.lsd': {
-}, 
+}], 
 'trainer_acquisition_message_en.lsd': {
 'pvoice_ch0021_00_green/system001': 'Hey, I’m Blue! Whenever I see a strong Trainer,\nI just have to battle them. Nice to meet you!',
 'pvoice_ch0006_00_oba/system001': 'The name’s Flint! I’m one of the Sinnoh\nPokémon League’s Elite Four!\nAnd let me tell ya, my heart’s always on fire!',
@@ -4338,21 +4338,21 @@
 'pvoice_ch0007_00_acerola/system001': 'Hiya, I’m Acerola! I’m a member of the Alola\nElite Four, bringing an old royal touch to Pasio!',
 'pvoice_ch0014_01_cheren/system001': 'My name’s Cheren!\nI’m a Gym Leader and a teacher!\nPleasure to meet you.',
 'pvoice_ch0110_01_kasumi/system001': 'Have you heard of the Kanto Gym Leader they\ncall the Tomboyish Mermaid? That’s me, Misty!',
-}, 
+}], 
 'trainer_buildup_item_description_en.lsd': {
 '5500': 'Used to increase a sync pair’s\nnumber of ★s.',
-}, 
+}], 
 'trainer_buildup_item_name_en.lsd': {
 '3': '3★ Power-Up',
 '4': '4★ Power-Up',
 '5': '5★ Power-Up',
-}, 
+}], 
 'trainer_class_name_en.lsd': {
 '10000010000': '',
 '10000019999': '',
 '18000000000': 'Rookie',
 '18001000000': '',
-}, 
+}], 
 'trainer_variation_name_en.lsd': {
 'ch0069_00_elitem_01': 'Ace Trainer Ned',
 'ch0069_00_elitem_02': 'Ace Trainer Tyson',
@@ -4627,18 +4627,18 @@
 'ch0086_00_campm_51': 'Camper Russell',
 'ch0087_00_shitappam_00': 'Masked Man',
 'ch0088_00_shitappaf_00': 'Masked Woman',
-}, 
+}], 
 'trainer_verbose_name_en.lsd': {
 '10015010000': 'Sygna Suit Brock',
-}, 
+}], 
 'training_item_description_en.lsd': {
 '520000000001': 'Used for leveling up sync pairs.',
-}, 
+}], 
 'training_item_name_en.lsd': {
 '520000000001': '1★ Level-Up Manual',
 '520000000002': '2★ Level-Up Manual',
 '520000000003': '3★ Level-Up Manual',
-}, 
+}], 
 'unison_move_name_en.lsd': {
 '0': 'Unity Attack',
 '1': 'Normal\nUnity Attack',
@@ -4659,11 +4659,11 @@
 '16': 'Dark\nUnity Attack',
 '17': 'Steel\nUnity Attack',
 '18': 'Fairy\nUnity Attack',
-}, 
+}], 
 'ch0000_00_red_en.lsd': {
-}, 
+}], 
 'ch0001_00_kukui_en.lsd': {
-}, 
+}], 
 'ch0002_00_kotone_en.lsd': {
 'ch0002_00_kotone/0101_0701_01_10': 'Ah, [Name:PlayerNickname ]!\nI was waiting for you!',
 'ch0002_00_kotone/0101_0701_02_10': 'Exploring together with friends is\nway more fun than going it alone!',
@@ -4720,11 +4720,11 @@
 'ch0002_00_kotone/3004_0701_01_10': 'I feel like taking a nap, but it just seems like\nsuch a waste to...sleep.',
 'ch0002_00_kotone/3005_0701_01_10': 'I bet exploring at night would be fun, too!\nOh man, now I wanna head out!',
 'ch0002_00_kotone/3006_0701_01_10': 'Look at all the pretty stars!\nI bet trying to count them all would put\nyou to sleep in no time... *yawn*',
-}, 
+}], 
 'ch0003_00_calme_en.lsd': {
-}, 
+}], 
 'ch0004_00_toko_en.lsd': {
-}, 
+}], 
 'ch0005_00_kanna_en.lsd': {
 'ch0005_00_kanna/0101_0701_01_10': 'Listen, [Name:PlayerNickname ].\nJust like how thin ice on a lake \ngradually thickens...',
 'ch0005_00_kanna/0101_0701_02_10': 'it’s important to keep up gradual improvement.\nYou did well to come again today.',
@@ -4780,7 +4780,7 @@
 'ch0005_00_kanna/3004_0701_01_10': 'Everyone is getting more active...\nBut there are still some Pokémon that\nare zoning out...',
 'ch0005_00_kanna/3005_0701_01_10': 'My Pokémon were practicing their moves tonight.\nIt’s dark now, so watch out for all the ice.',
 'ch0005_00_kanna/3006_0701_01_10': 'Go to bed early, before you catch a cold. But if\nyou come down with a fever, I’ll cool you off.',
-}, 
+}], 
 'ch0006_00_oba_en.lsd': {
 'ch0006_00_oba/0101_0701_01_10': 'Yo! [Name:PlayerNickname ]!\nI could feel your fiery spirit!',
 'ch0006_00_oba/0101_0701_02_10': 'Let’s keep today burning hot!',
@@ -4838,7 +4838,7 @@
 'ch0006_00_oba/3004_0701_01_10': 'Don’t forget to eat lunch!\nYou’ll be sorry if you’re all burned out!',
 'ch0006_00_oba/3005_0701_01_10': 'Ah... I think I had too many battles today.\nI’m all burned out...',
 'ch0006_00_oba/3006_0701_01_10': 'Early to bed and early to rise.\nI want to be ready for tomorrow’s battles!',
-}, 
+}], 
 'ch0007_00_acerola_en.lsd': {
 'ch0007_00_acerola/0101_0701_01_10': 'Oh, hiya, [Name:PlayerNickname ]!\nI was hoping I’d see you today!',
 'ch0007_00_acerola/0101_0701_02_10': 'I’m so excited you’re here!\nTime for some fun!',
@@ -4896,7 +4896,7 @@
 'ch0007_00_acerola/3004_0701_01_10': 'Hey there! Did you eat yet? I’m ready to go out\nfor some battling if you’re done.',
 'ch0007_00_acerola/3005_0701_01_10': 'Nighttime is definitely my time!\nI’m ready to go out and have some more fun!',
 'ch0007_00_acerola/3006_0701_01_10': 'Evening!\nMy Pokémon and I really love dark nights!',
-}, 
+}], 
 'ch0008_00_erika_en.lsd': {
 'ch0008_00_erika/0101_0701_01_10': 'Hello...[Name:PlayerNickname ].\nIt’s so nice to see you.',
 'ch0008_00_erika/0101_0701_02_10': 'I’d been hoping I would run into you soon!',
@@ -4955,7 +4955,7 @@
 'ch0008_00_erika/3004_0701_01_10': 'Hello... The warm midday sun makes me sleepy.\nI’m afraid I might doze off...',
 'ch0008_00_erika/3005_0701_01_10': 'Oh dear...\nGood evening. I get sleepy at night...',
 'ch0008_00_erika/3006_0701_01_10': 'Good evening. It’s dark already.\nDo you have something you need to finish today?',
-}, 
+}], 
 'ch0009_00_senri_en.lsd': {
 'ch0009_00_senri/0101_0701_01_10': 'Hm? If it isn’t [Name:PlayerNickname ]!\nIt’s good to see you today.',
 'ch0009_00_senri/0101_0701_02_10': 'When I see how much you or my son has grown\nand accomplished, I can’t help but think I need\nto train more, too.',
@@ -5010,7 +5010,7 @@
 'ch0009_00_senri/3004_0701_01_10': 'Time sure can fly in the afternoon.\nBe careful not to waste too much of it.',
 'ch0009_00_senri/3005_0701_01_10': 'Days with you sure go by fast.\nMake sure to rest up for tomorrow.',
 'ch0009_00_senri/3006_0701_01_10': 'It’s already getting dark. Watch your step,\nand keep an eye out for nocturnal Pokémon.',
-}, 
+}], 
 'ch0010_00_maximum_en.lsd': {
 'ch0010_00_maximum/0101_0701_01_10': 'I’ve been waiting, [Name:PlayerNickname ]!\nCome on! The ring is calling us!',
 'ch0010_00_maximum/0101_0701_02_10': 'All right! Time to get pumped!\nCrash! Crash!',
@@ -5065,7 +5065,7 @@
 'ch0010_00_maximum/3004_0701_01_10': 'Hey! Great day, isn’t it?\nJust keep at it with all your energy!',
 'ch0010_00_maximum/3005_0701_01_10': 'I’m about ready to crash, but I’ve got more\ntraining to do! Just a little bit more!',
 'ch0010_00_maximum/3006_0701_01_10': 'Training before you sleep helps you start\ntomorrow with a splash!',
-}, 
+}], 
 'ch0011_00_homika_en.lsd': {
 'ch0011_00_homika/0101_0701_01_10': '[Name:PlayerNickname ]!\nI’ve been waiting for you!',
 'ch0011_00_homika/0101_0701_02_10': 'If you have some time, have a battle with me!\nI’m just bursting with energy!',
@@ -5119,7 +5119,7 @@
 'ch0011_00_homika/3004_0701_01_10': 'Managing a band and Pokémon\nmeans using time effectively!',
 'ch0011_00_homika/3005_0701_01_10': 'It’s all about timing—we gotta play our\nhearts out, till the last chord of the night!',
 'ch0011_00_homika/3006_0701_01_10': 'I was thinking about calling it a night.\nBut if you’re still good to go, then so am I!',
-}, 
+}], 
 'ch0012_00_corni_en.lsd': {
 'ch0012_00_corni/0101_0701_01_10': 'Time for Lady Korrina’s big appearance!\nAnd look! It’s [Name:PlayerNickname ]!\nLet’s make today a fun one!',
 'ch0012_00_corni/0101_0701_02_10': 'Come on, together now!\nLet’s make today a super fun day!',
@@ -5175,7 +5175,7 @@
 'ch0012_00_corni/3004_0701_01_10': 'Do you smell something tasty?\nOr is it just my imagination?',
 'ch0012_00_corni/3005_0701_01_10': 'Good evening!\nRoads at night are dangerous, so be careful!',
 'ch0012_00_corni/3006_0701_01_10': 'It’s night already.\nMaybe I’ll gaze at the moon.',
-}, 
+}], 
 'ch0013_00_hapu_en.lsd': {
 'ch0013_00_hapu/0101_0701_01_10': 'Oh! Been a while, [Name:PlayerNickname ]!\nYou look different, like you’re ready\nto go all out now!',
 'ch0013_00_hapu/0101_0701_02_10': 'I wonder what grand adventures await us today!\nCome, it’s time for some fun!\n',
@@ -5229,7 +5229,7 @@
 'ch0013_00_hapu/3004_0701_01_10': 'Alola!\nThis is how we greet people in my hometown.',
 'ch0013_00_hapu/3005_0701_01_10': 'On the island, things get quite sleepy\nonce the sun goes down. But I think I\ncan hold out a little longer today!',
 'ch0013_00_hapu/3006_0701_01_10': 'Good evening! I have heard that at night\nthe city never sleeps! But I am sleepy!',
-}, 
+}], 
 'ch0014_01_cheren_en.lsd': {
 'ch0014_01_cheren/0101_0701_01_10': 'Ah, [Name:PlayerNickname ]!\nLate for class again, I see. Wait, that’s not\nright. Sorry, force of habit! Good to see you!',
 'ch0014_01_cheren/0101_0701_02_10': 'I’ve been studying every day in hopes of\nbeing able to support you better in battle.',
@@ -5283,7 +5283,7 @@
 'ch0014_01_cheren/3004_0701_01_10': 'Afternoon! Now’s the perfect time to go out\nand do something fun!',
 'ch0014_01_cheren/3005_0701_01_10': 'Evening! Anything left on your to-do list?\nThe day’s almost over.',
 'ch0014_01_cheren/3006_0701_01_10': 'Evening! It’s pretty dark outside, so we should be\ncareful if we’re heading out.',
-}, 
+}], 
 'ch0015_00_takeshi_en.lsd': {
 'ch0015_00_takeshi/0101_0701_01_10': 'There you are, [Name:PlayerNickname ].\nAre you ready for a Pokémon battle?',
 'ch0015_00_takeshi/0101_0701_02_10': 'As long as you have the will to win,\nyou’ll be fine! Let’s make it another great day!',
@@ -5342,7 +5342,7 @@
 'ch0015_00_takeshi/3004_0701_01_10': 'It can be tempting to loaf around in the\nafternoon, but keeping your day balanced\nis the key to growing stronger!',
 'ch0015_00_takeshi/3005_0701_01_10': 'Wait, you’re heading out this late?\nDon’t overdo it, all right?\nSave some energy for tomorrow!',
 'ch0015_00_takeshi/3006_0701_01_10': 'Evening! Do you have some stuff you still need\nto get done? I’m happy to help out if I can.',
-}, 
+}], 
 'ch0015_01_takeshi_en.lsd': {
 'ch0015_01_takeshi/0101_0701_01_10': 'Hey there, [Name:PlayerNickname ]!\nYou’re in high spirits today, too, huh?',
 'ch0015_01_takeshi/0101_0701_02_10': 'All right! I have to get stronger, too!',
@@ -5393,7 +5393,7 @@
 'ch0015_01_takeshi/3004_0701_01_10': 'I always make sure I get a good meal or two\nin during the day. If not, my body feels slow\nand weak!',
 'ch0015_01_takeshi/3005_0701_01_10': 'You’re heading out now?\nMake sure you don’t stay up too late.',
 'ch0015_01_takeshi/3006_0701_01_10': 'Oh, hey there. You still awake, too?\nThe sky is pretty gorgeous tonight.\nYou should go check it out!',
-}, 
+}], 
 'ch0016_00_huuro_en.lsd': {
 'ch0016_00_huuro/0101_0701_01_10': '[Name:PlayerNickname ]!\nI’m so happy to see you!',
 'ch0016_00_huuro/0101_0701_02_10': 'I’m looking forward to another day of fun\nwith you!',
@@ -5448,9 +5448,9 @@
 'ch0016_00_huuro/3004_0701_01_10': 'Hiya! Isn’t the weather nice today? \nMaybe I should go clean my plane.',
 'ch0016_00_huuro/3005_0701_01_10': 'Evening! You’re working pretty late, huh?\nAre you staying up for something exciting?',
 'ch0016_00_huuro/3006_0701_01_10': 'Playing outside at night always gives me\nsuch a thrill! You have to be careful, though.\nIt’s kinda hard to see.',
-}, 
+}], 
 'ch0017_00_leaf_en.lsd': {
-}, 
+}], 
 'ch0018_00_chris_en.lsd': {
 'ch0018_00_chris/0101_0701_01_10': 'Oh, there you are, [Name:PlayerNickname ]!\nI’ve been waiting forever!',
 'ch0018_00_chris/0101_0701_02_10': 'I wonder what kind of new adventures we’ll\nhave today! Well, then we’re off!',
@@ -5511,7 +5511,7 @@
 'ch0018_00_chris/3004_0701_01_10': 'If I ever get info on a rare Pokémon,\nI’ll be sure to let you know, OK?',
 'ch0018_00_chris/3005_0701_01_10': 'Pokémon that appear only at night \nare sure difficult to meet.\n*yawn* I’m sleepy...',
 'ch0018_00_chris/3006_0701_01_10': 'Even on nights with no moonlight or stars, you\ncan still make out the Pokémon eyes in the dark.',
-}, 
+}], 
 'ch0019_00_yuki_en.lsd': {
 'ch0019_00_yuki/0101_0701_01_10': 'Oh, [Name:PlayerNickname ], I’ve been\nwaiting for you! Come on. Let’s get going!',
 'ch0019_00_yuki/0101_0701_02_10': 'I think we’re gonna meet lots \nof different Pokémon today!',
@@ -5573,7 +5573,7 @@
 'ch0019_00_yuki/3004_0701_01_10': 'There’s a lot of stuff on sale here,\nso you can always find something new.',
 'ch0019_00_yuki/3005_0701_01_10': 'I want to know more about Pokémon you\ncan only find at night!',
 'ch0019_00_yuki/3006_0701_01_10': 'Wow, the stars are beautiful tonight.\nMaybe we’ll see a shooting star!',
-}, 
+}], 
 'ch0020_00_toya_en.lsd': {
 'ch0020_00_toya/0101_0701_01_10': 'Hey, [Name:PlayerNickname ]!\nI figured you’d be coming soon.',
 'ch0020_00_toya/0101_0701_02_10': 'Battles seem more fun when you’re around.\nLet’s do our best today, too!',
@@ -5630,7 +5630,7 @@
 'ch0020_00_toya/3004_0701_01_10': 'Afternoon! Wanna go for a walk or something?\nOh, and while we’re at it,\nI also want to do some Pokémon battles.',
 'ch0020_00_toya/3005_0701_01_10': 'Good evening! It’s a nice night, right?\nQuiet, calm, and pleasant.',
 'ch0020_00_toya/3006_0701_01_10': 'Evening. A day goes by fast, huh.\nI’m not done having fun yet!',
-}, 
+}], 
 'ch0021_00_green_en.lsd': {
 'ch0021_00_green/0101_0701_01_10': 'Yo, [Name:PlayerNickname ]!\nYou came, too, huh?',
 'ch0021_00_green/0101_0701_02_10': 'I’ll battle you, if I have time!\nNot like I’d lose anyway!',
@@ -5685,7 +5685,7 @@
 'ch0021_00_green/3004_0701_01_10': 'Bonjour! Off for an adventure?\nThat’s fine and all, but don’t forget to have\na battle with me from time to time!',
 'ch0021_00_green/3005_0701_01_10': 'Fancy running into you at this hour! Taking a\nbreak is an important part of training, you know.',
 'ch0021_00_green/3006_0701_01_10': 'You’re still adventuring at this hour?\nI think I’m gonna call it a day myself.\nSmell ya later!',
-}, 
+}], 
 'ch0022_00_urup_en.lsd': {
 'ch0022_00_urup/0101_0701_01_10': 'So, we meet again!',
 'ch0022_00_urup/0101_0701_02_10': 'You’re glimmering like the shiniest shard of ice!',
@@ -5742,7 +5742,7 @@
 'ch0022_00_urup/3004_0701_01_10': 'Hey there. Pokémon battling is always\na good way to spend the day.',
 'ch0022_00_urup/3005_0701_01_10': 'You’re out and about awfully late.\nYou shouldn’t overexert yourself, you know.',
 'ch0022_00_urup/3006_0701_01_10': 'Goin’ out at this time of night?\nWell, just don’t stay up too late.',
-}, 
+}], 
 'ch0023_00_momi_en.lsd': {
 'ch0023_00_momi/0101_0701_01_10': 'Oh, hello, [Name:PlayerNickname ].\nI hope you’re faring well today.',
 'ch0023_00_momi/0101_0701_02_10': 'I’m feeling quite blissful today!\nThe happiness of my Pokémon\ntends to rub off on me.',
@@ -5801,7 +5801,7 @@
 'ch0023_00_momi/3004_0701_01_10': 'This is the time of day when my Pokémon\nand I have the most energy!',
 'ch0023_00_momi/3005_0701_01_10': 'Good evening!\nI think it’s almost bedtime.',
 'ch0023_00_momi/3006_0701_01_10': 'I know you’re working very hard,\nbut if you stay up too late,\nyou or your Pokémon could fall ill.',
-}, 
+}], 
 'ch0024_00_shikimi_en.lsd': {
 'ch0024_00_shikimi/0101_0701_01_10': '“And so she stared off into the sunset, patiently\nwaiting for the day [Name:PlayerNickname ]\nwould return once more.”',
 'ch0024_00_shikimi/0101_0701_02_10': 'Oh, [Name:PlayerNickname ]!\nWould you mind being my subject today? I’ve got\nsome new novel ideas that need brainstorming!',
@@ -5860,7 +5860,7 @@
 'ch0024_00_shikimi/3004_0701_01_10': 'This afternoon, I’ll brainstorm for my next\nbook while watching my Pokémon.',
 'ch0024_00_shikimi/3005_0701_01_10': 'Good evening! I do most of my writing at night.\nI seem to get all my good ideas around this time!',
 'ch0024_00_shikimi/3006_0701_01_10': 'I was up very late last night, writing.\nI plan on going to bed earlier tonight.',
-}, 
+}], 
 'ch0025_00_suzuna_en.lsd': {
 'ch0025_00_suzuna/0101_0701_01_10': 'Heya, [Name:PlayerNickname ]!\nHow’s your focus today?!',
 'ch0025_00_suzuna/0101_0701_02_10': 'Mine is on point, as always!',
@@ -5916,7 +5916,7 @@
 'ch0025_00_suzuna/3004_0701_01_10': 'Hello there! I feel happy all day\nwhen people say hello to me.',
 'ch0025_00_suzuna/3005_0701_01_10': 'Oh, hi! Ready for more?\nYou look pretty focused to me!',
 'ch0025_00_suzuna/3006_0701_01_10': 'Whew. I think I’m getting a little sleepy.\nMight be time to say good night while I still can!',
-}, 
+}], 
 'ch0026_00_akane_en.lsd': {
 'ch0026_00_akane/0101_0701_01_10': 'Hey, [Name:PlayerNickname ]!\nIt’s me, Whitney!',
 'ch0026_00_akane/0101_0701_02_10': 'I bet you’re happy, huh? After all, I’m such a\ncutie! I’m lookin’ forward to more\nadventures today!',
@@ -5973,7 +5973,7 @@
 'ch0026_00_akane/3004_0701_01_10': 'Hi! You doin’ all right?\nMe? I’m fine, I s’pose.',
 'ch0026_00_akane/3005_0701_01_10': 'Hey!\nI took a long nap, and now I’m wide awake!',
 'ch0026_00_akane/3006_0701_01_10': 'Hey! Nice night, ain’t it?',
-}, 
+}], 
 'ch0027_00_natane_en.lsd': {
 'ch0027_00_natane/0101_0701_01_10': 'Ah, there you are, [Name:PlayerNickname ]!\nWhere are you going to explore today?',
 'ch0027_00_natane/0101_0701_02_10': 'If there’s a meadow full of flowers, I bet\nthat’d make Grass-type Pokémon happy!',
@@ -6028,7 +6028,7 @@
 'ch0027_00_natane/3004_0701_01_10': 'We’re all set and ready to get going!\nLa la la la la la la!',
 'ch0027_00_natane/3005_0701_01_10': 'Good evening! Adventuring at night is fun, too.\nI mean, I’m not s-scared of the dark or anything.',
 'ch0027_00_natane/3006_0701_01_10': '*yawn*\nI’m getting drowsy! I can’t help it, though—\nall the plants are asleep, too!',
-}, 
+}], 
 'ch0028_00_ibuki_en.lsd': {
 'ch0028_00_ibuki/0101_0701_01_10': 'There you are, [Name:PlayerNickname ]!\nIt’s about time! I thought you’d never come.',
 'ch0028_00_ibuki/0101_0701_02_10': 'Heh heh, so...\nLet’s get exploring!',
@@ -6091,7 +6091,7 @@
 'ch0028_00_ibuki/3004_0701_01_10': 'Good weather today. I’m in a good mood,\nso I suppose I can spend time with you.',
 'ch0028_00_ibuki/3005_0701_01_10': 'Staying up late is bad for you.\nGet some rest while you can.',
 'ch0028_00_ibuki/3006_0701_01_10': 'You’re still awake? Well, I suppose I could\nkeep you company, if you insist.',
-}, 
+}], 
 'ch0029_00_asuna_en.lsd': {
 'ch0029_00_asuna/0101_0701_01_10': 'Hey, [Name:PlayerNickname ]!\nAre you burning to battle again today?',
 'ch0029_00_asuna/0101_0701_02_10': 'You know I’m all warmed up—touch me and\nyou might get burned! Well, let’s head out!',
@@ -6147,7 +6147,7 @@
 'ch0029_00_asuna/3004_0701_01_10': 'Good afternoon! How are you feeling?\nMe? You know I’m on fire!',
 'ch0029_00_asuna/3005_0701_01_10': 'Good evening!\nFire shines especially bright at night.\nUm, but it’s also important to rest!',
 'ch0029_00_asuna/3006_0701_01_10': 'Good, uh...evening...\nN-no, I wasn’t just dozing off!',
-}, 
+}], 
 'ch0030_00_ran_en.lsd': {
 'ch0030_00_ran/0101_0701_01_10': 'Hee hee hee, I’ve been waiting for you,\n[Name:PlayerNickname ]!',
 'ch0030_00_ran/0101_0701_02_10': 'Come on! Each day of training counts!\nYou have to give it your best today, too!',
@@ -6206,7 +6206,7 @@
 'ch0030_00_ran/3004_0701_01_10': 'Let’s play a lot and battle a lot!',
 'ch0030_00_ran/3005_0701_01_10': 'Good evening! What a beautiful moon tonight!',
 'ch0030_00_ran/3006_0701_01_10': 'I feel the power of the moon\nat this time of night.',
-}, 
+}], 
 'ch0031_00_fuu_en.lsd': {
 'ch0031_00_fuu/0101_0701_01_10': 'Heh heh heh, [Name:PlayerNickname ]!\nI had a feeling you’d come, so I was waiting.',
 'ch0031_00_fuu/0101_0701_02_10': 'I’m always looking forward to seeing you!',
@@ -6250,7 +6250,7 @@
 'ch0031_00_fuu/3004_0701_01_10': 'Hey! I always get hungry for\na snack around this time...',
 'ch0031_00_fuu/3005_0701_01_10': 'Good evening!\nYou’re here late. Don’t work too hard.',
 'ch0031_00_fuu/3006_0701_01_10': '*yawn*\nOh! No, I’m not tired! I’m fine!',
-}, 
+}], 
 'ch0032_00_yanagi_en.lsd': {
 'ch0032_00_yanagi/0101_0701_01_10': 'Pleasure to meet you, [Name:PlayerNickname ].\nBoth people and Pokémon have so many\nexperiences in their lives.',
 'ch0032_00_yanagi/0101_0701_02_10': 'Be sure to face the day with a strong spirit.',
@@ -6308,7 +6308,7 @@
 'ch0032_00_yanagi/3004_0701_01_10': 'How are you? Are you giving it your all?',
 'ch0032_00_yanagi/3005_0701_01_10': 'Good evening.\nThe day will soon be over. You’ve worked hard.',
 'ch0032_00_yanagi/3006_0701_01_10': 'And so another day passes. Be sure to treasure\nthe time you have tomorrow as well.',
-}, 
+}], 
 'ch0033_00_yakon_en.lsd': {
 'ch0033_00_yakon/0101_0701_01_10': 'Well, I’ll be! If it ain’t [Name:PlayerNickname ]!\nSo yer back, huh? Yer gutsy, kid. I like that!',
 'ch0033_00_yakon/0101_0701_02_10': 'Y’all better show me yer tough side today!',
@@ -6365,7 +6365,7 @@
 'ch0033_00_yakon/3004_0701_01_10': 'Don’t get me wrong.\nI got nothin’ against a good nap now and again.\nIt’s all about gettin’ that shut-eye!',
 'ch0033_00_yakon/3005_0701_01_10': 'Ah! Night.\nNow, let’s see who can stay awake longer...',
 'ch0033_00_yakon/3006_0701_01_10': 'I know nighttime’s for sleepin’, but ya know...\nit’s tough to lose so much time.',
-}, 
+}], 
 'ch0034_00_matsurika_en.lsd': {
 'ch0034_00_matsurika/0101_0701_01_10': 'Alola, [Name:PlayerNickname ]!\nHow goes it?',
 'ch0034_00_matsurika/0101_0701_02_10': 'I think I’m gonna start a new sketch.',
@@ -6426,7 +6426,7 @@
 'ch0034_00_matsurika/3004_0701_01_10': 'When the sun moves, so do the shadows.\nGotta be careful when you’re painting!',
 'ch0034_00_matsurika/3005_0701_01_10': 'I got super sucked into my drawing,\nand when I looked up it was already dark!',
 'ch0034_00_matsurika/3006_0701_01_10': '*yawn* I’m gettin’ kinda tired.\nI think I’m gonna call it a night.',
-}, 
+}], 
 'ch0035_00_matthies_en.lsd': {
 'ch0035_00_matthies/0101_0701_01_10': 'Hey, [Name:PlayerNickname ]!\nI’ve been waiting for you!',
 'ch0035_00_matthies/0101_0701_02_10': 'In for another training session with me today?\nLet’s see what we can make of it!',
@@ -6483,7 +6483,7 @@
 'ch0035_00_matthies/3004_0701_01_10': 'Hey! How’s it goin’, kid?\nBetter not be slackin’ off!',
 'ch0035_00_matthies/3005_0701_01_10': 'I don’t care if it gets dark. My Pokémon can\nlight a spark anywhere, no sweat.',
 'ch0035_00_matthies/3006_0701_01_10': 'Evenin’! I’d love to hit the rack,\nbut my Pokémon keep zapping me.',
-}, 
+}], 
 'ch0036_00_mamane_en.lsd': {
 'ch0036_00_mamane/0101_0701_01_10': 'Oh, hi, [Name:PlayerNickname ].\nYou heading out today?',
 'ch0036_00_mamane/0101_0701_02_10': 'I’ve got my new invention up and running...\nMaybe I’ll head out for a little bit, too.',
@@ -6541,7 +6541,7 @@
 'ch0036_00_mamane/3004_0701_01_10': 'Maybe I’ll exercise this afternoon.\nGotta think about my health at least a little bit.',
 'ch0036_00_mamane/3005_0701_01_10': 'I-I’m kinda nocturnal, so it’s about time\nfor me to start my experiments for the night!',
 'ch0036_00_mamane/3006_0701_01_10': 'I conserve energy at night by using the electricity\nmy Electric-type Pokémon have stored up.',
-}, 
+}], 
 'ch0037_00_fukuji_en.lsd': {
 'ch0037_00_fukuji/0101_0701_01_10': 'Ah, so yeh’ve come back today, too, eh,\n[Name:PlayerNickname ]?',
 'ch0037_00_fukuji/0101_0701_02_10': 'Let’s make today another beautiful\nverdant day!',
@@ -6598,7 +6598,7 @@
 'ch0037_00_fukuji/3004_0701_01_10': 'There are a lot of Trainers out around this hour.\nGo talk to ’em, battle ’em, and gain experience.',
 'ch0037_00_fukuji/3005_0701_01_10': 'Good evening! Yer workin’ hard.\nEven the grass and trees are asleep at this hour.',
 'ch0037_00_fukuji/3006_0701_01_10': 'A lot of people and Pokémon\nbecome more active at night.\nBut don’t stay up too late, yeh hear?',
-}, 
+}], 
 'ch0038_00_hyouta_en.lsd': {
 'ch0038_00_hyouta/0101_0701_01_10': 'Hey, [Name:PlayerNickname ]!\nI had a feeling you’d show up, so I thought I’d \nwait for you.',
 'ch0038_00_hyouta/0101_0701_02_10': 'Man, I’ve been waiting so long now,\nI’m practically a fossil!\nKidding, kidding...',
@@ -6656,7 +6656,7 @@
 'ch0038_00_hyouta/3004_0701_01_10': 'Hey there! You know it’s not good to\nstay cooped up inside all the time.\nEverybody needs a little sunshine!',
 'ch0038_00_hyouta/3005_0701_01_10': 'Hi there! It may be dark outside, but I’m still\nfull of energy! I’m used to being in the dark!\n',
 'ch0038_00_hyouta/3006_0701_01_10': 'Wow, it’s already dark out?\nTime for me to go dig some tunnels!',
-}, 
+}], 
 'ch0039_00_viola_en.lsd': {
 'ch0039_00_viola/0101_0701_01_10': 'Here again today, [Name:PlayerNickname ]?\nThat’s fantastic! Just fantastic!',
 'ch0039_00_viola/0101_0701_02_10': 'Let’s make today a great day and fill up a whole\nphoto album!',
@@ -6716,7 +6716,7 @@
 'ch0039_00_viola/3004_0701_01_10': 'During the day, everything gets so active!\nEven Pokémon!',
 'ch0039_00_viola/3005_0701_01_10': 'Good evening!\nNighttime photography can be tricky,\nbut you can snag some fantastic photos.',
 'ch0039_00_viola/3006_0701_01_10': 'You worked hard today! Get some good rest so\nwe can take another shot tomorrow!',
-}, 
+}], 
 'ch0040_00_hachiku_en.lsd': {
 'ch0040_00_hachiku/0101_0701_01_10': 'Hi there, [Name:PlayerNickname ].\nRunning into you is always a joy.',
 'ch0040_00_hachiku/0101_0701_02_10': 'Continue to train hard, my friend.\nSeize the heart of justice!',
@@ -6774,7 +6774,7 @@
 'ch0040_00_hachiku/3004_0701_01_10': 'Have you had lunch yet? You need to eat\nproperly to get the most from your training.',
 'ch0040_00_hachiku/3005_0701_01_10': 'Good evening. If you are tired, you should rest.\nNo need to put on an act.',
 'ch0040_00_hachiku/3006_0701_01_10': 'I’m impressed to see you out so late.\nTry not to lose too much sleep, all right?',
-}, 
+}], 
 'ch0041_00_nejiki_en.lsd': {
 'ch0041_00_nejiki/0101_0701_01_10': 'Whoa! Hi, [Name:PlayerNickname ]!\nYou’re here, just as I predicted!',
 'ch0041_00_nejiki/0101_0701_02_10': 'I’m so ecstatic you came, I’m crackling\nwith energy! Come on—time to start the day!',
@@ -6834,7 +6834,7 @@
 'ch0041_00_nejiki/3004_0701_01_10': 'Creating a plan and then executing it is\nthe most efficient way to spend the day.',
 'ch0041_00_nejiki/3005_0701_01_10': 'Good evening. How much do you know\nabout nocturnal Pokémon?',
 'ch0041_00_nejiki/3006_0701_01_10': 'Each night, I like to review my accomplishments\nof the day and evaluate my efficiency.',
-}, 
+}], 
 'ch0042_00_nagi_en.lsd': {
 'ch0042_00_nagi/0101_0701_01_10': 'Hello, [Name:PlayerNickname ]!\nI thought I saw you come in.',
 'ch0042_00_nagi/0101_0701_02_10': 'I can see the glow of adventure in\nyour eyes. Let it carry you like the\nwind beneath your wings!',
@@ -6887,7 +6887,7 @@
 'ch0042_00_nagi/3004_0701_01_10': 'Hello. I think it’s important to get some rest\nfrom time to time.',
 'ch0042_00_nagi/3005_0701_01_10': 'Don’t stay out too late—the night wind can\ngive you a nasty chill.',
 'ch0042_00_nagi/3006_0701_01_10': 'I just love to feel the gentle breeze after the\nsun goes down.',
-}, 
+}], 
 'ch0043_00_toki_en.lsd': {
 'ch0043_00_toki/0101_0701_01_10': 'Hey, [Name:PlayerNickname ]!\nRiding a wave today, too?',
 'ch0043_00_toki/0101_0701_02_10': 'Anything can be training! So what should we\ndo today?',
@@ -6943,7 +6943,7 @@
 'ch0043_00_toki/3004_0701_01_10': 'Weather’s nice and the sea is calm.\nIt’s a perfect afternoon for some training!',
 'ch0043_00_toki/3005_0701_01_10': 'It’s so nice listening to the sea at night\nand hearing the tide roll in.',
 'ch0043_00_toki/3006_0701_01_10': 'It’s nice to cool off a bit at night.\nMake sure you’re ready to hit the surf tomorrow!',
-}, 
+}], 
 'ch0044_00_tsutsuji_en.lsd': {
 'ch0044_00_tsutsuji/0101_0701_01_10': 'Oh, [Name:PlayerNickname ]!\nI was waiting for you to come!',
 'ch0044_00_tsutsuji/0101_0701_02_10': 'Let’s learn about Pokémon together again.',
@@ -7003,7 +7003,7 @@
 'ch0044_00_tsutsuji/3004_0701_01_10': 'I always get a bit sleepy in the afternoon.\nIf I’m not careful, I... *yawn*\nI might not be able to stop yawning.',
 'ch0044_00_tsutsuji/3005_0701_01_10': 'Hello! I suppose it’s time to rest for the night.\nI hope you had a productive day!',
 'ch0044_00_tsutsuji/3006_0701_01_10': 'If you push yourself too hard in the evening,\nit’ll affect how you feel the next day.\nMake sure to set aside some time to rest.',
-}, 
+}], 
 'ch0045_00_tsukushi_en.lsd': {
 'ch0045_00_tsukushi/0101_0701_01_10': 'Hiya, [Name:PlayerNickname ]! I’m so glad\nyou’re here! I’ve been waiting for you.',
 'ch0045_00_tsukushi/0101_0701_02_10': 'I wanted to show you the results of\nall the new research I’ve been doing!',
@@ -7056,7 +7056,7 @@
 'ch0045_00_tsukushi/3004_0701_01_10': 'Good afternoon! The weather is so nice.\nWe should go do some nature observation!',
 'ch0045_00_tsukushi/3005_0701_01_10': 'Gee, look at the time!\nSometimes I get so caught up in my research,\nI don’t realize how late it’s getting.',
 'ch0045_00_tsukushi/3006_0701_01_10': 'Wow, you’re out late tonight! Maybe I should put\nin a few extra hours of research myself!',
-}, 
+}], 
 'ch0046_00_datsura_en.lsd': {
 'ch0046_00_datsura/0101_0701_01_10': 'There you are! I was waiting for you,\n[Name:PlayerNickname ]!',
 'ch0046_00_datsura/0101_0701_02_10': 'We can’t get this party started without you!\nI’m counting on you today, too!',
@@ -7110,7 +7110,7 @@
 'ch0046_00_datsura/3004_0701_01_10': 'Hey! C’mon!\nLet’s get out there and do something!',
 'ch0046_00_datsura/3005_0701_01_10': 'Just ’cause it’s late doesn’t mean I’m out\nof energy. C’mon! Try to keep up!',
 'ch0046_00_datsura/3006_0701_01_10': 'You look like you’re still ready for more.\nC’mon! Let’s keep at it!',
-}, 
+}], 
 'ch0047_00_itsuki_en.lsd': {
 'ch0047_00_itsuki/0101_0701_01_10': 'I had a feeling that you would be coming here,\n[Name:PlayerNickname ].',
 'ch0047_00_itsuki/0101_0701_02_10': 'Well then, let’s start today’s training!',
@@ -7166,11 +7166,11 @@
 'ch0047_00_itsuki/3004_0701_01_10': 'My Pokémon loves to stare up at the sun.\nShe’ll do it all day if she can!',
 'ch0047_00_itsuki/3005_0701_01_10': 'It could be my imagination, but I feel like\nmy psychic powers intensify at night.',
 'ch0047_00_itsuki/3006_0701_01_10': 'My Pokémon never stops gazing at the world—\neven at night.',
-}, 
+}], 
 'ch0048_00_gima_en.lsd': {
-}, 
+}], 
 'ch0048_10_gima_en.lsd': {
-}, 
+}], 
 'ch0049_00_fuyo_en.lsd': {
 'ch0049_00_fuyo/0101_0701_01_10': 'Ahahaha! I’ve been waiting for you!\nGlad you’re here, [Name:PlayerNickname ]!',
 'ch0049_00_fuyo/0101_0701_02_10': 'Let’s deepen our bonds even more today!',
@@ -7225,7 +7225,7 @@
 'ch0049_00_fuyo/3004_0701_01_10': 'Already afternoon, huh?\nWish I could have tea with my grandma.',
 'ch0049_00_fuyo/3005_0701_01_10': 'Haha! What great timing!\nThere’s been a lot of buzz about you lately!',
 'ch0049_00_fuyo/3006_0701_01_10': 'It’s always so lively and fun here at night!\nBut I cherish our quiet conversations, too.',
-}, 
+}], 
 'ch0050_00_sumomo_en.lsd': {
 'ch0050_00_sumomo/0101_0701_01_10': 'Oh! Hi, [Name:PlayerNickname ]!\nMaylene here, reporting for duty!',
 'ch0050_00_sumomo/0101_0701_02_10': 'Let’s fuel up with some healthy food\nand get right to training today!',
@@ -7277,7 +7277,7 @@
 'ch0050_00_sumomo/3004_0701_01_10': 'Maybe I’ll splurge and have some snacks today!\nNah. I gotta stick to my training regimen!',
 'ch0050_00_sumomo/3005_0701_01_10': 'I discovered that if I do stretching at night,\nI end up sleeping better!',
 'ch0050_00_sumomo/3006_0701_01_10': 'If I’m hungry before I go to sleep at night,\nI dream about food. You can pig out all you\nwant in a dream, after all!',
-}, 
+}], 
 'ch0051_00_litchi_en.lsd': {
 'ch0051_00_litchi/0101_0701_01_10': 'Alola, [Name:PlayerNickname ]!\nYou got here at the perfect time!',
 'ch0051_00_litchi/0101_0701_02_10': 'I hope you have surprises and inspiration in your\nadventures today.',
@@ -7333,7 +7333,7 @@
 'ch0051_00_litchi/3004_0701_01_10': 'I’ve got some kahuna errands I need to\nrun today, but I kinda want to relax and\nhave fun with you instead!',
 'ch0051_00_litchi/3005_0701_01_10': 'Alola! Aren’t you a little young to be out and\nabout this late?',
 'ch0051_00_litchi/3006_0701_01_10': 'The stars are beautiful tonight,\nand the air is so clear here.',
-}, 
+}], 
 'ch0052_00_shizui_en.lsd': {
 'ch0052_00_shizui/0101_0701_01_10': '’Sup, [Name:PlayerNickname ]!\nI’ve been waitin’ for ya, dude!',
 'ch0052_00_shizui/0101_0701_02_10': 'I’m always down for a swim or\na Pokémon battle, dude.\nEither one’ll do!',
@@ -7388,7 +7388,7 @@
 'ch0052_00_shizui/3004_0701_01_10': 'Yo, what are you lazin’ around for?\nUp and at ’em!',
 'ch0052_00_shizui/3005_0701_01_10': 'Dude, it’s wicked out tonight!\nI’m down to head out one more time, if you are.',
 'ch0052_00_shizui/3006_0701_01_10': 'You’re out pretty late tonight.\nIt’s good to take breaks, you know!',
-}, 
+}], 
 'ch0053_00_zakuro_en.lsd': {
 'ch0053_00_zakuro/0101_0701_01_10': 'Hi, [Name:PlayerNickname ]!\nI’ve been looking forward to seeing you again.',
 'ch0053_00_zakuro/0101_0701_02_10': 'If there are walls we have to climb\ntoday, let’s climb them together!',
@@ -7442,7 +7442,7 @@
 'ch0053_00_zakuro/3004_0701_01_10': 'Hi! Let’s put on a smile and give it\nour best shot out there today.',
 'ch0053_00_zakuro/3005_0701_01_10': 'It’s getting pretty late, isn’t it.\nI admire you for training hard into the night.',
 'ch0053_00_zakuro/3006_0701_01_10': 'You’re certainly working hard tonight!\nJust be careful not to overdo it.',
-}, 
+}], 
 'ch0054_00_kyo_en.lsd': {
 'ch0054_00_kyo/0101_0701_01_10': '[Name:PlayerNickname ]!\nI have been waiting for you!',
 'ch0054_00_kyo/0101_0701_02_10': 'Fwahaha! Let us not waste a single day that\ncould be used to hone our skills!',
@@ -7499,7 +7499,7 @@
 'ch0054_00_kyo/3004_0701_01_10': 'Rigorous daily training is the key\nto securing glorious victory.',
 'ch0054_00_kyo/3005_0701_01_10': 'True ninjas adapt to the darkness and make it\ntheir home by becoming one with the night.',
 'ch0054_00_kyo/3006_0701_01_10': 'You still seem full of energy.\nThat is excellent! Continue your training!',
-}, 
+}], 
 'ch0055_00_gampi_en.lsd': {
 'ch0055_00_gampi/0101_0701_01_10': 'Well met, young [Name:PlayerNickname ]!\nI’ve been awaiting your arrival!',
 'ch0055_00_gampi/0101_0701_02_10': 'I shall be your shield today!\nDo not tarry, now! Let us be off!',
@@ -7558,7 +7558,7 @@
 'ch0055_00_gampi/3004_0701_01_10': 'Let us press forward honorably,\nwith the sun at our backs!',
 'ch0055_00_gampi/3005_0701_01_10': 'You are training hard—and it is well past dusk.\nRemember, rest is of equal import.',
 'ch0055_00_gampi/3006_0701_01_10': 'Only a little more to go!\nLet us press on with pride in our hearts!',
-}, 
+}], 
 'ch0056_00_kuchinashi_en.lsd': {
 'ch0056_00_kuchinashi/0101_0701_01_10': 'Well, if it isn’t [Name:PlayerNickname ].\nLooks like I don’t have to ask if you’re ready\nor not.',
 'ch0056_00_kuchinashi/0101_0701_02_10': 'Don’t push yourself too hard, all right?',
@@ -7608,7 +7608,7 @@
 'ch0056_00_kuchinashi/3004_0701_01_10': 'Hey there. If you’re up for Pokémon battles,\ndo them while it’s still light out.',
 'ch0056_00_kuchinashi/3005_0701_01_10': 'Careful now. The paths around here can be hard\nto see at night. I guess you’ll be fine with your\nPokémon, though.',
 'ch0056_00_kuchinashi/3006_0701_01_10': 'It’s already pretty late.\nOnce you’re done with whatever you’re doing,\nyou should head home and get some sleep.',
-}, 
+}], 
 'ch0057_00_shiba_en.lsd': {
 'ch0057_00_shiba/0101_0701_01_10': '[Name:PlayerNickname ]!\nI have been waiting for you.\nYou have a good glint in your eye today!',
 'ch0057_00_shiba/0101_0701_02_10': 'Make sure to keep training!\nHoo hah!',
@@ -7664,7 +7664,7 @@
 'ch0057_00_shiba/3004_0701_01_10': 'All that intense training earlier has\ngiven me a mean appetite...',
 'ch0057_00_shiba/3005_0701_01_10': 'Exposure to the cold night wind is no good.\nYou must take care of your body above all else.',
 'ch0057_00_shiba/3006_0701_01_10': 'Huh, it got dark so fast. Time to wash off\nthe day’s sweat with a dip in the hot springs.',
-}, 
+}], 
 'ch0058_00_kahiri_en.lsd': {
 'ch0058_00_kahiri/0101_0701_01_10': 'Ah, there you are, [Name:PlayerNickname ].\nIt looks like the winds are quite pleasant today.',
 'ch0058_00_kahiri/0101_0701_02_10': 'I am going to go train.\nWould you like to join me?',
@@ -7723,7 +7723,7 @@
 'ch0058_00_kahiri/3004_0701_01_10': 'There’s a nice breeze out there today.\nIt’s perfect weather for a round of golf.',
 'ch0058_00_kahiri/3005_0701_01_10': 'Hello. It feels like time to start my evening\ntraining. Maybe I’ll hit the putting green.',
 'ch0058_00_kahiri/3006_0701_01_10': 'Is it night already?\nThere aren’t enough hours in a day...',
-}, 
+}], 
 'ch0059_00_katsura_en.lsd': {
 'ch0059_00_katsura/0101_0701_01_10': 'Hah!\nWelcome back, [Name:PlayerNickname ]!\nI was waiting for you!',
 'ch0059_00_katsura/0101_0701_02_10': 'Help me think of questions for my next quiz!',
@@ -7778,7 +7778,7 @@
 'ch0059_00_katsura/3004_0701_01_10': 'Always make sure you eat proper meals! Using\nyour thinking cap burns calories, you know.',
 'ch0059_00_katsura/3005_0701_01_10': 'Hm? Does the darkness make you nervous?\nIn that case, I suppose my Pokémon could use\nits flame.',
 'ch0059_00_katsura/3006_0701_01_10': 'Such a wonderful night! Nights like these always\nseem to inspire the best quiz questions!',
-}, 
+}], 
 'ch0060_00_anzu_en.lsd': {
 'ch0060_00_anzu/0101_0701_01_10': 'Hey, [Name:PlayerNickname ]!\nI was getting tired of waiting for you!',
 'ch0060_00_anzu/0101_0701_02_10': 'Let’s train and get superduper stronger together!',
@@ -7833,7 +7833,7 @@
 'ch0060_00_anzu/3004_0701_01_10': 'I was just on my way to give\nmy father his lunch!',
 'ch0060_00_anzu/3005_0701_01_10': 'If your eyes aren’t used to the dark,\nI can guide you at night.',
 'ch0060_00_anzu/3006_0701_01_10': 'Moving through the shadows of night...\nMark of a true ninja!',
-}, 
+}], 
 'ch0061_00_kikuko_en.lsd': {
 'ch0061_00_kikuko/0101_0701_01_10': 'If it isn’t [Name:PlayerNickname ]!\nI’m so happy to see you here!',
 'ch0061_00_kikuko/0101_0701_02_10': 'Keep up with your training! If you do,\nyou’ll surely get stronger and stronger!',
@@ -7891,7 +7891,7 @@
 'ch0061_00_kikuko/3004_0701_01_10': 'How’s your training going?\nDon’t forget to take a break\nevery now and then.',
 'ch0061_00_kikuko/3005_0701_01_10': 'If you’re outside on a dark night, remember to\nwatch your back and never trust your shadow.',
 'ch0061_00_kikuko/3006_0701_01_10': 'My Pokémon’s energy always shoots up\nas soon as the sun goes down.',
-}, 
+}], 
 'ch0062_00_karin_en.lsd': {
 'ch0062_00_karin/0101_0701_01_10': 'Hmph. Back again, [Name:PlayerNickname ]?',
 'ch0062_00_karin/0101_0701_02_10': 'I’m hoping you’ll do your best to\nentertain me today.',
@@ -7948,7 +7948,7 @@
 'ch0062_00_karin/3004_0701_01_10': 'As soon as the clock hits noon,\nmy Pokémon is itching for battle.',
 'ch0062_00_karin/3005_0701_01_10': 'The starry sky is such a wonder.\nI could gaze up at it all night.',
 'ch0062_00_karin/3006_0701_01_10': 'I do love the night...but it’s never good for\na lady to miss her beauty sleep.',
-}, 
+}], 
 'ch0063_00_renbu_en.lsd': {
 'ch0063_00_renbu/0101_0701_01_10': 'There you are, [Name:PlayerNickname ].\nNow we start our training!',
 'ch0063_00_renbu/0101_0701_02_10': 'Practicing every day is the key to\nbecoming the ultimate Trainer!',
@@ -8006,7 +8006,7 @@
 'ch0063_00_renbu/3004_0701_01_10': 'Try to maintain good eating habits.\nA healthy body is a must for martial arts.',
 'ch0063_00_renbu/3005_0701_01_10': 'Night is the perfect time to reflect and\ncenter yourself. Meditation is yet another\npart of training...',
 'ch0063_00_renbu/3006_0701_01_10': 'Rest is an important part of training!\nDon’t overdo it. Take a break when you need to.',
-}, 
+}], 
 'ch0069_00_elitem_en.lsd': {
 'ch0069_00_elitem/2702_1031_01_10': 'All right! Go, Slaking!',
 'ch0069_00_elitem/2702_1031_02_10': 'I should’ve known that\nwouldn’t go well...',
@@ -8035,7 +8035,7 @@
 'ch0069_00_elitem/2704_0701_04_10': 'I don’t really feel any different, but, uh... \nI guess I’m a lot healthier!',
 'ch0069_00_elitem/2704_0702_01_10': 'Why does your move gauge charge quickly when\nyour Pokémon are fast?',
 'ch0069_00_elitem/2704_0702_02_10': 'Best not to think too hard about it! \nWhen you’re fast, it’s good! That’s all!',
-}, 
+}], 
 'ch0070_00_elitef_en.lsd': {
 'ch0070_00_elitef/2701_1031_01_10': 'Being an Ace Trainer\nis lonely...',
 'ch0070_00_elitef/2701_1031_02_10': 'I miss the days of\nbeing a rising star.',
@@ -8114,7 +8114,7 @@
 'ch0070_00_elitef/2863_0501_01_10': 'What? I lost?\nYou must have trained really hard for this...',
 'ch0070_00_elitef/2863_0601_01_10': 'I’m certain you’ll rise to the top in the PML.',
 'ch0070_00_elitef/2863_0601_02_10': 'Keep your focus and continue to work hard!',
-}, 
+}], 
 'ch0071_00_otona_en.lsd': {
 'ch0071_00_otona/2701_1031_01_10': 'You’ll lose in a flash if you\nlet your guard down.',
 'ch0071_00_otona/2701_1031_02_10': 'Nobody likes one-sided\nbattles.',
@@ -8183,7 +8183,7 @@
 'ch0071_00_otona/2863_0501_01_10': 'Strong and beautiful!',
 'ch0071_00_otona/2863_0601_01_10': 'So beautiful that I was entranced by you.',
 'ch0071_00_otona/2863_0601_02_10': 'Thank you for showing me such a\nsplendid bond.',
-}, 
+}], 
 'ch0072_00_kaipan_en.lsd': {
 'ch0072_00_kaipan/2702_1031_01_10': 'I always end up buying\nthings for my Pokémon...',
 'ch0072_00_kaipan/2702_1031_02_10': 'There’s just so many things\nI can buy, I can never \nmake up my mind.',
@@ -8228,7 +8228,7 @@
 'ch0072_00_kaipan/1903_0501_01_10': 'Did I just lose a Pokémon battle, even though\nI’m so good at them?',
 'ch0072_00_kaipan/1903_0601_01_10': 'Wow, you’re strong! I even trained with\nbackstroke and diving!',
 'ch0072_00_kaipan/1903_0601_02_10': 'Fine, I’ll swim with a Wailmer on my back\nfrom now on for training.',
-}, 
+}], 
 'ch0073_00_karate_en.lsd': {
 'ch0073_00_karate/2701_1031_01_10': 'A special move...',
 'ch0073_00_karate/2701_1031_02_10': 'I just don’t... Hi-yah!',
@@ -8295,7 +8295,7 @@
 'ch0073_00_karate/1903_0501_02_10': 'This can’t be happening!\nThis must be a dream!',
 'ch0073_00_karate/1903_0601_01_10': 'I was careless, but being half-asleep isn’t\na good enough excuse!',
 'ch0073_00_karate/1903_0601_02_10': 'I mean...I wasn’t asleep!\nI swear! It’s not true!',
-}, 
+}], 
 'ch0074_00_tanpan_en.lsd': {
 'ch0074_00_tanpan/2701_1031_01_10': 'These shorts are a badge\nof honor!',
 'ch0074_00_tanpan/2701_1031_02_10': 'A symbol of courage!',
@@ -8327,7 +8327,7 @@
 'ch0074_00_tanpan/2751_0701_05_10': 'I only have skirts, too.',
 'ch0074_00_tanpan/2751_0701_06_10': 'I’ve got an idea! Let’s trade!',
 'ch0074_00_tanpan/2751_0701_07_10': 'No way! Are you crazy?! \nYour skirt is all open and frilly!',
-}, 
+}], 
 'ch0075_00_bikini_en.lsd': {
 'ch0075_00_bikini/2702_1031_01_10': 'A beautiful thing can\nalso be poisonous.',
 'ch0075_00_bikini/2702_1031_02_10': 'Ahh...\nI wish I could feel them...',
@@ -8370,7 +8370,7 @@
 'ch0075_00_bikini/2751_0701_05_10': 'You sure?!',
 'ch0075_00_bikini/2751_0701_06_10': 'How have you not noticed that?\nAll of the Pokémon are with Trainers.',
 'ch0075_00_bikini/2751_0701_07_10': 'But then...I’m just a thief!',
-}, 
+}], 
 'ch0076_00_collector_en.lsd': {
 'ch0076_00_collector/2701_1031_01_10': 'I want to fill in the blank\nspots in my Pokédex.',
 'ch0076_00_collector/2701_1031_02_10': 'I just can’t find some\nLegendary Pokémon.',
@@ -8399,7 +8399,7 @@
 'ch0076_00_collector/2704_0701_04_10': 'Just thinking about it is making me crazy excited!',
 'ch0076_00_collector/2704_0702_01_10': 'I hope I can meet a Trainer who has a\nLegendary Pokémon!',
 'ch0076_00_collector/2704_0702_02_10': 'If you know anyone who has one, you have\nto tell me, OK?!',
-}, 
+}], 
 'ch0077_00_daisukim_en.lsd': {
 'ch0077_00_daisukim/2701_1031_01_10': 'Pikachu? Does anybody\nhave a Pikachu?',
 'ch0077_00_daisukim/2701_1031_02_10': 'I want to meet one and\nrub cheeks with it...',
@@ -8448,7 +8448,7 @@
 'ch0077_00_daisukim/2751_0701_05_10': 'You don’t have to catch them. If you become\nfriends with me, you can play with my Pokémon\nwhenever you like!',
 'ch0077_00_daisukim/2751_0701_06_10': 'You just opened my eyes!',
 'ch0077_00_daisukim/2751_0701_07_10': 'Come over to my house sometime.\nWe have plenty to talk about!',
-}, 
+}], 
 'ch0078_00_rangerf_en.lsd': {
 'ch0078_00_rangerf/2701_1031_01_10': 'This and that...\nOh, and that, too...',
 'ch0078_00_rangerf/2701_1031_02_10': 'Preparation is key\nbefore an adventure.',
@@ -8500,7 +8500,7 @@
 'ch0078_00_rangerf/1902_0501_01_10': 'Oh no, I got eaten!',
 'ch0078_00_rangerf/1902_0601_01_10': 'The law of the jungle is real. You have to be\ncreative if you want to beat stronger opponents.',
 'ch0078_00_rangerf/1902_0601_02_10': 'Better safe than sorry.',
-}, 
+}], 
 'ch0079_00_miniskirt_en.lsd': {
 'ch0079_00_miniskirt/2701_1031_01_10': 'So cute! So stylish!',
 'ch0079_00_miniskirt/2701_1031_02_10': 'Yup!\nI looked so cute just now!',
@@ -8554,7 +8554,7 @@
 'ch0079_00_miniskirt/1902_0501_01_10': 'Strong-willed girls are cute, right?',
 'ch0079_00_miniskirt/1902_0601_01_10': 'When Trainers’ eyes meet, it might be time for a\nPokémon battle.',
 'ch0079_00_miniskirt/1902_0601_02_10': 'Or I’ve also heard that you might fall in love.',
-}, 
+}], 
 'ch0080_00_yamaotoko_en.lsd': {
 'ch0080_00_yamaotoko/2701_1031_01_10': 'Ga ha ha! The mountains\nand oceans of Pasio!',
 'ch0080_00_yamaotoko/2701_1031_02_10': 'Where there is nature,\nyou will find a hiker!',
@@ -8618,7 +8618,7 @@
 'ch0080_00_yamaotoko/2861_0102_02_10': 'Pokémon battles really are hot, aren’t they.',
 'ch0080_00_yamaotoko/2861_0501_01_10': 'My strength is fragile!',
 'ch0080_00_yamaotoko/2861_0601_01_10': 'I guess I still have a ways to go!',
-}, 
+}], 
 'ch0081_00_enjif_en.lsd': {
 'ch0081_00_enjif/2701_1031_01_10': 'I have so many friends,\nI can’t play with them all!',
 'ch0081_00_enjif/2701_1031_02_10': 'I’m friends with everybody,\nand everybody’s friends\nwith me!',
@@ -8655,7 +8655,7 @@
 'ch0081_00_enjif/2704_0702_01_10': 'You know how one day, Pokémon evolve\nand change the way they look?',
 'ch0081_00_enjif/2704_0702_02_10': 'One day, I’m gonna evolve into a\ngrown-up, just like that.',
 'ch0081_00_enjif/2704_0702_03_10': 'It’ll be really exciting but also really sad.\nI guess that’s life, though, huh.',
-}, 
+}], 
 'ch0082_00_kowai_en.lsd': {
 'ch0082_00_kowai/2701_1031_01_10': 'Watch...\nJust keep watching.',
 'ch0082_00_kowai/2701_1031_02_10': 'Is that...a new type?!',
@@ -8682,7 +8682,7 @@
 'ch0082_00_kowai/2702_0701_03_10': 'And look at me now. I am fabulooouuus!',
 'ch0082_00_kowai/2702_0702_01_10': 'Liepard, you thing of beauty...',
 'ch0082_00_kowai/2702_0702_02_10': 'Show me how to be more like you!',
-}, 
+}], 
 'ch0083_00_badgirl_en.lsd': {
 'ch0083_00_badgirl/2701_1031_01_10': 'Hey, hey, hey!\nHoo hoo! ♪',
 'ch0083_00_badgirl/2701_1031_02_10': 'I’m so booored!\nCalling all bored people!\nLet’s do something!',
@@ -8743,7 +8743,7 @@
 'ch0083_00_badgirl/1902_0601_01_10': 'Sorry... Sometimes I just get this feeling\nthat, like, everybody around me hates\nme and looks down on me.',
 'ch0083_00_badgirl/1902_0601_02_10': 'They get scared, and their first reaction\nis to challenge me to a Pokémon battle...',
 'ch0083_00_badgirl/1902_0601_03_10': 'I think my fashion’s super cute, not scary!\nBut I guess it gives people the wrong\nidea sometimes...',
-}, 
+}], 
 'ch0084_00_kenkyuin_en.lsd': {
 'ch0084_00_kenkyuin/2701_1031_01_10': 'My battle strategy is\ndifferent from others...',
 'ch0084_00_kenkyuin/2701_1031_02_10': 'Whittle them down with\nstatus conditions...',
@@ -8801,7 +8801,7 @@
 'ch0084_00_kenkyuin/2861_0501_01_10': 'You DARE take research away from a scientist?!',
 'ch0084_00_kenkyuin/2861_0601_01_10': 'Arrrgh! I said don’t step there!\nYou’ll ruin my precious research samples!',
 'ch0084_00_kenkyuin/2861_0601_02_10': 'I mean it! Don’t come anywhere near\nmy vicinity!',
-}, 
+}], 
 'ch0085_00_hopef_en.lsd': {
 'ch0085_00_hopef/2701_1031_01_10': 'Power is important,\nbut support is, too, right?',
 'ch0085_00_hopef/2701_1031_02_10': 'I’m not alone.\nI’m going to do my\nbest with my friends.',
@@ -8863,7 +8863,7 @@
 'ch0085_00_hopef/1903_0601_01_10': 'Hold on! You’re way too strong!',
 'ch0085_00_hopef/1903_0601_02_10': 'You’re probably stronger than the Elite Four!\nYou might even win the PML!',
 'ch0085_00_hopef/1903_0601_03_10': 'Ha ha! Don’t worry—I’m not trying to hustle ya!',
-}, 
+}], 
 'ch0086_00_campm_en.lsd': {
 'ch0086_00_campm/2701_1031_01_10': '*stare*\nI wanna battle...',
 'ch0086_00_campm/2701_1031_02_10': 'I’m totally ready to\ngo off and explore...',
@@ -8921,11 +8921,11 @@
 'ch0086_00_campm/1903_0501_01_10': 'I thought it was safe to say I’d beat you...',
 'ch0086_00_campm/1903_0601_01_10': 'You know, you should always be prepared\nfor the unexpected!',
 'ch0086_00_campm/1903_0601_02_10': 'Then again, if you’re always prepared for the\nunexpected, is it really unexpected anymore?',
-}, 
+}], 
 'ch0091_00_shirona_en.lsd': {
-}, 
+}], 
 'ch0091_01_shirona_en.lsd': {
-}, 
+}], 
 'ch0092_00_iris_en.lsd': {
 'ch0092_00_iris/0101_0701_01_10': 'There you are, [Name:PlayerNickname ]!\nI’ve been craning my neck like a\nHaxorus trying to find you around here!',
 'ch0092_00_iris/0101_0701_02_10': 'I’m glad I got to meet up with\nyou today! We should go do\nsome exploring!',
@@ -8982,7 +8982,7 @@
 'ch0092_00_iris/3004_0701_01_10': 'It’s so bright outside! Makes me want to lie\ndown and soak up some sun with my Pokémon!',
 'ch0092_00_iris/3005_0701_01_10': 'Evening! Ready for more fun?\nBack at the Village of Dragons, lots of\nPokémon become more active at night!',
 'ch0092_00_iris/3006_0701_01_10': 'My granddad always said that\nchildren who sleep well grow well!',
-}, 
+}], 
 'ch0093_00_staff_center_en.lsd': {
 'ch0093_00_staff_center/3201_0701_01_10': 'Welcome!\nI can help you check your current\narea information right here.',
 'ch0093_00_staff_center/3201_0701_02_10': 'We hope to see you again!',
@@ -9001,7 +9001,7 @@
 'ch0093_00_staff_center/3402_0701_01_10': 'I’ve got new info for you—hot off the presses!',
 'ch0093_00_staff_center/3501_1031_01_10': 'I’ve got to share this\ninfo, and fast!',
 'ch0093_00_staff_center/3501_1031_02_10': 'The faster this info gets\nout, the better...',
-}, 
+}], 
 'ch0094_00_genji_en.lsd': {
 'ch0094_00_genji/0101_0701_01_10': 'Good to see you, [Name:PlayerNickname ]!\nI knew you were a Trainer I could count on.',
 'ch0094_00_genji/0101_0701_02_10': 'I can’t wait to see how you navigate your\nPokémon through Pasio.',
@@ -9058,9 +9058,9 @@
 'ch0094_00_genji/3004_0701_01_10': 'Don’t waste away your afternoons.\nTime is limited, after all!',
 'ch0094_00_genji/3005_0701_01_10': 'Make sure you rest well for tomorrow.\nYour Pokémon will worry if you’re not shipshape.',
 'ch0094_00_genji/3006_0701_01_10': 'Don’t force yourself to stay awake if you get\ntired. Heed a little advice from an old sailor.',
-}, 
+}], 
 'ch0095_00_cattleya_en.lsd': {
-}, 
+}], 
 'ch0096_00_zumi_en.lsd': {
 'ch0096_00_zumi/0101_0701_01_10': 'Ah, there you are, [Name:PlayerNickname ].\nI’ve been expecting you.',
 'ch0096_00_zumi/0101_0701_02_10': 'You mustn’t let the day go to waste if you\nmean to bring out the best in your\nPokémon. Chop-chop!',
@@ -9121,9 +9121,9 @@
 'ch0096_00_zumi/3004_0701_01_10': 'Hohoho! What shall I cook for dinner tonight?\nI’ll need to stock up on ingredients.',
 'ch0096_00_zumi/3005_0701_01_10': 'A tip: Try chewing your food slowly,\nand really savor the flavor.\nThat always gives me a boost of motivation!',
 'ch0096_00_zumi/3006_0701_01_10': 'Remember to get a good night’s sleep tonight\nso that you’re ready for tomorrow’s adventures.',
-}, 
+}], 
 'ch0096_10_zumi_en.lsd': {
-}, 
+}], 
 'ch0097_00_mai_en.lsd': {
 'ch0097_00_mai/0101_0701_01_10': '[Name:PlayerNickname ]...\nGood to see you again...',
 'ch0097_00_mai/0101_0701_02_10': 'I hope we can enjoy our time together...',
@@ -9178,7 +9178,7 @@
 'ch0097_00_mai/3004_0701_01_10': 'Just having you around makes me happy.',
 'ch0097_00_mai/3005_0701_01_10': 'It’s a bit late, but I’m happy I get\nto spend more time with you.',
 'ch0097_00_mai/3006_0701_01_10': 'Nighttime can be lonely sometimes...\nBut when you’re around, it’s not so bad.',
-}, 
+}], 
 'ch0098_00_hau_en.lsd': {
 'ch0098_00_hau/0101_0701_01_10': 'Alola, [Name:PlayerNickname ]!',
 'ch0098_00_hau/0101_0701_02_10': 'All right! Another great day to play with\nour Pokémon!',
@@ -9232,7 +9232,7 @@
 'ch0098_00_hau/3004_0701_01_10': 'I’m gonna grab a bite to eat.\nWanna come?',
 'ch0098_00_hau/3005_0701_01_10': 'You’re working pretty late!\nI’m gonna do my best, too! See ya!',
 'ch0098_00_hau/3006_0701_01_10': 'I get chewed out by my old gramps\nif I stay up too late.',
-}, 
+}], 
 'ch0099_00_jun_en.lsd': {
 'ch0099_00_jun/0101_0701_01_10': '[Name:PlayerNickname ]!\nYou kept me waiting long enough!\nLet’s hurry up and head out on an adventure!',
 'ch0099_00_jun/0101_0701_02_10': 'You want to have a Pokémon battle, too, right?\nI’m fining you a million if you’re late!',
@@ -9295,7 +9295,7 @@
 'ch0099_00_jun/3004_0701_01_10': 'I’m definitely prepared for some battling today!\nThere’s no way I’ll forget anything this time.',
 'ch0099_00_jun/3005_0701_01_10': 'Evening!\nYou’d think I’d be tired now, but I’m still wired!',
 'ch0099_00_jun/3006_0701_01_10': 'Time for my secret night training! \nWait, if you’ve found me, \nit’s not secret anymore!',
-}, 
+}], 
 'ch0101_00_mei_en.lsd': {
 'ch0101_00_mei/0101_0701_01_10': 'Oh! Hi, [Name:PlayerNickname ]!\nYou’re looking bright eyed and\nbushy tailed today!',
 'ch0101_00_mei/0101_0701_02_10': 'I’m feeling great myself! Let’s both get\nout there and do our best today!',
@@ -9349,9 +9349,9 @@
 'ch0101_00_mei/3004_0701_01_10': 'Oh man, I’m itching to get out there and battle!\nSo, when are we going? Now?',
 'ch0101_00_mei/3005_0701_01_10': 'Hi there!\nIt’s not good to stay up too late, you know!',
 'ch0101_00_mei/3006_0701_01_10': 'Whoa, look at the time! We should go to\nsleep soon so we’re not tired tomorrow!',
-}, 
+}], 
 'ch0101_10_mei_en.lsd': {
-}, 
+}], 
 'ch0103_00_staff_shop_en.lsd': {
 'ch0103_00_staff_shop/3201_0701_01_10': 'Welcome!\nWe have an assortment of sorts, so\nplease take your time looking around!',
 'ch0103_00_staff_shop/3201_0701_02_10': 'Thank you!\nWe look forward to your next visit!',
@@ -9370,7 +9370,7 @@
 'ch0103_00_staff_shop/3402_0701_01_10': 'Take a look at this cool thing. It’s cool, right?',
 'ch0103_00_staff_shop/3501_1031_01_10': 'New product in stock!\nI want to scream!',
 'ch0103_00_staff_shop/3501_1031_02_10': 'This would be perfect\nfor that person...',
-}, 
+}], 
 'ch0104_00_staff_cafe_en.lsd': {
 'ch0104_00_staff_cafe/3201_0701_01_10': 'Welcome!\nFor anything related to your team members,\nplease come this way!',
 'ch0104_00_staff_cafe/3201_0701_02_10': 'Thank you!\nPlease come again!',
@@ -9389,11 +9389,11 @@
 'ch0104_00_staff_cafe/3402_0701_01_10': 'That was some interesting news.\nOh, welcome!\nI just got a nifty piece of information!',
 'ch0104_00_staff_cafe/3501_1031_01_10': 'I just heard a great piece\nof information!',
 'ch0104_00_staff_cafe/3501_1031_02_10': 'Ahh...\nWhere are my customers?',
-}, 
+}], 
 'ch0106_00_kamitsure_en.lsd': {
-}, 
+}], 
 'ch0106_10_kamitsure_en.lsd': {
-}, 
+}], 
 'ch0110_01_kasumi_en.lsd': {
 'ch0110_01_kasumi/0101_0701_01_10': 'There you are, [Name:PlayerNickname ]!\nAre you ready to get out there and\ndo some exploring today?',
 'ch0110_01_kasumi/0101_0701_02_10': 'Come on—let’s give it all we’ve got!\nAnd don’t be afraid to ask questions, OK?\nYou can ask me anything!',
@@ -9451,33 +9451,33 @@
 'ch0110_01_kasumi/3004_0701_01_10': 'Snack time’s over! Time to get out there\nand use up all this energy! Wanna battle?',
 'ch0110_01_kasumi/3005_0701_01_10': 'Are you going out to train at this hour?\nHave fun, but don’t overdo it!',
 'ch0110_01_kasumi/3006_0701_01_10': 'Man, I don’t feel sleepy at all yet!\nMaybe it’s because I took a nap while\nsurfing with my Pokémon earlier...',
-}, 
+}], 
 'ch0111_00_wataru_en.lsd': {
-}, 
+}], 
 'ch0112_00_hibiki_en.lsd': {
-}, 
+}], 
 'ch0113_00_mikan_en.lsd': {
-}, 
+}], 
 'ch0114_00_natsume_en.lsd': {
-}, 
+}], 
 'ch0118_00_lillie_en.lsd': {
-}, 
+}], 
 'ch0119_00_gladion_en.lsd': {
-}, 
+}], 
 'ch0124_00_mao_en.lsd': {
-}, 
+}], 
 'ch0140_00_sakaki_en.lsd': {
-}, 
+}], 
 'ch0151_00_melissa_en.lsd': {
-}, 
+}], 
 'ch0153_00_prim_en.lsd': {
-}, 
+}], 
 'ch0157_00_mache_en.lsd': {
-}, 
+}], 
 'charaepi_ch0000_00_red_en.lsd': {
-}, 
+}], 
 'charaepi_ch0001_00_kukui_en.lsd': {
-}, 
+}], 
 'charaepi_ch0002_00_kotone_en.lsd': {
 'charaepi_ch0002_00_kotone/2301_1101_0100_20': '[Name:PlayerNickname ] saw Lyra enter the\nforest and followed her until reaching a clearing.',
 'charaepi_ch0002_00_kotone/2301_1201_0200_10': 'Oh! Hey, [Name:PlayerNickname ]!\nI didn’t expect you here!',
@@ -9544,11 +9544,11 @@
 'charaepi_ch0002_00_kotone/2312_0501_0300_10': 'I’m glad.\nI’ll be stronger the next time we meet, so get\nready to battle me then!',
 'charaepi_ch0002_00_kotone/2312_0501_0400_10': 'Look at that!\nBayleef looks like she’s going to evolve!',
 'charaepi_ch0002_00_kotone/2312_0501_0500_10': 'I hope you get even cuter, Bayleef!',
-}, 
+}], 
 'charaepi_ch0003_00_calme_en.lsd': {
-}, 
+}], 
 'charaepi_ch0004_00_toko_en.lsd': {
-}, 
+}], 
 'charaepi_ch0005_00_kanna_en.lsd': {
 'charaepi_ch0005_00_kanna/2301_1101_0100_20': 'While walking along the beach and admiring\nthe sights, [Name:PlayerNickname ] paused...\nWas that a moving island?!',
 'charaepi_ch0005_00_kanna/2301_1101_0200_20': 'Intrigued by the phenomenon, \n[EN:Gen Ref="255" M="he" F="she" ] moved closer...',
@@ -9582,7 +9582,7 @@
 'charaepi_ch0005_00_kanna/2301_1201_3000_10': 'Hm? You want to go for another swim, Lapras?\nReally, what am I going to do with you...',
 'charaepi_ch0005_00_kanna/2301_1201_3100_10': 'Well, last time I was the one who suggested\nwe go out...',
 'charaepi_ch0005_00_kanna/2301_1201_3200_10': 'I suppose it’s only fair that we go out again if\nthat’s what Lapras wants.',
-}, 
+}], 
 'charaepi_ch0006_00_oba_en.lsd': {
 'charaepi_ch0006_00_oba/2301_1101_0100_20': '[Name:PlayerNickname ] arrived at the coast\nin search of a Trainer to battle.',
 'charaepi_ch0006_00_oba/2301_1101_0200_20': 'And there [EN:Gen Ref="255" M="he" F="she" ] found Flint, with his Infernape,\nstanding perfectly still.',
@@ -9628,7 +9628,7 @@
 'charaepi_ch0006_00_oba/2301_0402_4200_10': 'Heh! Hearing that from you makes the fire in my\nheart burn even brighter!',
 'charaepi_ch0006_00_oba/2301_1201_4300_10': 'I haven’t had a conversation like this with\nanybody since Volkner! I like you even\nmore now!',
 'charaepi_ch0006_00_oba/2301_1201_4400_10': 'Let’s have a blazing-hot battle sometime to see\nwhose way of doing things comes out on top!',
-}, 
+}], 
 'charaepi_ch0007_00_acerola_en.lsd': {
 'charaepi_ch0007_00_acerola/2301_1101_0100_20': 'While out exploring, [Name:PlayerNickname ]\nstumbled across a road [EN:Gen Ref="255" M="he" F="she" ] hadn’t seen before.',
 'charaepi_ch0007_00_acerola/2301_1101_0200_20': 'Curious, [EN:Gen Ref="255" M="he" F="she" ] decided to follow the road\nto see where it led...',
@@ -9682,7 +9682,7 @@
 'charaepi_ch0007_00_acerola/2301_0401_5000_10': 'OK! Let’s do it!\nBetcha I’ll find the prettiest one!',
 'charaepi_ch0007_00_acerola/2301_0302_5100_10': 'You’re on! You can’t beat me!',
 'charaepi_ch0007_00_acerola/2301_0402_5200_10': 'All right!\nBetcha I’ll find the prettiest one!',
-}, 
+}], 
 'charaepi_ch0008_00_erika_en.lsd': {
 'charaepi_ch0008_00_erika/2301_1101_0100_20': 'While strolling through the city,\n[Name:PlayerNickname ] spotted Erika looking\naround in confusion and decided to say hello.',
 'charaepi_ch0008_00_erika/2301_1201_0200_10': 'Oh, hello, [Name:PlayerNickname ].',
@@ -9734,7 +9734,7 @@
 'charaepi_ch0008_00_erika/2301_1201_4800_10': 'Now that I’m here, I think I’ll stock up on a bunch\nof different flowers for my flower arranging.',
 'charaepi_ch0008_00_erika/2301_1201_4900_10': 'I’m sure I’ll be able to create something\nsimply lovely with them.',
 'charaepi_ch0008_00_erika/2301_1201_5000_10': 'I promise to let you know as soon as it’s done,\nall right?',
-}, 
+}], 
 'charaepi_ch0009_00_senri_en.lsd': {
 'charaepi_ch0009_00_senri/2301_1101_0100_20': 'Norman asked [Name:PlayerNickname ] to\nmeet him at a clearing in the forest.',
 'charaepi_ch0009_00_senri/2301_1201_0200_10': 'Thanks for coming, [Name:PlayerNickname ].\nI’ve asked you here to talk.',
@@ -9780,7 +9780,7 @@
 'charaepi_ch0009_00_senri/2301_1201_4200_10': 'Do you know of any good restaurants that are\npopular with young people on Pasio?',
 'charaepi_ch0009_00_senri/2301_1201_4300_10': 'I was thinking I’d like to take my son out\nthe next time we have a day off!',
 'charaepi_ch0009_00_senri/2301_1201_4400_10': 'Sometimes it’s good to take a cue from Slaking\nand just take it easy.',
-}, 
+}], 
 'charaepi_ch0010_00_maximum_en.lsd': {
 'charaepi_ch0010_00_maximum/2301_1101_0100_20': 'As [Name:PlayerNickname ] was walking the\nbeach, [EN:Gen Ref="255" M="he" F="she" ] heard a distant singing.',
 'charaepi_ch0010_00_maximum/2301_1101_0200_20': 'While looking for the source of the singing,\n[EN:Gen Ref="255" M="he" F="she" ] came across Crasher Wake and Floatzel.',
@@ -9838,7 +9838,7 @@
 'charaepi_ch0010_00_maximum/2301_1201_5400_10': 'Hm? Hey, look over there! There’s a\nPokémon Ranger up on that cliff!',
 'charaepi_ch0010_00_maximum/2301_1201_5500_10': 'How about that! She’s waving at us!\nShe can hear our voices!',
 'charaepi_ch0010_00_maximum/2301_1201_5600_10': 'Crasher Waaaake!',
-}, 
+}], 
 'charaepi_ch0011_00_homika_en.lsd': {
 'charaepi_ch0011_00_homika/2301_1101_0100_20': 'As [Name:PlayerNickname ] was walking the\nbeach, [EN:Gen Ref="255" M="he" F="she" ] heard the sound of a bass guitar and\nsomeone singing loudly in the distance.',
 'charaepi_ch0011_00_homika/2301_1101_0200_20': 'Curious, [EN:Gen Ref="255" M="he" F="she" ] headed toward the music\nand eventually discovered the culprits—\nRoxie and her Whirlipede.',
@@ -9884,7 +9884,7 @@
 'charaepi_ch0011_00_homika/2301_1201_4200_10': 'You know, I’ve got loads of fans\nthat love and support my music...',
 'charaepi_ch0011_00_homika/2301_1201_4300_10': 'but when it comes to Trainers,\nI’m YOUR biggest fan!',
 'charaepi_ch0011_00_homika/2301_1201_4400_10': 'Or am I? Hahaha!',
-}, 
+}], 
 'charaepi_ch0012_00_corni_en.lsd': {
 'charaepi_ch0012_00_corni/2301_1201_0100_10': 'Oh! Hi there, [Name:PlayerNickname ]!',
 'charaepi_ch0012_00_corni/2301_1201_0200_10': 'Lucario told me he’s feeling a little\ncurious about your aura.',
@@ -9926,7 +9926,7 @@
 'charaepi_ch0012_00_corni/2301_0402_4300_10': 'Thanks! We’re so proud of the perfect sync we\nhave now, but it probably wouldn’t have been\npossible if we hadn’t made those early mistakes!',
 'charaepi_ch0012_00_corni/2301_1201_4400_10': 'Oh, that reminds me! Our super-special move\ncame out of that whole experience as well!\nOur deadly rolling axe-kick!',
 'charaepi_ch0012_00_corni/2301_1201_4500_10': 'We might have to go visit you in the hospital if\nyou ever get hit with that... Haha! Just teasing!',
-}, 
+}], 
 'charaepi_ch0013_00_hapu_en.lsd': {
 'charaepi_ch0013_00_hapu/2301_1101_0100_20': '[Name:PlayerNickname ] headed into the city\nto meet up with Hapu at her request.',
 'charaepi_ch0013_00_hapu/2301_1101_0200_20': 'When [EN:Gen Ref="255" M="he" F="she" ] arrived at the meeting spot\nthey’d arranged, [EN:Gen Ref="255" M="he" F="she" ] found Hapu \nalready waiting there with Mudsdale.',
@@ -9964,7 +9964,7 @@
 'charaepi_ch0013_00_hapu/2301_1201_3400_10': 'Well, life is full of surprises, isn’t it!\nYou never know what might Hapun,\nespecially on Pasio! Heh heh.',
 'charaepi_ch0013_00_hapu/2301_1201_3500_10': 'Pasio invites all manner of Trainers and\nPokémon onto its open shores...',
 'charaepi_ch0013_00_hapu/2301_1201_3600_10': 'In that sense, I would be more surprised\nif NOTHING Hapuned! Heh heh.',
-}, 
+}], 
 'charaepi_ch0014_01_cheren_en.lsd': {
 'charaepi_ch0014_01_cheren/2301_1101_0100_20': '[Name:PlayerNickname ] made [EN:Gen Ref="255" M="his" F="her" ] way \nto the forest at the edge of the city \nto meet up with Cheren.',
 'charaepi_ch0014_01_cheren/2301_1101_0200_20': 'When [Name:PlayerNickname ] arrived, \n[EN:Gen Ref="255" M="he" F="she" ] found him practicing move commands\nwith his Stoutland.',
@@ -10007,7 +10007,7 @@
 'charaepi_ch0014_01_cheren/2301_0401_3900_10': 'Brilliant! Thanks!',
 'charaepi_ch0014_01_cheren/2301_0302_4000_10': 'How could I say no to that?!',
 'charaepi_ch0014_01_cheren/2301_0402_4100_10': 'Brilliant! Thanks!',
-}, 
+}], 
 'charaepi_ch0015_00_takeshi_en.lsd': {
 'charaepi_ch0015_00_takeshi/2301_1201_0100_10': 'Where’s a good, open space around here...',
 'charaepi_ch0015_00_takeshi/2301_1201_0200_10': 'Hm? Oh, hey, [Name:PlayerNickname ]!\nAre you out shopping?',
@@ -10081,7 +10081,7 @@
 'charaepi_ch0015_00_takeshi/2301_0302_7000_10': 'Well, I’ll do what I can.',
 'charaepi_ch0015_00_takeshi/2301_0402_7100_10': 'Good! That’s the spirit!',
 'charaepi_ch0015_00_takeshi/2301_1201_7200_10': 'If there’s anything I can do to help, let me know!',
-}, 
+}], 
 'charaepi_ch0015_01_takeshi_en.lsd': {
 'charaepi_ch0015_01_takeshi/2301_1201_0100_10': 'Hey! Perfect timing, [Name:PlayerNickname ]!',
 'charaepi_ch0015_01_takeshi/2301_1201_0200_10': 'Now, I want an honest answer.\nDo you think this outfit suits me?',
@@ -10114,7 +10114,7 @@
 'charaepi_ch0015_01_takeshi/2301_1201_2900_10': 'This sygna suit is my armor! Now, Tyranitar\nand I can fight even closer than ever!',
 'charaepi_ch0015_01_takeshi/2301_1201_3000_10': 'Listen up, [Name:PlayerNickname ]!',
 'charaepi_ch0015_01_takeshi/2301_1201_3100_10': 'Now that I have this sygna suit, don’t think \nwe are the same as we were before.\nWe are stronger than you could imagine!',
-}, 
+}], 
 'charaepi_ch0016_00_huuro_en.lsd': {
 'charaepi_ch0016_00_huuro/2301_1101_0100_20': '[Name:PlayerNickname ] climbed up a\nrigorous mountain trail during [EN:Gen Ref="255" M="his" F="her" ] travels.',
 'charaepi_ch0016_00_huuro/2301_1101_0200_20': '[EN:Gen Ref="255" M="He" F="She" ] trudged toward the top of the mountain,\nhoping for a good view of Pasio. That’s where\n[EN:Gen Ref="255" M="he" F="she" ] ran into Skyla and Swanna.',
@@ -10155,9 +10155,9 @@
 'charaepi_ch0016_00_huuro/2301_0302_3700_10': 'Yeah, I feel the same way.',
 'charaepi_ch0016_00_huuro/2301_0402_3800_10': 'Great! It’s a unanimous decision, then!',
 'charaepi_ch0016_00_huuro/2301_1201_3900_10': 'Here’s to a beautiful friendship!',
-}, 
+}], 
 'charaepi_ch0017_00_leaf_en.lsd': {
-}, 
+}], 
 'charaepi_ch0018_00_chris_en.lsd': {
 'charaepi_ch0018_00_chris/2301_1101_0100_20': 'While taking a stroll in the forest one day,\n[Name:PlayerNickname ] ran into Kris.',
 'charaepi_ch0018_00_chris/2301_1101_0200_20': 'She seemed to be in the middle of observing her\nTotodile and jotting down some notes.',
@@ -10225,7 +10225,7 @@
 'charaepi_ch0018_00_chris/2312_0501_0300_10': 'Not only that—Croconaw looks like she’s about\nto evolve from that last battle. She IS great!',
 'charaepi_ch0018_00_chris/2312_0501_0400_10': 'Croconaw! You’re going to evolve!\nThat’s amazing!',
 'charaepi_ch0018_00_chris/2312_0501_0500_10': 'I’m so happy for you, Croconaw!',
-}, 
+}], 
 'charaepi_ch0019_00_yuki_en.lsd': {
 'charaepi_ch0019_00_yuki/2301_1101_0100_20': '[Name:PlayerNickname ] saw Brendan \nentering the forest.',
 'charaepi_ch0019_00_yuki/2301_1101_0200_20': 'Thinking that he was secretly training,\n[Name:PlayerNickname ] followed him.',
@@ -10264,7 +10264,7 @@
 'charaepi_ch0019_00_yuki/2301_1201_3500_10': 'Come on, Treecko!\nBullet Seed!',
 'charaepi_ch0019_00_yuki/2301_1201_3600_10': 'Hey, [Name:PlayerNickname ].\nLet’s have a battle sometime!',
 'charaepi_ch0019_00_yuki/2301_1201_3700_10': 'That way I can see how much stronger I’ve gotten!',
-}, 
+}], 
 'charaepi_ch0020_00_toya_en.lsd': {
 'charaepi_ch0020_00_toya/2301_1101_0100_20': 'One day, [Name:PlayerNickname ] saw Hilbert\nwhile walking through the city.',
 'charaepi_ch0020_00_toya/2301_1101_0200_20': 'Hilbert was surrounded by all sorts of Pokémon,\nincluding his partner, Oshawott.',
@@ -10310,7 +10310,7 @@
 'charaepi_ch0020_00_toya/2301_1201_4200_10': 'I’m sure we’ll be tagging along at least until\nOshawott reaches his full potential.',
 'charaepi_ch0020_00_toya/2301_1201_4300_10': 'I’m with you not only as your teammate\nbut also as a friend and rival!',
 'charaepi_ch0020_00_toya/2301_1201_4400_10': 'So here’s to us!',
-}, 
+}], 
 'charaepi_ch0021_00_green_en.lsd': {
 'charaepi_ch0021_00_green/2301_1101_0100_20': 'As [Name:PlayerNickname ] was doing some\nshopping, [EN:Gen Ref="255" M="he" F="she" ] spotted Blue a little ways away.',
 'charaepi_ch0021_00_green/2301_1201_0200_10': 'Bonjour!',
@@ -10354,7 +10354,7 @@
 'charaepi_ch0021_00_green/2301_1201_4500_10': 'If we get bored, we’ll wander away to who\nknows where next.',
 'charaepi_ch0021_00_green/2301_1201_4600_10': 'You’re the same, too, aren’t you? I can tell.',
 'charaepi_ch0021_00_green/2301_1201_4700_10': 'Birds of a feather and all that!',
-}, 
+}], 
 'charaepi_ch0022_00_urup_en.lsd': {
 'charaepi_ch0022_00_urup/2301_1101_0100_20': '[Name:PlayerNickname ] slowly walked through\nthe narrow passageways of the caves.',
 'charaepi_ch0022_00_urup/2301_1101_0200_20': 'Passageways so narrow, in fact, that two people\nwould have a difficult time passing each other.',
@@ -10393,7 +10393,7 @@
 'charaepi_ch0022_00_urup/2301_1201_3500_10': 'These crevices are a little too narrow for me.\nI don’t think I can move forward any farther,\nso I guess I’ll double back the way I came.',
 'charaepi_ch0022_00_urup/2301_1201_3600_10': 'Some days you might think you’re moving forward,\nbut you just end up moving backward...\nThat’s just the way it is, y’know.',
 'charaepi_ch0022_00_urup/2301_1201_3700_10': 'I guess having an unrelenting personality\ndoesn’t do me any good in these situations!',
-}, 
+}], 
 'charaepi_ch0023_00_momi_en.lsd': {
 'charaepi_ch0023_00_momi/2301_1101_0100_20': '[Name:PlayerNickname ] wandered into a\nclearing in the forest, hoping to relax\nand catch a nice breath of fresh air.',
 'charaepi_ch0023_00_momi/2301_1101_0200_20': 'There, [EN:Gen Ref="255" M="he" F="she" ] found Cheryl and Blissey\nplaying happily together.',
@@ -10437,7 +10437,7 @@
 'charaepi_ch0023_00_momi/2301_0402_4400_10': 'You know, it’s so strange...\nFor some reason, when I hear you say that,\nI really believe that I can do it!',
 'charaepi_ch0023_00_momi/2301_1201_4500_10': 'I must be the luckiest Trainer in the world\nto have such a great role model as a friend.',
 'charaepi_ch0023_00_momi/2301_1201_4600_10': 'Moving forward, I hope that you’ll continue\nto teach us all sorts of new things.\nThat would make us both so happy.',
-}, 
+}], 
 'charaepi_ch0024_00_shikimi_en.lsd': {
 'charaepi_ch0024_00_shikimi/2301_1101_0100_20': '[Name:PlayerNickname ] spotted Shauntal\nwhile strolling through town, but Shauntal\ndid not seem to notice [EN:Gen Ref="255" M="him" F="her" ].',
 'charaepi_ch0024_00_shikimi/2301_1201_0200_10': '“The bond between them was deeper than\nthe darkest abyss. It would outlast eternity,\ncontinuing without pause, forevermore...”',
@@ -10491,7 +10491,7 @@
 'charaepi_ch0024_00_shikimi/2301_1201_5000_10': 'My very fondest memories come from\nthe times we’ve shared together.',
 'charaepi_ch0024_00_shikimi/2301_1201_5100_10': 'So of course I’m going to include her\nin my next novel! How could I not?',
 'charaepi_ch0024_00_shikimi/2301_1201_5200_10': 'When the time comes to read that\nbook together, will you shine your light\non me like always, Chandelure?',
-}, 
+}], 
 'charaepi_ch0025_00_suzuna_en.lsd': {
 'charaepi_ch0025_00_suzuna/2301_1101_0100_20': '[Name:PlayerNickname ] decided to explore \nthe outskirts of the island, eventually \nmaking [EN:Gen Ref="255" M="his" F="her" ] way to the glaciers.',
 'charaepi_ch0025_00_suzuna/2301_1201_0200_10': 'Heya, [Name:PlayerNickname ]!\nWhat brings you here?',
@@ -10543,7 +10543,7 @@
 'charaepi_ch0025_00_suzuna/2301_1201_4800_10': 'I never found the snow flower I’d gone\nsearching for on the mountain that day...',
 'charaepi_ch0025_00_suzuna/2301_1201_4900_10': 'but in the end, I found something even\nmore special than that.',
 'charaepi_ch0025_00_suzuna/2301_1201_5000_10': 'Abomasnow may have a cold, icy exterior,\nbut he’s got a warm heart on the inside,\nand I’m proud to have him as my partner!',
-}, 
+}], 
 'charaepi_ch0026_00_akane_en.lsd': {
 'charaepi_ch0026_00_akane/2301_1101_0100_20': '[Name:PlayerNickname ] was visiting the\nocean with friends.',
 'charaepi_ch0026_00_akane/2301_1101_0200_20': 'While they were there, they encountered \na rambunctious pink object bouncing around.',
@@ -10596,7 +10596,7 @@
 'charaepi_ch0026_00_akane/2301_1201_4900_10': 'But I do know that she knows I’m tryin’ to do my\nbest for her.',
 'charaepi_ch0026_00_akane/2301_1201_5000_10': 'So I hope she stays with me for a long,\nlong time.',
 'charaepi_ch0026_00_akane/2301_1201_5100_10': 'That would be the best!\nAt least, that’s how I feel about it.',
-}, 
+}], 
 'charaepi_ch0027_00_natane_en.lsd': {
 'charaepi_ch0027_00_natane/2301_1101_0100_20': 'As [Name:PlayerNickname ] was wandering\nthrough the forest, captivated by the artificial\nbeauty of Pasio, [EN:Gen Ref="255" M="he" F="she" ] came upon a clearing.',
 'charaepi_ch0027_00_natane/2301_1101_0200_20': 'There, [EN:Gen Ref="255" M="he" F="she" ] spotted Gardenia, who rushed over \nhappily to say hello.',
@@ -10640,7 +10640,7 @@
 'charaepi_ch0027_00_natane/2301_1201_4000_10': 'Thanks, [Name:PlayerNickname ].\nYou taught me something important!',
 'charaepi_ch0027_00_natane/2301_1201_4100_10': 'Whether she changes or not, as long as we can\nspend time together, that’s the most\nimportant thing!',
 'charaepi_ch0027_00_natane/2301_1201_4200_10': 'Roserade! Let’s keep on going for walks and\nsoaking up the sun like we always have!',
-}, 
+}], 
 'charaepi_ch0028_00_ibuki_en.lsd': {
 'charaepi_ch0028_00_ibuki/2301_1201_0100_10': 'Yes! That’s it!\nNow attack like you mean it!',
 'charaepi_ch0028_00_ibuki/2301_1101_0200_20': '[Name:PlayerNickname ] headed to the caves\nto meet up with Clair and her Kingdra. When [EN:Gen Ref="255" M="he" F="she" ]\narrived, [EN:Gen Ref="255" M="he" F="she" ] found them training together.',
@@ -10690,7 +10690,7 @@
 'charaepi_ch0028_00_ibuki/2301_1201_4600_10': 'I think Kingdra is happy about this\narrangement as well.',
 'charaepi_ch0028_00_ibuki/2301_1201_4700_10': 'You might still be an up-and-coming\nTrainer, [Name:PlayerNickname ]...',
 'charaepi_ch0028_00_ibuki/2301_1201_4800_10': 'but something about being around you\nmysteriously seems to put my heart at ease.',
-}, 
+}], 
 'charaepi_ch0029_00_asuna_en.lsd': {
 'charaepi_ch0029_00_asuna/2301_1101_0100_20': '[Name:PlayerNickname ] was taking a stroll\nnear the volcano when [EN:Gen Ref="255" M="he" F="she" ] heard Flannery\ncall out from up ahead.',
 'charaepi_ch0029_00_asuna/2301_1201_0200_10': 'Hey, you don’t look so great.\nOr am I just imagining things?',
@@ -10731,7 +10731,7 @@
 'charaepi_ch0029_00_asuna/2301_1201_3700_10': 'I’m going to keep being myself from now on.',
 'charaepi_ch0029_00_asuna/2301_1201_3800_10': 'Some people think they always have to work\nsuperhard so they don’t get left behind...',
 'charaepi_ch0029_00_asuna/2301_1201_3900_10': 'but I think it’s better to dig your own cave at\nyour own pace. Racing’s not worth it if it means\nwearing yourself out!',
-}, 
+}], 
 'charaepi_ch0030_00_ran_en.lsd': {
 'charaepi_ch0030_00_ran/2301_1101_0100_20': 'One day, [Name:PlayerNickname ] found Liza\nhanging out on the beach.',
 'charaepi_ch0030_00_ran/2301_1101_0200_20': '[EN:Gen Ref="255" M="He" F="She" ] walked over to chat, but Liza looked\na little sad.',
@@ -10789,7 +10789,7 @@
 'charaepi_ch0030_00_ran/2301_1201_5400_10': 'That’s what Tate said when he told me he\nwanted to split up.',
 'charaepi_ch0030_00_ran/2301_1201_5500_10': 'I believe the day will come when we can be\ntogether again!',
 'charaepi_ch0030_00_ran/2301_1201_5600_10': 'Now is the time for me to grow! Thanks for\nreminding me, [Name:PlayerNickname ]!',
-}, 
+}], 
 'charaepi_ch0031_00_fuu_en.lsd': {
 'charaepi_ch0031_00_fuu/2301_1101_0100_20': 'Summoned by Tate, [Name:PlayerNickname ] \nmade [EN:Gen Ref="255" M="his" F="her" ] way over to the volcano.',
 'charaepi_ch0031_00_fuu/2301_1101_0200_20': 'Tate had already arrived and appeared to be\ntalking to someone on his Poryphone.',
@@ -10839,7 +10839,7 @@
 'charaepi_ch0031_00_fuu/2301_1201_4600_10': 'I’ll need your help, too, Solrock!',
 'charaepi_ch0031_00_fuu/2301_1201_4700_10': 'The sun and the moon can’t rise together.',
 'charaepi_ch0031_00_fuu/2301_1201_4800_10': 'But I hope Liza and I find out the real reason we\nshould be together!',
-}, 
+}], 
 'charaepi_ch0032_00_yanagi_en.lsd': {
 'charaepi_ch0032_00_yanagi/2301_1101_0100_20': 'While [Name:PlayerNickname ] was taking\na stroll, [EN:Gen Ref="255" M="he" F="she" ] ran into Pryce and his Seel.',
 'charaepi_ch0032_00_yanagi/2301_1101_0200_20': '[EN:Gen Ref="255" M="He" F="She" ] called out to say hello, but Pryce didn’t\nhear [EN:Gen Ref="255" M="him" F="her" ].',
@@ -10909,7 +10909,7 @@
 'charaepi_ch0032_00_yanagi/2311_0501_0300_10': 'Well, thank you for... Wait a sec.\nYour Pokémon looks like it’s gonna evolve!',
 'charaepi_ch0032_00_yanagi/2311_0501_0400_10': 'Is that true, Seel? Are you evolving?\nI’ll be right here to witness it.',
 'charaepi_ch0032_00_yanagi/2311_0501_0500_10': 'It’s time to prepare for our next battle.\nI have faith in you, Seel.',
-}, 
+}], 
 'charaepi_ch0033_00_yakon_en.lsd': {
 'charaepi_ch0033_00_yakon/2301_1101_0100_20': 'As [Name:PlayerNickname ] walked past the\nentrance to a cave, [EN:Gen Ref="255" M="he" F="she" ] heard a loud\nrumbling sound coming from inside.',
 'charaepi_ch0033_00_yakon/2301_1101_0200_20': 'Curious, [EN:Gen Ref="255" M="he" F="she" ] entered the cave to investigate\nthe origin of the sound...',
@@ -10956,7 +10956,7 @@
 'charaepi_ch0033_00_yakon/2301_1201_4300_10': 'I hope I get to witness y’all do it.\nI really do mean that.',
 'charaepi_ch0033_00_yakon/2301_1201_4400_10': 'Well, anyhoo! I reckon you’ll do a fine job\no’ helpin’ me dig in this here cave!',
 'charaepi_ch0033_00_yakon/2301_1201_4500_10': 'It’s gonna take a lotta strength to triumph at\nthe PML, right? Well, yer hard labor here’ll be\nlike special trainin’! It’s a win-win situation!',
-}, 
+}], 
 'charaepi_ch0034_00_matsurika_en.lsd': {
 'charaepi_ch0034_00_matsurika/2301_1101_0100_20': '[Name:PlayerNickname ] heard the sound of\na Pokémon barking in the distance.',
 'charaepi_ch0034_00_matsurika/2301_1101_0200_20': 'Curious, [EN:Gen Ref="255" M="he" F="she" ] wandered over to where\nthe sound was coming from.',
@@ -11004,7 +11004,7 @@
 'charaepi_ch0034_00_matsurika/2301_1201_4400_10': 'I bet if you got close to her now, she wouldn’t\nbe afraid anymore, [Name:PlayerNickname ].',
 'charaepi_ch0034_00_matsurika/2301_1201_4500_10': 'She may be a scaredy-cat, but she knows\na nice person when she sees one.',
 'charaepi_ch0034_00_matsurika/2301_1201_4600_10': 'I actually think Granbull might really like you!',
-}, 
+}], 
 'charaepi_ch0035_00_matthies_en.lsd': {
 'charaepi_ch0035_00_matthies/2301_1101_0100_20': 'As [Name:PlayerNickname ] was walking in\ntown one day...',
 'charaepi_ch0035_00_matthies/2301_1201_0200_10': 'Hey, kid!',
@@ -11051,7 +11051,7 @@
 'charaepi_ch0035_00_matthies/2301_0401_4300_10': 'NOOOOO!!!',
 'charaepi_ch0035_00_matthies/2301_0302_4400_10': 'GYAAAAHH!!!',
 'charaepi_ch0035_00_matthies/2301_0402_4500_10': 'NOOOOO!!!',
-}, 
+}], 
 'charaepi_ch0036_00_mamane_en.lsd': {
 'charaepi_ch0036_00_mamane/2301_1101_0100_20': 'One day, [Name:PlayerNickname ] received a\nmessage from Sophocles, asking to\nmeet up in the caves.',
 'charaepi_ch0036_00_mamane/2301_1201_0200_10': 'Hey...\nIs that you, [Name:PlayerNickname ]?',
@@ -11111,7 +11111,7 @@
 'charaepi_ch0036_00_mamane/2301_0402_5600_10': 'Hey...you’re right! Now that you mention it,\nI don’t think I’ve felt nervous at all in the\nlast couple minutes while talking to you!',
 'charaepi_ch0036_00_mamane/2301_1201_5700_10': 'Awesome! Maybe I leveled up a little bit\ntoday after all!',
 'charaepi_ch0036_00_mamane/2301_1201_5800_10': 'Maybe soon we’ll be able to have a\nconversation in the light, too!\nThat would be awesome.',
-}, 
+}], 
 'charaepi_ch0037_00_fukuji_en.lsd': {
 'charaepi_ch0037_00_fukuji/2301_1101_0100_20': '[Name:PlayerNickname ] walked into a clearing\nin the forest, suddenly feeling like [EN:Gen Ref="255" M="he" F="she" ]\nwas being watched.',
 'charaepi_ch0037_00_fukuji/2301_1101_0200_20': '[EN:Gen Ref="255" M="He" F="She" ] searched around for a moment\nbut couldn’t find the source of the gaze.',
@@ -11154,7 +11154,7 @@
 'charaepi_ch0037_00_fukuji/2301_1201_3900_10': 'What’s important is to actually think about the\nanswer yeh want and become the person or\nPokémon yeh can be satisfied with.',
 'charaepi_ch0037_00_fukuji/2301_1201_4000_10': 'Yeh continue making decision after decision\nlike that.',
 'charaepi_ch0037_00_fukuji/2301_1201_4100_10': 'And at the end of that road, yeh might see ye’ve\ngrown up to be a unique flower all yer own,\nan’ there’s nothin’ more beautiful than that.',
-}, 
+}], 
 'charaepi_ch0038_00_hyouta_en.lsd': {
 'charaepi_ch0038_00_hyouta/2301_1101_0100_20': 'As [Name:PlayerNickname ] was exploring\nsome caves one day, [EN:Gen Ref="255" M="he" F="she" ] ran into Roark.',
 'charaepi_ch0038_00_hyouta/2301_1101_0200_20': 'His eyebrows furrowed in concentration\nas he gazed deep into the cave...',
@@ -11197,7 +11197,7 @@
 'charaepi_ch0038_00_hyouta/2301_1201_3900_10': 'I’ll have to learn how to think outside\nthe box and become more resourceful,\njust like my partner here!',
 'charaepi_ch0038_00_hyouta/2301_1201_4000_10': 'I’ll still be Roark the Rock!\nMy willpower will still be unbreakable!',
 'charaepi_ch0038_00_hyouta/2301_1201_4100_10': 'I just need to break out of my box\nand think more unconventionally!',
-}, 
+}], 
 'charaepi_ch0039_00_viola_en.lsd': {
 'charaepi_ch0039_00_viola/2301_1101_0100_20': 'The streets were bustling with people\nand Pokémon.',
 'charaepi_ch0039_00_viola/2301_1101_0200_20': 'Suddenly, a white light flashed \nright next to [Name:PlayerNickname ]!',
@@ -11242,7 +11242,7 @@
 'charaepi_ch0039_00_viola/2311_0501_0300_10': 'Wait! Your Surskit looks like it’s about to evolve!',
 'charaepi_ch0039_00_viola/2311_0501_0400_10': 'Ooh, Surskit’s going to get even stronger!',
 'charaepi_ch0039_00_viola/2311_0501_0500_10': 'Fantastic! Just fantastic! I can’t let this photo op\nget away from me!',
-}, 
+}], 
 'charaepi_ch0040_00_hachiku_en.lsd': {
 'charaepi_ch0040_00_hachiku/2301_1101_0100_20': 'While taking a stroll through town,\n[Name:PlayerNickname ] spotted Brycen and\nCryogonal a short distance away.',
 'charaepi_ch0040_00_hachiku/2301_1101_0200_20': 'After a moment, Brycen spotted [EN:Gen Ref="255" M="him" F="her" ] as well,\nwaving his hand in greeting as he approached.',
@@ -11280,7 +11280,7 @@
 'charaepi_ch0040_00_hachiku/2301_1201_3400_10': 'Come now, my dutiful costar!\nLet’s get back to that rehearsal!',
 'charaepi_ch0040_00_hachiku/2301_1201_3500_10': 'With stupendous sync strength like ours,\nI’m sure we’ll be able to produce\na complete film in no time!',
 'charaepi_ch0040_00_hachiku/2301_1201_3600_10': 'I mean, it would be impossible to make a film\nabout bonds of friendship if you have no bond\nof your own to speak of, right? But we do!',
-}, 
+}], 
 'charaepi_ch0041_00_nejiki_en.lsd': {
 'charaepi_ch0041_00_nejiki/2301_1101_0100_20': 'As [Name:PlayerNickname ] was hiking,\n[EN:Gen Ref="255" M="he" F="she" ] came upon a Bronzong perched\nin the middle of the path ahead.',
 'charaepi_ch0041_00_nejiki/2301_1201_0200_10': 'Hmm. According to my data-analyzing machine,\nthis should be the correct path...',
@@ -11323,7 +11323,7 @@
 'charaepi_ch0041_00_nejiki/2301_1201_3900_10': 'I should thank you, [Name:PlayerNickname ]!\nFor giving me the brilliant hint that\nsparked this whole idea!',
 'charaepi_ch0041_00_nejiki/2301_1201_4000_10': 'Come, Bronzong! Let’s go!',
 'charaepi_ch0041_00_nejiki/2301_1201_4100_10': 'First things first! Bronzong and I are\ngoing to have to perform some deep\nself-analysis!',
-}, 
+}], 
 'charaepi_ch0042_00_nagi_en.lsd': {
 'charaepi_ch0042_00_nagi/2301_1101_0100_20': '[Name:PlayerNickname ] was strolling\nthrough town one day, doing some shopping...',
 'charaepi_ch0042_00_nagi/2301_1101_0200_20': 'when [EN:Gen Ref="255" M="he" F="she" ] turned a corner and suddenly \nfound [EN:Gen Ref="255" M="himself" F="herself" ] nose to nose with Winona!',
@@ -11372,7 +11372,7 @@
 'charaepi_ch0042_00_nagi/2301_0402_4500_10': 'I suppose I still have much to learn.',
 'charaepi_ch0042_00_nagi/2301_0402_4600_10': 'I shall continue to train hard in the hope\nthat one day our Trainer skill levels\nwill be equal, [Name:PlayerNickname ].',
 'charaepi_ch0042_00_nagi/2301_1201_4700_10': 'After all, we’re all rivals here at the PML.\nLet’s give this tournament our utmost\neffort and leave here without any regrets!',
-}, 
+}], 
 'charaepi_ch0043_00_toki_en.lsd': {
 'charaepi_ch0043_00_toki/2301_1101_0100_20': '[Name:PlayerNickname ] was walking along\nthe coast when [EN:Gen Ref="255" M="he" F="she" ] realized [EN:Gen Ref="255" M="he" F="she" ] could hear a\nloud voice mixed in with the sound of the waves.',
 'charaepi_ch0043_00_toki/2301_1201_0200_10': 'What’s wrong, Makuhita? You’re never gonna\ncatch me at that rate!',
@@ -11418,7 +11418,7 @@
 'charaepi_ch0043_00_toki/2301_1201_4200_10': 'You’re a tough opponent that we won’t be able\nto defeat easily, but that makes me excited.',
 'charaepi_ch0043_00_toki/2301_1201_4300_10': 'Let me tell you why...',
 'charaepi_ch0043_00_toki/2301_1201_4400_10': 'The bigger the wave that’s coming at you,\nthe more a surfer wants to ride it!',
-}, 
+}], 
 'charaepi_ch0044_00_tsutsuji_en.lsd': {
 'charaepi_ch0044_00_tsutsuji/2301_1101_0100_20': '[Name:PlayerNickname ] had been called \nto a cave by Roxanne.',
 'charaepi_ch0044_00_tsutsuji/2301_1101_0200_20': 'Roxanne said she had something \nto discuss with [Name:PlayerNickname ].',
@@ -11469,7 +11469,7 @@
 'charaepi_ch0044_00_tsutsuji/2301_1201_4700_10': 'I was only thinking about what sort of lesson to\ngive some junior Trainers.',
 'charaepi_ch0044_00_tsutsuji/2301_1201_4800_10': 'Now I realized I’ve learned quite a bit myself!',
 'charaepi_ch0044_00_tsutsuji/2301_1201_4900_10': 'There’s still so much for me to learn from you\nand Nosepass, [Name:PlayerNickname ]!',
-}, 
+}], 
 'charaepi_ch0045_00_tsukushi_en.lsd': {
 'charaepi_ch0045_00_tsukushi/2301_1101_0100_20': '[Name:PlayerNickname ] needed a breath\nof fresh air away from the bustle of the city,\nso [EN:Gen Ref="255" M="he" F="she" ] decided to take a stroll in the forest.',
 'charaepi_ch0045_00_tsukushi/2301_1101_0200_20': 'However, the moment [EN:Gen Ref="255" M="he" F="she" ] arrived \nin a quiet place, a Beedrill suddenly \nzoomed out of the trees right toward [EN:Gen Ref="255" M="him" F="her" ]!',
@@ -11525,7 +11525,7 @@
 'charaepi_ch0045_00_tsukushi/2301_1201_5200_10': 'I should really thank you!\nI don’t know if I would have been able\nto realize that all on my own!',
 'charaepi_ch0045_00_tsukushi/2301_1201_5300_10': 'Well, first things first...',
 'charaepi_ch0045_00_tsukushi/2301_1201_5400_10': 'I think I can start by teaching people that\nBeedrill only attack with their poisonous\nstingers if they’re attacked first...',
-}, 
+}], 
 'charaepi_ch0046_00_datsura_en.lsd': {
 'charaepi_ch0046_00_datsura/2301_1101_0100_20': '[Name:PlayerNickname ] came to the village \nto do a sprint workout.',
 'charaepi_ch0046_00_datsura/2301_1101_0200_20': 'While there, [EN:Gen Ref="255" M="he" F="she" ] saw somebody unexpected.',
@@ -11570,7 +11570,7 @@
 'charaepi_ch0046_00_datsura/2301_1201_4100_10': 'But don’t just think about it, because that’s not\nenough. You have to experience it yourself, too.',
 'charaepi_ch0046_00_datsura/2301_1201_4200_10': 'If there’s something you want to do, try it.\nIt doesn’t matter if you’re nervous about it\nor if you’re crummy at it.',
 'charaepi_ch0046_00_datsura/2301_1201_4300_10': 'Being able to do that is the most important\nquality you can have!',
-}, 
+}], 
 'charaepi_ch0047_00_itsuki_en.lsd': {
 'charaepi_ch0047_00_itsuki/2301_1101_0100_20': 'As [Name:PlayerNickname ] was wandering\nthe town, [EN:Gen Ref="255" M="he" F="she" ] felt like someone was calling [EN:Gen Ref="255" M="him" F="her" ].',
 'charaepi_ch0047_00_itsuki/2301_1101_0200_20': 'Looking around, [EN:Gen Ref="255" M="he" F="she" ] noticed Will \nand Xatu standing there.',
@@ -11619,9 +11619,9 @@
 'charaepi_ch0047_00_itsuki/2301_1201_4500_10': 'That would take the fun out of it, wouldn’t it?',
 'charaepi_ch0047_00_itsuki/2301_1201_4600_10': 'We may be able to forecast the future, but it\nis up to us to be able to pave the way to it!',
 'charaepi_ch0047_00_itsuki/2301_1201_4700_10': 'I’m looking forward to our future!',
-}, 
+}], 
 'charaepi_ch0048_00_gima_en.lsd': {
-}, 
+}], 
 'charaepi_ch0049_00_fuyo_en.lsd': {
 'charaepi_ch0049_00_fuyo/2301_1101_0100_20': '[Name:PlayerNickname ] entered the forest,\nfeeling as if something was drawing [EN:Gen Ref="255" M="him" F="her" ] in.',
 'charaepi_ch0049_00_fuyo/2301_1101_0200_20': 'Proceeding farther, [EN:Gen Ref="255" M="he" F="she" ] found Phoebe \nalone in a clearing looking around.',
@@ -11669,7 +11669,7 @@
 'charaepi_ch0049_00_fuyo/2301_1201_4400_10': 'Even if it’s something you can’t logically\nunderstand, you can have an emotional\nconnection with your Pokémon.',
 'charaepi_ch0049_00_fuyo/2301_1201_4500_10': 'I’m sure you can feel that sync strength \nwith your Pokémon, too!',
 'charaepi_ch0049_00_fuyo/2301_1201_4600_10': 'If you can do that, maybe you’ll be able to see\nthe spirits, also!',
-}, 
+}], 
 'charaepi_ch0050_00_sumomo_en.lsd': {
 'charaepi_ch0050_00_sumomo/2301_1101_0100_20': '[Name:PlayerNickname ] heard that Maylene\nwas training up in the mountains, so [EN:Gen Ref="255" M="he" F="she" ]\ndecided to go and check it out [EN:Gen Ref="255" M="himself" F="herself" ].',
 'charaepi_ch0050_00_sumomo/2301_1101_0200_20': 'Upon arriving, [EN:Gen Ref="255" M="he" F="she" ] found Maylene and\nher Meditite in focused meditation.',
@@ -11722,7 +11722,7 @@
 'charaepi_ch0050_00_sumomo/2301_0402_4900_10': 'Uh... Isn’t that something people\ncan’t usually do?',
 'charaepi_ch0050_00_sumomo/2301_1201_5000_10': 'It’s fine! If I build up my leg muscles,\nI’ll be able to keep going after battle\nwithout getting tired!',
 'charaepi_ch0050_00_sumomo/2301_1201_5100_10': '[Name:PlayerNickname ], want to go climbing\nwith me? I bet it’ll be really fun!',
-}, 
+}], 
 'charaepi_ch0051_00_litchi_en.lsd': {
 'charaepi_ch0051_00_litchi/2301_1201_0100_10': 'Did I do something to make you angry, Lycanroc?',
 'charaepi_ch0051_00_litchi/2301_1201_0200_10': 'If I gave a bad command, I’m sorry...',
@@ -11771,7 +11771,7 @@
 'charaepi_ch0051_00_litchi/2301_1201_4500_10': 'People and Pokémon are really interesting, aren’t\nthey? This is why I can never get enough of this!',
 'charaepi_ch0051_00_litchi/2301_1201_4600_10': 'Lycanroc, let’s use our time on Pasio to build the\nperfect relationship to make us even stronger!',
 'charaepi_ch0051_00_litchi/2301_1201_4700_10': 'I trust you with my life.\nYou’re my precious partner, after all!',
-}, 
+}], 
 'charaepi_ch0052_00_shizui_en.lsd': {
 'charaepi_ch0052_00_shizui/2301_1101_0100_20': 'As [Name:PlayerNickname ] was walking down\nthe beach, [EN:Gen Ref="255" M="he" F="she" ] spotted what looked like\nMarlon and his Carracosta off in the distance.',
 'charaepi_ch0052_00_shizui/2301_1101_0200_20': '[EN:Gen Ref="255" M="He" F="She" ] moved toward them to say hi,\nbut when [EN:Gen Ref="255" M="he" F="she" ] got closer, they were\nnowhere to be found...',
@@ -11816,7 +11816,7 @@
 'charaepi_ch0052_00_shizui/2301_1201_4100_10': 'If you ever get serious, you might even\nbeat me! There’s no way I’m gonna let that\nhappen, though!',
 'charaepi_ch0052_00_shizui/2301_1201_4200_10': 'Ha ha ha! Aw, man!\nI can’t wait for that battle!',
 'charaepi_ch0052_00_shizui/2301_1201_4300_10': 'It’s one more wave we can look forward to\nshreddin’ one day, Carracosta!',
-}, 
+}], 
 'charaepi_ch0053_00_zakuro_en.lsd': {
 'charaepi_ch0053_00_zakuro/2301_1101_0100_20': '[Name:PlayerNickname ] heard Grant and his\nAmaura were heading up to the mountains,\nso [EN:Gen Ref="255" M="he" F="she" ] decided to head that way as well.',
 'charaepi_ch0053_00_zakuro/2301_1101_0200_20': 'Upon arriving, [EN:Gen Ref="255" M="he" F="she" ] spotted the pair of them\ngazing up at some tall cliffs.',
@@ -11867,7 +11867,7 @@
 'charaepi_ch0053_00_zakuro/2301_1201_4700_10': 'Rock-climbing is my own challenge to myself,\nbut Pokémon battling can be something we\nstrive to conquer together.',
 'charaepi_ch0053_00_zakuro/2301_1201_4800_10': 'Overcoming a tough battle is like climbing a\ngiant wall—there’s beauty on the other side\nthat you won’t find anywhere else...',
 'charaepi_ch0053_00_zakuro/2301_1201_4900_10': 'That’s how I like to look at it, anyway.',
-}, 
+}], 
 'charaepi_ch0054_00_kyo_en.lsd': {
 'charaepi_ch0054_00_kyo/2301_1101_0100_20': '[Name:PlayerNickname ] arrived at the cave \nwhere Koga had asked [EN:Gen Ref="255" M="him" F="her" ] to meet him.',
 'charaepi_ch0054_00_kyo/2301_1101_0200_20': 'However, Koga was nowhere to be seen.',
@@ -11909,7 +11909,7 @@
 'charaepi_ch0054_00_kyo/2301_1201_3800_10': 'But all this is why you must never let your guard\ndown, especially since you and your Pokémon\nhave such a strong bond.',
 'charaepi_ch0054_00_kyo/2301_1201_3900_10': 'You cannot cut corners at the PML.\nOr rather, there are not many Trainers here\nthat you can win against by cutting corners.',
 'charaepi_ch0054_00_kyo/2301_1201_4000_10': 'I’m looking forward to seeing if your bond can\novercome ours!',
-}, 
+}], 
 'charaepi_ch0055_00_gampi_en.lsd': {
 'charaepi_ch0055_00_gampi/2301_1101_0100_20': '[Name:PlayerNickname ] had heard talk of a\nman in gleaming armor spotted in the village,\nso [EN:Gen Ref="255" M="he" F="she" ] decided to make [EN:Gen Ref="255" M="his" F="her" ] way there.',
 'charaepi_ch0055_00_gampi/2301_1101_0200_20': 'Fortunately, the polished sheen \nof steel is easy to spot.',
@@ -11960,7 +11960,7 @@
 'charaepi_ch0055_00_gampi/2301_1201_4700_10': 'The brazen, bladed buffoon! Ha ha ha!',
 'charaepi_ch0055_00_gampi/2301_1201_4800_10': 'I must apologize if I have prattled on\ntoo long... ’Tis important to enjoy a good\nPokémon battle now and again as well!',
 'charaepi_ch0055_00_gampi/2301_1201_4900_10': 'Ha ha ha! Oh, my dear Aegislash!\nLet us go now. We shall enjoy this merry\nfestival of the PML with honor and grace!',
-}, 
+}], 
 'charaepi_ch0056_00_kuchinashi_en.lsd': {
 'charaepi_ch0056_00_kuchinashi/2301_1101_0100_20': 'While out shopping, [Name:PlayerNickname ]\nsaw a certain Trainer.',
 'charaepi_ch0056_00_kuchinashi/2301_1201_0200_10': 'My precious Drifloon blew away in the wind!\nI only took my eyes off him for a second!',
@@ -11999,7 +11999,7 @@
 'charaepi_ch0056_00_kuchinashi/2301_0402_3500_10': 'It might be weird for me to say this,\nbeing the one who brought it up...',
 'charaepi_ch0056_00_kuchinashi/2301_1201_3600_10': 'but it’s as clear as day that you are, so it \ndoesn’t even really matter what you answer.',
 'charaepi_ch0056_00_kuchinashi/2301_1201_3700_10': 'I just think that watching a Trainer like you\nwould keep me entertained.',
-}, 
+}], 
 'charaepi_ch0057_00_shiba_en.lsd': {
 'charaepi_ch0057_00_shiba/2301_1101_0100_20': '[Name:PlayerNickname ] stopped in town\nduring [EN:Gen Ref="255" M="his" F="her" ] travels for a little rest and relaxation.',
 'charaepi_ch0057_00_shiba/2301_1101_0200_20': 'Suddenly, [EN:Gen Ref="255" M="he" F="she" ] heard laughter \ncoming from close by.',
@@ -12049,7 +12049,7 @@
 'charaepi_ch0057_00_shiba/2301_1201_4600_10': 'That is what drives us to become stronger than\nwe have ever been.',
 'charaepi_ch0057_00_shiba/2301_1201_4700_10': 'That is our path.',
 'charaepi_ch0057_00_shiba/2301_1201_4800_10': 'And that path goes on forever. We will continue\ntraining our minds and bodies like this.',
-}, 
+}], 
 'charaepi_ch0058_00_kahiri_en.lsd': {
 'charaepi_ch0058_00_kahiri/2301_1101_0100_20': '[Name:PlayerNickname ] found a golf ball \nat the base of a tree.',
 'charaepi_ch0058_00_kahiri/2301_1101_0200_20': 'After picking it up, [EN:Gen Ref="255" M="he" F="she" ] noticed that \nthere was a name written on it...',
@@ -12106,7 +12106,7 @@
 'charaepi_ch0058_00_kahiri/2301_1201_5300_10': 'She is the perfect partner when it comes to\ngolf, Pokémon battles, and even everyday life.',
 'charaepi_ch0058_00_kahiri/2301_1201_5400_10': 'If I overwork myself and collapse, \nit would cause a lot of trouble for Toucannon.',
 'charaepi_ch0058_00_kahiri/2301_1201_5500_10': 'And that is something I want to avoid \nmore than anything.',
-}, 
+}], 
 'charaepi_ch0059_00_katsura_en.lsd': {
 'charaepi_ch0059_00_katsura/2301_1101_0100_20': '[Name:PlayerNickname ] saw a Ponyta racing\nup toward the volcano and decided to chase it.',
 'charaepi_ch0059_00_katsura/2301_1101_0200_20': 'At the end of the chase, [EN:Gen Ref="255" M="he" F="she" ] found \nBlaine deep in thought.',
@@ -12167,7 +12167,7 @@
 'charaepi_ch0059_00_katsura/2301_1201_5700_10': 'But I won’t give up!',
 'charaepi_ch0059_00_katsura/2301_1201_5800_10': 'One day, I will think of a quiz that everybody\ncan enjoy!',
 'charaepi_ch0059_00_katsura/2301_1201_5900_10': 'I will make quizzes the next craze on Pasio!',
-}, 
+}], 
 'charaepi_ch0060_00_anzu_en.lsd': {
 'charaepi_ch0060_00_anzu/2301_1101_0100_20': 'Janine was intently watching people \ngoing to and fro in town.',
 'charaepi_ch0060_00_anzu/2301_1101_0200_20': 'She did not notice [Name:PlayerNickname ]\nas [EN:Gen Ref="255" M="he" F="she" ] approached her.',
@@ -12213,7 +12213,7 @@
 'charaepi_ch0060_00_anzu/2301_0402_4200_10': 'We could beat my father and his Crobat!',
 'charaepi_ch0060_00_anzu/2301_1201_4300_10': 'With our sync power, Ariados and I will only\nget stronger!',
 'charaepi_ch0060_00_anzu/2301_1201_4400_10': 'Stronger than you...and stronger than Father!',
-}, 
+}], 
 'charaepi_ch0061_00_kikuko_en.lsd': {
 'charaepi_ch0061_00_kikuko/2301_1101_0100_10': '[Name:PlayerNickname ] carefully made [EN:Gen Ref="255" M="his" F="her" ]\nway through a long, dark cave.',
 'charaepi_ch0061_00_kikuko/2301_1101_0200_10': '[EN:Gen Ref="255" M="He" F="She" ] thought [EN:Gen Ref="255" M="he" F="she" ] heard something.',
@@ -12264,7 +12264,7 @@
 'charaepi_ch0061_00_kikuko/2301_1201_4700_10': 'That’s one thing you should keep\nin mind, [Name:PlayerNickname ].',
 'charaepi_ch0061_00_kikuko/2301_1201_4800_10': 'No matter how much you think you’re all alone\nand no one understands you, people are never\nreally alone.',
 'charaepi_ch0061_00_kikuko/2301_1201_4900_10': 'If you take a look around, you’ll definitely find\nsomeone meddlesome lurking nearby.\nLike in the shadow of that rock there.',
-}, 
+}], 
 'charaepi_ch0062_00_karin_en.lsd': {
 'charaepi_ch0062_00_karin/2301_1101_0100_20': 'As [Name:PlayerNickname ] was walking\ndown a city street, [EN:Gen Ref="255" M="he" F="she" ] noticed Karen and\nHoundoom walking just ahead of [EN:Gen Ref="255" M="him" F="her" ].',
 'charaepi_ch0062_00_karin/2301_1101_0200_20': '[EN:Gen Ref="255" M="He" F="She" ] opened [EN:Gen Ref="255" M="his" F="her" ] mouth to call out to them,\nbut at that exact same moment, \nthey turned around to face [EN:Gen Ref="255" M="him" F="her" ].',
@@ -12313,7 +12313,7 @@
 'charaepi_ch0062_00_karin/2301_1201_4400_10': 'Trainers like you should battle with\nwhatever Pokémon they want and\nhowever they wish.',
 'charaepi_ch0062_00_karin/2301_1201_4500_10': 'You have your own way of doing things,\nand so do I...',
 'charaepi_ch0062_00_karin/2301_1201_4600_10': 'I hope someday we can see how our\ndifferences measure up in battle. \nI’ll be looking forward to it.',
-}, 
+}], 
 'charaepi_ch0063_00_renbu_en.lsd': {
 'charaepi_ch0063_00_renbu/2301_1101_0100_20': 'Hearing a loud noise coming from somewhere\non the mountain, [Name:PlayerNickname ]\ndecided to investigate.',
 'charaepi_ch0063_00_renbu/2301_1101_0200_20': 'The source of the mysterious sound was Marshal\nand his Conkeldurr’s rigorous training.',
@@ -12365,9 +12365,9 @@
 'charaepi_ch0063_00_renbu/2301_1201_4800_10': 'I was not mistaken in acknowledging you,\n[Name:PlayerNickname ]. You truly are\na spirited Trainer!',
 'charaepi_ch0063_00_renbu/2301_1201_4900_10': 'Let’s make our way to the top, rival!',
 'charaepi_ch0063_00_renbu/2301_1201_5000_10': 'You may even be able to shatter Conkeldurr’s\nconcrete one day!',
-}, 
+}], 
 'charaepi_ch0091_00_shirona_en.lsd': {
-}, 
+}], 
 'charaepi_ch0092_00_iris_en.lsd': {
 'charaepi_ch0092_00_iris/2301_1101_0100_20': 'While exploring the volcano one day,\n[Name:PlayerNickname ] heard a strange,\nmetallic clanking sound.',
 'charaepi_ch0092_00_iris/2301_1101_0200_20': 'Curious, [EN:Gen Ref="255" M="he" F="she" ] decided to move deeper \ninto the volcano to investigate...',
@@ -12409,7 +12409,7 @@
 'charaepi_ch0092_00_iris/2301_1201_3800_10': 'What? You want me to wear a sygna suit \nso I can look super cool, too?',
 'charaepi_ch0092_00_iris/2301_1201_3900_10': 'Haha! You sure are awfully demanding today,\naren’t you?',
 'charaepi_ch0092_00_iris/2301_1201_4000_10': 'I’ve already got the clothes my grandpa\ngave me...but I guess I’d wear a sygna suit\nif somebody gave me one!',
-}, 
+}], 
 'charaepi_ch0094_00_genji_en.lsd': {
 'charaepi_ch0094_00_genji/2301_1101_0100_20': 'The sound of a steam whistle echoed \nthroughout the area.',
 'charaepi_ch0094_00_genji/2301_1101_0200_20': 'Drawn by it, [Name:PlayerNickname ] moved\ntoward the coast, where [EN:Gen Ref="255" M="he" F="she" ] found Drake and\nSalamence gazing out at the ocean.',
@@ -12446,9 +12446,9 @@
 'charaepi_ch0094_00_genji/2301_1201_3300_10': 'Salamence is a Pokémon that hoped and\nwished it could fly for a long time until it finally\ngot its wings.',
 'charaepi_ch0094_00_genji/2301_1201_3400_10': 'Salamence is proof that you can reach your\ngoals if you keep believing in yourself.',
 'charaepi_ch0094_00_genji/2301_1201_3500_10': 'Now it’s my turn. I won’t let this chance get\naway from me!',
-}, 
+}], 
 'charaepi_ch0095_00_cattleya_en.lsd': {
-}, 
+}], 
 'charaepi_ch0096_00_zumi_en.lsd': {
 'charaepi_ch0096_00_zumi/2301_1101_0100_20': '[Name:PlayerNickname ] met up with Siebold\nto buy some ingredients for his recipe.',
 'charaepi_ch0096_00_zumi/2301_1101_0200_20': 'Once they’d collected everything on the list,\nthey decided to take a short break.',
@@ -12496,9 +12496,9 @@
 'charaepi_ch0096_00_zumi/2301_1201_4400_10': 'We’ve already purchased all of the necessary\ningredients. I think it’s time we turned them\ninto something shockingly delicious!',
 'charaepi_ch0096_00_zumi/2301_1201_4500_10': 'Feast your eyes as Chef Siebold draws out\nthe limitless potential of the ingredients\nhe’s chosen for this dish...',
 'charaepi_ch0096_00_zumi/2301_1201_4600_10': 'Let the battle begin!',
-}, 
+}], 
 'charaepi_ch0096_10_zumi_en.lsd': {
-}, 
+}], 
 'charaepi_ch0097_00_mai_en.lsd': {
 'charaepi_ch0097_00_mai/2301_1101_0100_20': '[Name:PlayerNickname ] noticed the light of \na swaying flame deep in the forest.',
 'charaepi_ch0097_00_mai/2301_1101_0200_20': 'Curious, [EN:Gen Ref="255" M="he" F="she" ] snuck deeper into the forest.',
@@ -12547,7 +12547,7 @@
 'charaepi_ch0097_00_mai/2301_1201_4500_10': 'I really appreciate you following me.\nThank you.',
 'charaepi_ch0097_00_mai/2301_1201_4600_10': 'One of these days, I’ll make sure to\nthank you properly.',
 'charaepi_ch0097_00_mai/2301_1201_4700_10': 'I love you, Arcanine.\nPlease stay with me always.',
-}, 
+}], 
 'charaepi_ch0098_00_hau_en.lsd': {
 'charaepi_ch0098_00_hau/2301_1101_0100_20': '[Name:PlayerNickname ] spotted Hau walking\ninto the mountains.',
 'charaepi_ch0098_00_hau/2301_1101_0200_20': 'Concerned about Raichu’s cries, \n[EN:Gen Ref="255" M="he" F="she" ] decided to follow Hau into the mountains.',
@@ -12598,7 +12598,7 @@
 'charaepi_ch0098_00_hau/2301_1201_4700_10': 'Come with us, [Name:PlayerNickname ]!\nAnd once we’re done eating...',
 'charaepi_ch0098_00_hau/2301_1201_4800_10': 'I’d like you to come train with us!',
 'charaepi_ch0098_00_hau/2301_1201_4900_10': 'I think you’re a lot stronger of \nan opponent than other Trainers!',
-}, 
+}], 
 'charaepi_ch0099_00_jun_en.lsd': {
 'charaepi_ch0099_00_jun/2301_1101_0100_20': '[Name:PlayerNickname ] had come to town \nto do some shopping.',
 'charaepi_ch0099_00_jun/2301_1101_0200_20': '[EN:Gen Ref="255" M="He" F="She" ] turned the corner onto a big street to get \nto the shop [EN:Gen Ref="255" M="he" F="she" ] was heading for.',
@@ -12662,7 +12662,7 @@
 'charaepi_ch0099_00_jun/2312_0501_0300_10': 'The way you battled, I almost thought you were\nyour father!',
 'charaepi_ch0099_00_jun/2312_0501_0400_10': 'We did it, Prinplup! It’s all thanks to\ny— Wait, what’s happening?!',
 'charaepi_ch0099_00_jun/2312_0501_0500_10': 'What’s that all about?! If you’re going to evolve,\nat least say something!',
-}, 
+}], 
 'charaepi_ch0101_00_mei_en.lsd': {
 'charaepi_ch0101_00_mei/2301_1101_0100_20': '[Name:PlayerNickname ] entered a clearing\nin the forest and heard Rosa’s voice nearby.',
 'charaepi_ch0101_00_mei/2301_1201_0200_10': '“All right! I’ll show you how it’s done!”',
@@ -12738,13 +12738,13 @@
 'charaepi_ch0101_00_mei/2312_0501_0300_10': 'It was fun for us, too.\nWe should do this again sometime.',
 'charaepi_ch0101_00_mei/2312_0501_0400_10': 'We did it, Servine! Brock was right—\nI think you’re gonna continue to get\neven stronger!',
 'charaepi_ch0101_00_mei/2312_0501_0500_10': 'Whoa! Hold on. Are you evolving?!\nThis is amazing! Promise me we’ll always\nbe together, even after you evolve!',
-}, 
+}], 
 'charaepi_ch0101_10_mei_en.lsd': {
-}, 
+}], 
 'charaepi_ch0106_00_kamitsure_en.lsd': {
-}, 
+}], 
 'charaepi_ch0106_10_kamitsure_en.lsd': {
-}, 
+}], 
 'charaepi_ch0110_00_kasumi_en.lsd': {
 'charaepi_ch0110_00_kasumi/2301_1101_0100_20': 'One day, [Name:PlayerNickname ] was taking\na stroll with [EN:Gen Ref="255" M="his" F="her" ] Pokémon along the beach when\n[EN:Gen Ref="255" M="he" F="she" ] came upon a peculiar sync pair.',
 'charaepi_ch0110_00_kasumi/2301_1101_0200_20': 'The two of them appeared to be roping off \nan area of the beach for themselves...',
@@ -12782,47 +12782,47 @@
 'charaepi_ch0110_00_kasumi/2301_1201_3400_10': 'It’s all great training for Starmie in the end! And \nhelping people and Pokémon is super important!',
 'charaepi_ch0110_00_kasumi/2301_1201_3500_10': 'Helping you would make me really happy!\nI love supporting younger Trainers like you\nalmost as much as I love raising up Pokémon!',
 'charaepi_ch0110_00_kasumi/2301_1201_3600_10': 'Either way, Starmie and I are looking forward to\nhaving tons more fun together from here on out!\nIt’s gonna be great!',
-}, 
+}], 
 'charaepi_ch0111_00_wataru_en.lsd': {
-}, 
+}], 
 'charaepi_ch0112_00_hibiki_en.lsd': {
-}, 
+}], 
 'charaepi_ch0113_00_mikan_en.lsd': {
-}, 
+}], 
 'charaepi_ch0114_00_natsume_en.lsd': {
-}, 
+}], 
 'charaepi_ch0118_00_lillie_en.lsd': {
-}, 
+}], 
 'charaepi_ch0124_00_mao_en.lsd': {
-}, 
+}], 
 'charaepi_ch0140_00_sakaki_en.lsd': {
-}, 
+}], 
 'charaepi_ch0151_00_melissa_en.lsd': {
-}, 
+}], 
 'charaepi_ch0153_00_prim_en.lsd': {
-}, 
+}], 
 'charaepi_ch0157_00_mache_en.lsd': {
-}, 
+}], 
 'episode_event_ch0004_00_toko_en.lsd': {
-}, 
+}], 
 'episode_event_ch0095_00_cattleya_en.lsd': {
-}, 
+}], 
 'episode_event_christmas_2019_2nd_en.lsd': {
-}, 
+}], 
 'episode_event_christmas_2019_en.lsd': {
-}, 
+}], 
 'episode_event_general_ch0004_00_toko_en.lsd': {
-}, 
+}], 
 'episode_event_general_ch0095_00_cattleya_en.lsd': {
-}, 
+}], 
 'episode_event_general_christmas_2019_2nd_en.lsd': {
-}, 
+}], 
 'episode_event_general_christmas_2019_en.lsd': {
-}, 
+}], 
 'episode_event_general_christmas_en.lsd': {
-}, 
+}], 
 'episode_event_general_wataru_shirona_01_en.lsd': {
-}, 
+}], 
 'episode_event_M1_ch0021_00_green_en.lsd': {
 'episode_event_M1_ch0021_00_green/4001_1001_0100_10': 'Whew! I think that’s good enough for today’s\ntraining! How about we head back, Pidgeot?',
 'episode_event_M1_ch0021_00_green/4001_1001_0200_10': 'Hm? What’s up?',
@@ -12917,83 +12917,83 @@
 'episode_event_M1_ch0021_00_green/4007_1001_2600_10': 'Here’s hoping we can see each other again at\nsome other tournament event.',
 'episode_event_M1_ch0021_00_green/4007_1001_2700_10': 'I have no intention of losing, so if you keep\nmoving up the ranks, I’m sure we’ll end up\nbattling each other one way or another.',
 'episode_event_M1_ch0021_00_green/4007_1001_2800_10': 'I look forward to seeing how strong you become!',
-}, 
+}], 
 'episode_event_M1_general_ch0021_00_green_en.lsd': {
 'episode_event_M1_general_ch0021_00_green/4101_1001_0100_10': 'I think I’m gonna go do some training.\nYou can come watch if you want, I guess.',
 'episode_event_M1_general_ch0021_00_green/4201_1031_0100_10': 'Today let’s work on...\nOh! I’ve got an idea!',
 'episode_event_M1_general_ch0021_00_green/4201_1001_0100_10': 'Bonjour, [Name:PlayerNickname ]!\nI was about to go train. You want to join me?',
 'episode_event_M1_general_ch0021_00_green/4202_1031_0100_10': 'Guess Blue already left...\nI should go train, too!',
 'episode_event_M1_general_ch0021_00_green/4202_1001_0100_10': 'I think Blue left to go do some training a little\nbit ago. If you hurry, you can probably still\ncatch him!',
-}, 
+}], 
 'episode_event_wataru_shirona_01_en.lsd': {
-}, 
+}], 
 'grow_event_M1_type_grass_en.lsd': {
 'grow_event_M1_type_grass/3901_1301_0100_10': '’Sup, dude? How’s it goin’?\nLemme know when that battlin’ mood strikes ya!',
 'grow_event_M1_type_grass/3902_1031_0100_10': '',
 'grow_event_M1_type_grass/3902_1301_0100_10': 'Yo! Have you been workin’ out with\nCrasher Wake? Sweeeet. I’m ready\nto go whenever you are, dude!',
 'grow_event_M1_type_grass/3903_1031_0100_10': '',
 'grow_event_M1_type_grass/3903_1301_0100_10': 'Do you know how strong Grass types are?!\nWe have to train them up if we want to take\non Marlon!',
-}, 
+}], 
 'grow_event_M1_type_rock_en.lsd': {
 'grow_event_M1_type_rock/3901_1301_0100_10': 'Hah!\nI’ll be waiting for you to get stronger and\nchallenge me again!',
 'grow_event_M1_type_rock/3902_1031_0100_10': '',
 'grow_event_M1_type_rock/3902_1301_0100_10': 'You want to challenge me after you train under\nShauntal? Very good! I’ll be ready for you!',
 'grow_event_M1_type_rock/3903_1031_0100_10': '',
 'grow_event_M1_type_rock/3903_1301_0100_10': '“The time has come to learn about stone...”\nCome on. Let’s do some rock-solid training\nand prepare to challenge Blaine!',
-}, 
+}], 
 'grow_event_M1_type_water_en.lsd': {
 'grow_event_M1_type_water/3901_1301_0100_10': 'C’mon, let’s heat it up! \nI wanna see just how hot your spirit burns!',
 'grow_event_M1_type_water/3902_1031_0100_10': 'Nobody can extinguish\nour flames!',
 'grow_event_M1_type_water/3902_1301_0100_10': 'So you trained with Roark, huh? But have you seen\njust how hot a Pokémon battle can be?! ’Cause I’m\nabout to show you!',
 'grow_event_M1_type_water/3903_1031_0100_10': 'It takes hard work to be\na solid training partner.',
 'grow_event_M1_type_water/3903_1301_0100_10': 'Come on, I’ll give you a hand! Let’s train up\nour Pokémon and get ready to challenge Flint!',
-}, 
+}], 
 'grow_event_type_boost_en.lsd': {
-}, 
+}], 
 'grow_event_type_Electric_en.lsd': {
-}, 
+}], 
 'grow_event_type_ice_en.lsd': {
-}, 
+}], 
 'random_quest_ch0002_00_kotone_en.lsd': {
-}, 
+}], 
 'random_quest_ch0004_00_toko_en.lsd': {
-}, 
+}], 
 'random_quest_ch0033_00_yakon_en.lsd': {
-}, 
+}], 
 'random_quest_ch0038_00_hyouta_en.lsd': {
-}, 
+}], 
 'random_quest_ch0047_00_itsuki_en.lsd': {
-}, 
+}], 
 'random_quest_ch0051_00_litchi_en.lsd': {
-}, 
+}], 
 'random_quest_ch0060_00_anzu_en.lsd': {
-}, 
+}], 
 'random_quest_ch0069_00_elitem_en.lsd': {
-}, 
+}], 
 'random_quest_ch0070_00_elitef_en.lsd': {
-}, 
+}], 
 'random_quest_ch0071_00_otona_en.lsd': {
-}, 
+}], 
 'random_quest_ch0072_00_kaipan_en.lsd': {
-}, 
+}], 
 'random_quest_ch0074_00_tanpan_en.lsd': {
-}, 
+}], 
 'random_quest_ch0075_00_bikini_en.lsd': {
-}, 
+}], 
 'random_quest_ch0079_00_miniskirt_en.lsd': {
-}, 
+}], 
 'random_quest_ch0080_00_yamaotoko_en.lsd': {
-}, 
+}], 
 'random_quest_ch0083_00_badgirl_en.lsd': {
-}, 
+}], 
 'random_quest_ch0084_00_kenkyuin_en.lsd': {
-}, 
+}], 
 'random_quest_ch0085_00_hopef_en.lsd': {
-}, 
+}], 
 'random_quest_ch0086_00_campm_en.lsd': {
-}, 
+}], 
 'random_quest_ch0096_00_zumi_en.lsd': {
-}, 
+}], 
 'search_01_001_en.lsd': {
 'search_01_001/4301_1001_0100_10': 'Eager to learn more about team battling,\n[Name:PlayerNickname ] made [EN:Gen Ref="255" M="his" F="her" ] way over to\nProfessor Bellis’s lab for some advice.',
 'search_01_001/4301_1001_0300_10': 'Oh! Hola, [Name:PlayerNickname ]!\nWelcome to my lab! Thanks for coming.',
@@ -13004,7 +13004,7 @@
 'search_01_001/4301_0402_0800_10': 'Ganbatte! Keep at it!\nWith your Pokémon by your side, I’m sure\nyou’ll get the hang of it in no time!',
 'search_01_001/4301_1001_0900_10': 'As a matter of fact, I think I have an idea!\nWould you mind joining me for some fieldwork?',
 'search_01_001/4301_1001_1000_10': 'There’s a trail in the mountains nearby\nthat would be perfecto!\nAre you ready to leave now? Let’s go!',
-}, 
+}], 
 'search_01_002_en.lsd': {
 'search_01_002/4301_1001_0100_10': 'Bravo! I can tell you’ve already formed an\nincredible bond with your Pokémon.',
 'search_01_002/4301_1001_0200_10': 'Speaking of which, has anyone told you how\nsync moves work or why we’re able to use\nthem here on Pasio?',
@@ -13016,7 +13016,7 @@
 'search_01_002/4301_1001_0800_10': 'Tapping into that sync strength is what allows us\nto use sync moves, as you just demonstrated.\nThat’s what makes battling on Pasio special!',
 'search_01_002/4301_1001_0900_10': 'The more you and your Pokémon develop\nyour sync strength—your bond—the happier\nyou’ll be as a sync pair!',
 'search_01_002/4301_1001_1000_10': 'In the end, that’s the real reason I’m continuing\nmy research! Now, focus on your sync strength\nand try using your sync move again!',
-}, 
+}], 
 'search_01_003_en.lsd': {
 'search_01_003/4301_1001_0100_10': 'Perfecto! My, my! You’re really getting the\nhang of how Pokémon battles work here!',
 'search_01_003/4301_1001_0200_10': 'I’m glad I was able to observe you up close\ntoday. This impromptu fieldwork has been\nso helpful!',
@@ -13025,11 +13025,11 @@
 'search_01_003/4301_1001_0500_10': 'And as I explained before, as your bond with\nyour Pokémon grows, your sync strength\nas partners grows, too.',
 'search_01_003/4301_1001_0600_10': 'I’ll be sure to share any new and helpful\ninformation I come across as I continue\nmy research, OK?',
 'search_01_003/4301_1001_0700_10': 'For now, I think our fieldwork is complete!\nDanke very much, [Name:PlayerNickname ]!\nTa-ta!',
-}, 
+}], 
 'search_01_004_en.lsd': {
 'search_01_004/4301_1001_0100_10': 'All right! Let the fieldwork begin!',
 'search_01_004/4301_1001_0200_10': 'Why don’t you try tapping someone on the\nshoulder and get to conversing! A happy smile\nand an “Alola!” should do the trick!',
-}, 
+}], 
 'search_02_001_en.lsd': {
 'search_02_001/4301_1001_0100_10': 'Oho! I see you’ve collected a badge or two!\nYou must be aiming to compete in the PML.',
 'search_02_001/4301_1001_0200_10': 'Which means...you must have been transported\nhere via one of those mysterious rings, correct?',
@@ -13043,7 +13043,7 @@
 'search_02_001/4301_0302_1000_10': 'I dunno...',
 'search_02_001/4301_0402_1100_10': 'Wh-why the hesitation?\nPleeease? Keep me in the loop—I beg of you!',
 'search_02_001/4301_1001_1200_10': 'I’ll continue doing some investigating of my own\nin the meantime, all right? Yes? OK!\nI hope to hear back from you soon!',
-}, 
+}], 
 'search_02_002_en.lsd': {
 'search_02_002/4301_1001_0100_10': 'Huh? A weird circle?\nYeah, I think I saw something like that.',
 'search_02_002/4301_1001_0200_10': 'I’m pretty sure it was a circle, anyways...\nI mean, it was definitely round...',
@@ -13060,7 +13060,7 @@
 'search_02_002/4301_0601_1300_10': 'Now that you mention it, I think I’ve heard\nrumors about a Pokémon like that before...\nSomething about moving objects through loops...',
 'search_02_002/4301_0601_1301_10': 'I overheard a pretty lady talking about how\nshe got to Pasio not too long ago.',
 'search_02_002/4301_0601_1400_10': 'Maybe she’ll have the information you’re\nlooking for!',
-}, 
+}], 
 'search_02_003_en.lsd': {
 'search_02_003/4301_1001_0100_10': 'Ah, hello again!\nWell? Have you found any new information\nconcerning the strange, mysterious rings?',
 'search_02_003/4301_0301_0200_10': 'Sure have!',
@@ -13074,7 +13074,7 @@
 'search_02_003/4301_0302_1000_10': 'Wh-what’s that?!',
 'search_02_003/4301_0402_1100_10': 'Huh? What are you talking about?\nI don’t see anything.',
 'search_02_003/4301_1001_1200_10': 'Tsk! I don’t appreciate pranks, you know...\nAnyways, I’m not going to give up on this search!\nJust tell me when you have more information!',
-}, 
+}], 
 'search_03_001_en.lsd': {
 'search_03_001/4301_1001_0100_10': 'Heyyy, look who just showed up at the right\nplace at the right time.',
 'search_03_001/4301_1001_0200_10': 'Uh... [Name:PlayerNickname ], was it?',
@@ -13088,7 +13088,7 @@
 'search_03_001/4301_0402_1000_10': 'Is today my lucky day? Yeah! You can help us\nsniff out those Team Break goons. You’ve gotta\nbe pretty fed up with them, too, right?',
 'search_03_001/4301_1001_1100_10': 'R-Rachel!',
 'search_03_001/4301_1001_1200_10': 'Oh, hush. It’s fiiine! Let’s just get this over with.\nCome on, [Name:PlayerNickname ]. Let’s gooo!',
-}, 
+}], 
 'search_03_002_en.lsd': {
 'search_03_002/4301_0101_0100_10': 'Blasted Team Break thugs...wreaking havoc\neverywhere you go while the young master’s\ntrying to run a tournament!',
 'search_03_002/4301_0101_0200_10': 'I knew there’d be more of them slinking around...\nAnd look, here they are. Surprise, surprise.',
@@ -13099,7 +13099,7 @@
 'search_03_002/4301_0501_0200_10': 'Ugh, fiiinally. I thought that would never end.\nCome on. Let’s hurry up and report back to\nMaster Lear.',
 'search_03_002/4301_0501_0300_10': 'Not yet. We need to continue making our\nrounds. Team Break have probably scattered\nall over this island.',
 'search_03_002/4301_0501_0400_10': 'Did you hear that, [Name:PlayerNickname ]?\nSounds like we need your help for a\nli’l bit longer...',
-}, 
+}], 
 'search_03_003_en.lsd': {
 'search_03_003/4301_1001_0100_10': 'Phew... Looks like we cleared out all the\nTeam Break stragglers in this area.',
 'search_03_003/4301_1001_0200_10': 'Hmm... Think we did good enough to squeeze\na compliment out of Master Lear for once?',
@@ -13116,19 +13116,19 @@
 'search_03_003/4301_1001_1300_10': 'However...the young master IS going to\nwin the PML. Both of us support him\nwholeheartedly in that, all right?',
 'search_03_003/4301_1001_1400_10': 'Well, maaaybe we could root for you a\nli’l bit, too. Juuust a li’l bit.',
 'search_03_003/4301_1001_1500_10': 'See you around.',
-}, 
+}], 
 'search_04_001_en.lsd': {
-}, 
+}], 
 'search_04_002_en.lsd': {
-}, 
+}], 
 'search_04_003_en.lsd': {
-}, 
+}], 
 'search_05_001_en.lsd': {
-}, 
+}], 
 'search_05_002_en.lsd': {
-}, 
+}], 
 'search_05_003_en.lsd': {
-}, 
+}], 
 'search_general_talk_01_en.lsd': {
 'search_general_talk_01/4401_1031_0100_10': 'I want a sync stone...',
 'search_general_talk_01/4401_1031_0200_10': 'They’re so shiny, and\nthey’re only found here...',
@@ -13193,7 +13193,7 @@
 'search_general_talk_01/4702_0302_0100_10': 'Wait!',
 'search_general_talk_01/4702_0402_0100_10': 'Don’t worry. We ain’t goin’ nowhere.\nWe’ll be here when you’re ready.',
 'search_general_talk_01/4702_0102_0100_10': 'There you are. Are you ready?',
-}, 
+}], 
 'search_general_talk_02_en.lsd': {
 'search_general_talk_02/4401_1031_0100_10': 'Mysterious charm and\nblinding glamor!',
 'search_general_talk_02/4401_1031_0200_10': 'Pasio is my stage to shine!',
@@ -13247,7 +13247,7 @@
 'search_general_talk_02/2861_0501_0200_10': 'Oh gosh, I’m so sorry. I just lost my temper and\nsaw red.',
 'search_general_talk_02/2861_0501_0300_10': 'I like Pokémon so much that people around me\nsay that I’m a bit of a weirdo.',
 'search_general_talk_02/2861_0501_0400_10': 'If there is a strange Pokémon around here,\nI think I can really relate to it.',
-}, 
+}], 
 'search_general_talk_03_en.lsd': {
 'search_general_talk_03/4401_1031_0100_10': 'I wonder what kind of\ncountry it is...',
 'search_general_talk_03/4401_1031_0200_10': 'He’s next in line for the\nthrone, right?',
@@ -13293,11 +13293,11 @@
 'search_general_talk_03/4701_0501_0100_10': 'I thought I could show off to all my followers!',
 'search_general_talk_03/4701_0501_0200_10': 'It doesn’t matter if you lose! This weak and\nvulnerable side of you is just as lovely!',
 'search_general_talk_03/4701_0501_0300_10': 'Please...just leave me alone...',
-}, 
+}], 
 'search_general_talk_04_en.lsd': {
-}, 
+}], 
 'search_general_talk_05_en.lsd': {
-}, 
+}], 
 'story_00_01000_en.lsd': {
 'story_00_01000/2401_1001_0100_10': 'Hey there, friend!\nWelcome to the world of Pokémon Masters!',
 'story_00_01000/2401_1001_0200_10': 'I’m Blue!\nI’m a pretty big deal around here. ',
@@ -13309,7 +13309,7 @@
 'story_00_01000/2401_1001_0800_10': 'Each Trainer can only use one Pokémon, \nthough, so the real challenge is how well \nyour team works together!',
 'story_00_01000/2401_1001_0900_10': 'We’re gonna meet so many awesome Trainers\nhere! It’s kind of crazy to think about.\nI know I’m excited!',
 'story_00_01000/2401_1001_1000_10': 'Well then, off we go! \nTo the world of Pokémon Masters!',
-}, 
+}], 
 'story_00_02000_en.lsd': {
 'story_00_02000/2401_1001_0100_10': 'Hello! Nice to meet you!\nI’m Trista, the receptionist here at\nthe Pokémon Masters League.',
 'story_00_02000/2401_1001_0110_10': 'Would you and Pikachu like to register\nto compete, [Name:PlayerNickname ]?\nIf so, you’ll be needing one of these!',
@@ -13327,7 +13327,7 @@
 'story_00_02000/2401_1001_1350_10': 'Well, now that we’re all together, \nwhy don’t we head out to the city?',
 'story_00_02000/2401_1001_1400_10': 'Lots of Trainers like to gather around just outside\nthe Pokémon Center. It shouldn’t be too hard to\nfind more teammates there!',
 'story_00_02000/2401_1001_1500_10': 'Here. Take this, [Name:PlayerNickname ].\nLet’s head out whenever you’re ready!',
-}, 
+}], 
 'story_01_01000_en.lsd': {
 'story_01_01000/2401_1001_0100_10': 'This is Centra City, the biggest city on Pasio.\nYou might be surprised to know that Pasio is\na completely artificial island!',
 'story_01_01000/2401_1001_0200_10': 'Now then, I have a sync pair in mind \nthat might be willing to join our team, \nso let’s go look for them.',
@@ -13343,7 +13343,7 @@
 'story_01_01000/2401_1001_1200_10': 'Brock? Misty?!',
 'story_01_01000/2401_1001_1300_10': 'You look like you could use a hand, Rosa.\nDon’t worry—we’ll take care of these guys!',
 'story_01_01000/2401_1001_1400_10': 'Who are you? If you wanna start somethin’,\nyou got it! We’ll make you eat dirt!',
-}, 
+}], 
 'story_01_02000_en.lsd': {
 'story_01_02000/2401_1001_0100_10': 'I...I can’t believe we lost to you bozos!\nArgh! You’ll pay for this!',
 'story_01_02000/2401_1001_0200_10': 'Nice timing, you guys!\nCynthia and I were having a nice chat\nbefore those two started harassing us...',
@@ -13366,7 +13366,7 @@
 'story_01_02000/2401_1001_1900_10': 'Ahh... So that’s why you came to find me.\nI’m so flattered!',
 'story_01_02000/2401_1001_2000_10': 'But first things first.\nWe’ve gotta have a Pokémon battle!',
 'story_01_02000/2401_1001_2100_10': 'A battle should teach me all I need to know\nabout you, [Name:PlayerNickname ]!\nShow me what you’ve got!',
-}, 
+}], 
 'story_01_03000_en.lsd': {
 'story_01_03000/2401_1001_0100_10': 'That was impressive, [Name:PlayerNickname ]!\nYou’re way better than I expected!',
 'story_01_03000/2401_1001_0200_10': 'I’d be more than happy to join your team,\nif you’ll have me! \nYou didn’t change your minds, did you?!',
@@ -13379,7 +13379,7 @@
 'story_01_03000/2401_1001_0900_10': 'Where is this Barry?',
 'story_01_03000/2401_1001_1000_10': 'The last time I saw him, he said he’d be\nheading to the beach for a while!',
 'story_01_03000/2401_1001_1100_10': 'I can take you there, if you want!\nCome on! Let’s go, [Name:PlayerNickname ]!',
-}, 
+}], 
 'story_02_01000_en.lsd': {
 'story_02_01000/2401_1001_0100_10': 'This way, [Name:PlayerNickname ]!\nBarry should be just up ahead!',
 'story_02_01000/2401_1001_0200_10': 'Hurry up! I want to introduce you all!',
@@ -13390,7 +13390,7 @@
 'story_02_01000/2401_1001_0700_10': 'Even Cynthia speaks highly of him!',
 'story_02_01000/2401_1001_0800_10': 'Wow, really?\nI’m looking forward to meeting this Barry now!',
 'story_02_01000/2401_1001_0900_10': 'Well, come on, then! Let’s hurry!',
-}, 
+}], 
 'story_02_02000_en.lsd': {
 'story_02_02000/2401_1001_0100_10': 'Hmm... I wonder what the deal is with those\nweird, masked Trainers.',
 'story_02_02000/2401_1001_0200_10': 'I’ve heard some rumors! Apparently, a bunch of\nTrainers wearing masks have been running\naround trying to steal people’s Pokémon!',
@@ -13403,7 +13403,7 @@
 'story_02_02000/2401_1001_0900_10': 'Here we go, Piplup!\nLet’s show them what we’re made of!',
 'story_02_02000/2401_1001_1000_10': 'Eeek! It doesn’t look like we’re getting\nthrough to him at all!',
 'story_02_02000/2401_1001_1100_10': '[Name:PlayerNickname ]! \nIt looks like we’re gonna have to battle him!',
-}, 
+}], 
 'story_02_03000_en.lsd': {
 'story_02_03000/2401_1001_0100_10': 'What just happened?!\nDid I really just lose to Team Break?!',
 'story_02_03000/2401_1001_0200_10': 'Barry, listen to me!\nIt’s me, Rosa! Look!',
@@ -13431,7 +13431,7 @@
 'story_02_03000/2401_0402_2400_10': 'You know what? I think I WILL join your team.\nWe’re gonna be awesome together!',
 'story_02_03000/2401_1001_2500_10': 'So like I was saying before, I heard Team Break’s\nbeen using a cave nearby as their hideout.',
 'story_02_03000/2401_1001_2600_10': 'Come on! I’ll race you there!\nLast one to the cave’s a rotten egg!',
-}, 
+}], 
 'story_02_04000_en.lsd': {
 'story_02_04000/2401_1001_0100_10': 'We found you, Team Break!',
 'story_02_04000/2401_1001_0200_10': 'Wha—?!',
@@ -13445,7 +13445,7 @@
 'story_02_04000/2401_1001_1000_10': 'Yeah. Don’t let your guard down—\nthey could attack us from anywhere...',
 'story_02_04000/2401_1001_1100_10': 'Well, look at what we got here! Didn’t think\nwe’d get suckers showing up on their own...\nLet’s teach ’em a lesson!',
 'story_02_04000/2401_1001_1200_10': 'There you are!\nLet’s take ’em out, [Name:PlayerNickname ]!',
-}, 
+}], 
 'story_02_05000_en.lsd': {
 'story_02_05000/2401_1001_0100_10': 'Hey, nice battling back there.\nThanks to you guys, we were able to\nchase off those goons in no time.',
 'story_02_05000/2401_1001_0200_10': 'No sweat! [Name:PlayerNickname ] and I\ncame here for that exact reason anyway!',
@@ -13458,7 +13458,7 @@
 'story_02_05000/2401_1001_0900_10': 'If you’re looking for more teammates,\nyou might want to try the volcano area.',
 'story_02_05000/2401_1001_1000_10': 'I hear it’s a popular spot for doing training\nexercises with your Pokémon...',
 'story_02_05000/2401_1001_1100_10': 'Seriously?! Dude, thanks for the info!\nLet’s go, [Name:PlayerNickname ]!\nI’m fining you if you’re late!',
-}, 
+}], 
 'story_03_01000_en.lsd': {
 'story_03_01000/2401_1001_0100_10': 'The place Paulo told us about should be around\nhere, right?',
 'story_03_01000/2401_1001_0200_10': 'But yikes, this place is hot!\nAre there really Trainers that come\nhere on purpose?',
@@ -13491,7 +13491,7 @@
 'story_03_01000/2401_1001_2900_10': 'Well, look at that kid go...\nSorry to put all of this on you kids, but could you\ndo me a favor and humor her for a bit?',
 'story_03_01000/2401_1001_3000_10': 'Don’t worry—we won’t waste your time.\nYou’re looking for team members, right?\nI’m sure you’ll find a few great ones.',
 'story_03_01000/2401_1001_3100_10': 'Good deal! Thanks for lookin’ out, old man!\nLet’s get to it, [Name:PlayerNickname ]!',
-}, 
+}], 
 'story_03_02000_en.lsd': {
 'story_03_02000/2401_1001_0100_10': 'Ah, there you are. I saw the way \nyou battled out there with your team. \nYou’re much stronger than I imagined.',
 'story_03_02000/2401_1001_0200_10': 'Wait, you’re that old guy from earlier!\nWhat are you doing here?',
@@ -13513,7 +13513,7 @@
 'story_03_02000/2401_1001_1800_10': 'For my honor as a Gym Leader and as the\ngranddaughter of an Elite Four member...and to \nbring honor to Blaine, who trained with me...',
 'story_03_02000/2401_1001_1900_10': 'I’ll show you my hottest moves!',
 'story_03_02000/2401_1001_2000_10': 'Haiyaaaaaaaaaaaaa!',
-}, 
+}], 
 'story_03_04000_en.lsd': {
 'story_03_04000/2401_1001_0100_10': 'Whew... I haven’t had a heated battle like that\nin ages! And your teamwork! That was awesome!',
 'story_03_04000/2401_1001_0200_10': 'Exactly! You did well to notice, Flannery!',
@@ -13550,7 +13550,7 @@
 'story_03_04000/2401_1001_3300_10': 'A Gym Leader friend of mine from Kanto, Erika,\nmight’ve said something about being a PML Leader.',
 'story_03_04000/2401_1001_3400_10': 'Then we don’t have any time to lose!\nThanks for everything, Blaine! I’m looking forward\nto battling you the next time we see each other!',
 'story_03_04000/2401_1001_3500_10': 'Hahaha! You’re on, kid!',
-}, 
+}], 
 'story_04_01000_en.lsd': {
 'story_04_01000/2401_1001_0100_10': 'Let’s get going. The forest should be just up\nahead of this road, and Erika should be\nsomewhere in the forest.',
 'story_04_01000/2401_1001_0200_10': 'According to the rules, we need to collect\nfive badges from PML Leaders to compete\nin the tournament matches, right?',
@@ -13558,7 +13558,7 @@
 'story_04_01000/2401_1001_0400_10': 'From what I hear, we have to prove that we’re\nworthy to each of the leaders.',
 'story_04_01000/2401_1001_0500_10': 'OK... Well, how do we do that?',
 'story_04_01000/2401_1001_0600_10': 'Standing around here isn’t gonna give us the\nanswer to that. Come on. Let’s find Erika and\nask her ourselves!',
-}, 
+}], 
 'story_04_02000_en.lsd': {
 'story_04_02000/2401_1001_0100_10': 'Man, there sure are a lot of female Trainers\naround here.',
 'story_04_02000/2401_1001_0200_10': 'Sure does make me nervous...',
@@ -13572,7 +13572,7 @@
 'story_04_02000/2401_1001_1000_10': 'Excuse me! That’s “Lady Erika“ to you!\nHow dare you address her so rudely?\nWhere are your manners?',
 'story_04_02000/2401_1001_1100_10': 'Ever since Lady Erika became a PML Leader,\ncretins like you have been gathering around her\nin swarms...',
 'story_04_02000/2401_1001_1200_10': 'I won’t allow such rude citizens to bother her!\nGo away, or I’ll be forced to drive you off myself!',
-}, 
+}], 
 'story_04_03000_en.lsd': {
 'story_04_03000/2401_1001_0100_10': 'I can’t believe I lost to filth like you...\nThis...this is mortifying!',
 'story_04_03000/2401_1001_0200_10': 'All right, will you just calm down a second\nand hear us out? Misty and I are actually\nfriends of Erika’s.',
@@ -13584,7 +13584,7 @@
 'story_04_03000/2401_1001_0800_10': 'Lady Erika really does have \nthe loveliest friends... Thank you. \nForgive my behavior a moment ago.',
 'story_04_03000/2401_1001_0900_10': 'If you’d like to speak with Lady Erika,\nshe’s just up ahead, a bit deeper into\nthe forest.',
 'story_04_03000/2401_1001_1000_10': 'Great! Thanks for the info!\nReady to go, everyone?',
-}, 
+}], 
 'story_04_04000_en.lsd': {
 'story_04_04000/2401_1001_0100_10': 'Zzz... Zzz...',
 'story_04_04000/2401_1001_0200_10': '[Name:PlayerNickname ], meet Erika.\nErika, meet... Erika...? Are you asleep?',
@@ -13599,7 +13599,7 @@
 'story_04_04000/2401_0302_1100_10': 'Are you sure you aren’t too tired?',
 'story_04_04000/2401_0402_1200_10': 'Tee-hee! That’s very kind of you,\nbut I assure you, I’m quite prepared.',
 'story_04_04000/2401_1001_1300_10': 'I’m not going to go easy on you!',
-}, 
+}], 
 'story_04_05000_en.lsd': {
 'story_04_05000/2401_1001_0100_10': 'Well, well!\nWhat a wonderful battle.',
 'story_04_05000/2401_1001_0200_10': 'You’re like a hardy root, spreading deep into\nthe soil to connect your teammates to\none another...',
@@ -13622,7 +13622,7 @@
 'story_04_05000/2401_1001_1900_10': 'Right! Time to hunt for the next badge, then!',
 'story_04_05000/2401_1001_2000_10': 'Oh! I think I might actually know another\none of the PML Leaders!',
 'story_04_05000/2401_1001_2100_10': 'She’s from the Unova region, like me—\na Gym Leader who uses Flying-type Pokémon!',
-}, 
+}], 
 'story_05_01000_en.lsd': {
 'story_05_01000/2401_1001_0100_10': 'According to Rosa, there should be a PML Leader\nsomewhere on this mountain...',
 'story_05_01000/2401_1001_0200_10': 'Yep! Her name’s Skyla. She’s a Gym Leader\nback in Unova.',
@@ -13634,7 +13634,7 @@
 'story_05_01000/2401_1001_0800_10': 'I look forward to meeting her as well.\nI wonder what she’s like...',
 'story_05_01000/2401_1001_0900_10': 'I’m sure we’ll all be fast friends!\nShe’s super friendly!',
 'story_05_01000/2401_1001_1000_10': 'Come on! Let’s get going!',
-}, 
+}], 
 'story_05_02000_en.lsd': {
 'story_05_02000/2401_1001_0100_10': 'What do you know—another win for me.\nNow, hand over that badge.',
 'story_05_02000/2401_1001_0200_10': 'Sure, here you go!\nThanks for that battle! I think I got a bit stronger!',
@@ -13671,7 +13671,7 @@
 'story_05_02000/2401_1001_3300_10': 'You know...while we’re on that subject...\nWe were actually hoping we could get a\nbadge from you today, too.',
 'story_05_02000/2401_1001_3400_10': 'Oh, I see! Well, my favorite place is nearby.\nWhy don’t we go there and take a break first?',
 'story_05_02000/2401_1001_3500_10': 'Good idea! You and [Name:PlayerNickname ]\nmust be exhausted after battling that jerk, Lear!',
-}, 
+}], 
 'story_05_04000_en.lsd': {
 'story_05_04000/2401_1001_0100_10': 'Oh, wow! Check out that sky!\nThis place is great, Skyla!',
 'story_05_04000/2401_1001_0200_10': 'I’m glad you like it, too!',
@@ -13683,7 +13683,7 @@
 'story_05_04000/2401_0402_0800_10': 'Haha, good answer!\nWell then...',
 'story_05_04000/2401_1001_0900_10': 'I think we need a fun battle to pick our spirits up!',
 'story_05_04000/2401_1001_1000_10': 'All right, let’s do this!',
-}, 
+}], 
 'story_05_05000_en.lsd': {
 'story_05_05000/2401_1001_0100_10': 'What a great battle! I’m so glad I had the chance\nto battle you!',
 'story_05_05000/2401_1001_0200_10': 'My Pokémon and I are super satisfied we were\nable to really spread our wings!',
@@ -13700,7 +13700,7 @@
 'story_05_05000/2401_0302_1300_10': 'This is so sudden!',
 'story_05_05000/2401_0402_1400_10': 'If I go along with you guys, I think we’ll be\nable to have tons of fun adventures!',
 'story_05_05000/2401_1001_1500_10': 'All right, then! Make sure your seat belt is secure,\nyour seat is upright, and your tray table is stowed.\nWe’re taking off to the next badge!',
-}, 
+}], 
 'story_06_01000_en.lsd': {
 'story_06_01000/2401_1001_0100_10': 'All right! Everybody ready for takeoff?\nWe’ve gotta go find the PML Leaders in\ncharge of the remaining badges!',
 'story_06_01000/2401_1001_0200_10': 'Hmm...',
@@ -13725,7 +13725,7 @@
 'story_06_01000/2401_0402_2100_10': 'Yeah! If we raise our team’s strength now,\nwe can rise through the ranks in no time\nonce the tournament begins!',
 'story_06_01000/2401_1001_2200_10': 'OK! Let’s take a break from collecting\nbadges for a little while, then!',
 'story_06_01000/2401_1001_2300_10': 'Come on! Off to the Evolution fighter we go!\nIt’s time for takeoff!',
-}, 
+}], 
 'story_06_02000_en.lsd': {
 'story_06_02000/2401_1001_0100_10': 'Is this the right place, Skyla?',
 'story_06_02000/2401_1001_0200_10': 'Yep! At least, this is where I heard \nshe does her training, anyway...',
@@ -13745,7 +13745,7 @@
 'story_06_02000/2401_1001_1600_10': 'Yeah! Come on!\nLet’s head to the training grounds right now!',
 'story_06_02000/2401_1001_1700_10': 'Just so you know, we might run into other\neager sync pairs along the way. There’s a\nchance they could challenge us to a battle!',
 'story_06_02000/2401_1001_1800_10': 'Just make sure you stick with me and\ndon’t fall too far behind, OK?',
-}, 
+}], 
 'story_06_03000_en.lsd': {
 'story_06_03000/2401_1001_0100_10': 'Keep it up, everyone!\nWe’re almost to the training ground!',
 'story_06_03000/2401_1001_0200_10': 'I wonder what sort of training Korrina\nis gonna have us do...',
@@ -13758,14 +13758,14 @@
 'story_06_03000/2401_1001_0900_10': 'Nice! Do you mind if I join you?\nI’ve been wanting to do some training myself!',
 'story_06_03000/2401_1001_1000_10': 'Haha, I should have known.\nOf course you can, Brendan!',
 'story_06_03000/2401_1001_1100_10': 'Come on, [Name:PlayerNickname ]! Let’s go!\nEveryone’s waiting for us just up ahead!',
-}, 
+}], 
 'story_06_04000_en.lsd': {
 'story_06_04000/2401_1001_0100_10': 'We’re here, everyone!\nThis is where I do all of my training.',
 'story_06_04000/2401_1001_0200_10': 'A bunch of my Trainer friends like to\nhang out around here, too!',
 'story_06_04000/2401_1001_0300_10': 'We finally made it...\nBetter take a deep breath.\nThis seems like it could get pretty intense!',
 'story_06_04000/2401_1001_0400_10': 'Don’t worry about it so much!\nThe most important thing is to have fun.',
 'story_06_04000/2401_1001_0500_10': 'OK! Let’s do this!',
-}, 
+}], 
 'story_06_05000_en.lsd': {
 'story_06_05000/2401_1001_0100_10': 'So? How do you think they did, Lucario?',
 'story_06_05000/2401_1001_0200_10': 'Yeah, I think so, too!\nLucario seems to have taken a liking to you all.',
@@ -13785,7 +13785,7 @@
 'story_06_05000/2401_1001_1600_10': 'All right! What do you say we finish this\ntraining session with a battle!',
 'story_06_05000/2401_1001_1700_10': 'Sure! Ready whenever you are!',
 'story_06_05000/2401_1001_1800_10': 'It’s go time...\nLet’s give it all we’ve got!',
-}, 
+}], 
 'story_06_06000_en.lsd': {
 'story_06_06000/2401_1001_0100_10': 'You beat me!\nThat was a ton of fun, though.',
 'story_06_06000/2401_1001_0200_10': 'This just proves that the bond you and\nyour Pokémon share really is second to none!',
@@ -13802,7 +13802,7 @@
 'story_06_06000/2401_0402_1300_10': 'All right! If you ever want to learn any\nroller-skating tricks, like my rolling axe-kick,\nI’m your girl!',
 'story_06_06000/2401_1001_1400_10': 'Bigger! Stronger!\nMore energy! More fun!',
 'story_06_06000/2401_1001_1500_10': 'I look forward to our new adventures together!',
-}, 
+}], 
 'story_07_01000_en.lsd': {
 'story_07_01000/2401_1001_0100_10': 'This weather is beautiful!\nIt’s a perfect day for a Pokémon battle.',
 'story_07_01000/2401_1001_0200_10': 'Hey, Brendan? Didn’t you say you were\ngonna introduce us to a PML Leader?\nWho is it? Tell us!',
@@ -13819,7 +13819,7 @@
 'story_07_01000/2401_1001_1300_10': 'A man in pursuit of power... It should come as\nno surprise that someone like him would be\nchosen to be a PML Leader.',
 'story_07_01000/2401_1001_1400_10': 'Heh. I gotta admit, it makes me happy to hear\nyou talk about my dad like that.',
 'story_07_01000/2401_1001_1500_10': 'Come on. I’ll take you guys to him!',
-}, 
+}], 
 'story_07_02000_en.lsd': {
 'story_07_02000/2401_1001_0100_10': 'Brendan, are we there yet?\nWhen are we gonna meet Norman?',
 'story_07_02000/2401_1001_0200_10': 'There’s still a ways to go. Dad always says that\nthe journey’s part of the training—that’s why he\nset up camp way out in the mountains.',
@@ -13829,7 +13829,7 @@
 'story_07_02000/2401_1001_0600_10': 'That mask... I know all about you!\nYou’re those nasty Team Break guys who’ve \nbeen trying to steal people’s Pokémon!',
 'story_07_02000/2401_1001_0700_10': 'Ha! If you already know, then I guess I don’t\nhave to explain what comes next.',
 'story_07_02000/2401_1001_0800_10': 'I’ll be taking your Pokémon off your hands!',
-}, 
+}], 
 'story_07_03000_en.lsd': {
 'story_07_03000/2401_1001_0100_10': 'You gotta admit, one thing those Team Break\nguys can do well is run away.',
 'story_07_03000/2401_1001_0200_10': 'Hey... Lucario still senses a bunch of those\nmasked thugs nearby.',
@@ -13838,7 +13838,7 @@
 'story_07_03000/2401_0302_0500_10': 'That’s not good...',
 'story_07_03000/2401_0402_0600_10': 'No, it’s not! We should hurry and find Norman!',
 'story_07_03000/2401_1001_0700_10': 'Let’s get up this\nmountain quick, [Name:PlayerNickname ]!',
-}, 
+}], 
 'story_07_04000_en.lsd': {
 'story_07_04000/2401_1001_0100_10': 'Argh! I couldn’t beat you...\nGuess I’m still not good enough...',
 'story_07_04000/2401_1001_0200_10': 'Don’t be too hard on yourself. It’s been a long\ntime since someone pushed me like that\nin battle. Believe in yourself.',
@@ -13857,7 +13857,7 @@
 'story_07_04000/2401_1001_1500_10': 'Your friend’s right—you definitely shouldn’t\nunderestimate Norman and his Slaking.\nGood luck!',
 'story_07_04000/2401_1001_1600_10': 'It looks like you’re ready for battle.',
 'story_07_04000/2401_1001_1700_10': 'Now show me how well you’ve trained\nyour Pokémon!',
-}, 
+}], 
 'story_07_05000_en.lsd': {
 'story_07_05000/2401_1001_0100_10': 'You’ve trained your Pokémon really well.',
 'story_07_05000/2401_1001_0200_10': 'The bond between you and your Pokémon is\nstrong, and your teamwork was spectacular. You\nhave defeated me, [Name:PlayerNickname ].',
@@ -13882,7 +13882,7 @@
 'story_07_05000/2401_1001_2100_10': 'We can’t let them go in there!\nThat cave is where sync pairs go to rest!',
 'story_07_05000/2401_1001_2200_10': 'All of you! Come and help me stop those thugs!',
 'story_07_05000/2401_1001_2300_10': 'I can help! Let’s go, Norman!',
-}, 
+}], 
 'story_07_06000_en.lsd': {
 'story_07_06000/2401_1001_0100_10': 'Hold it right there, Team Break!',
 'story_07_06000/2401_1001_0200_10': 'We can’t allow you to cause any more harm\nthan you already have.',
@@ -13892,13 +13892,13 @@
 'story_07_06000/2401_1001_0600_10': 'Now!',
 'story_07_06000/2401_1001_0700_10': 'Wha—! What was that?!',
 'story_07_06000/2401_1001_0900_10': 'No! We have to protect everyone, Slaking!',
-}, 
+}], 
 'story_07_07000_en.lsd': {
 'story_07_07000/2401_1001_0100_10': 'Is everyone OK?',
 'story_07_07000/2401_1001_0200_10': 'I think so...\nBut they collapsed the exit.',
 'story_07_07000/2401_1001_0300_10': 'We’ll be all right. Even if we can’t get out here,\nI’m sure we can find another way.',
 'story_07_07000/2401_1001_0400_10': 'As long as we don’t give up,\nthe road will reveal itself!',
-}, 
+}], 
 'story_07_08000_en.lsd': {
 'story_07_08000/2401_1001_0100_10': 'Hey, everybody, I found a way out of here!',
 'story_07_08000/2401_1001_0200_10': 'Whew, I was just starting to wonder what our\nnew life as cave dwellers would be like.',
@@ -13918,7 +13918,7 @@
 'story_07_08000/2401_0302_1600_10': 'I won’t let Team Break get away\nwith this!',
 'story_07_08000/2401_0402_1700_10': 'I can’t stand people with a sparkle\nin their eyes like you have!',
 'story_07_08000/2401_1001_1800_10': 'I will send all of you into a pit of dark despair!',
-}, 
+}], 
 'story_07_09000_en.lsd': {
 'story_07_09000/2401_1001_0100_10': 'How could this be?!\nHow could I lose to the likes of you?!',
 'story_07_09000/2401_1001_0200_10': 'Don’t get the wrong idea. This isn’t over!',
@@ -13947,7 +13947,7 @@
 'story_07_09000/2401_1001_2500_10': 'Nothing. It’s nothing.\nThank you for the badge.',
 'story_07_09000/2401_1001_2600_10': 'I guess this is where we part ways again,\n[Name:PlayerNickname ]. I’m off to collect my\nnext badge.',
 'story_07_09000/2401_1001_2700_10': 'Next time you see me, I’ll be stronger than\never! Strong enough to blow you and Norman\nout of the water!',
-}, 
+}], 
 'story_08_01000_en.lsd': {
 'story_08_01000/2401_1001_0100_10': 'I’ve heard there’s quite a skilled Trainer\nsomewhere around this glacier.',
 'story_08_01000/2401_1001_0200_10': 'But I don’t know exactly where...',
@@ -13959,7 +13959,7 @@
 'story_08_01000/2401_1001_0800_10': 'It’ll be even colder once the sun goes down.\nThere will be time for chitchat later.\nWe need to focus on our search for now.',
 'story_08_01000/2401_1001_0900_10': 'All right, let’s hurry up and get this done before\nFlannery catches a cold!',
 'story_08_01000/2401_1001_1000_10': 'N-n-no, really, I’m f-f-f-fine!',
-}, 
+}], 
 'story_08_02000_en.lsd': {
 'story_08_02000/2401_1001_0100_10': 'Well, from the look of you, I bet you’ve come\nlooking for a badge, haven’t you?',
 'story_08_02000/2401_1001_0200_10': 'Are you...?',
@@ -13976,7 +13976,7 @@
 'story_08_02000/2401_1001_1300_10': 'But, but—!',
 'story_08_02000/2401_1001_1400_10': 'Have you made up your minds?',
 'story_08_02000/2401_1001_1500_10': 'Well then, I will show you the true harshness of\nwinter. Come at me with everything you’ve got!',
-}, 
+}], 
 'story_08_03000_en.lsd': {
 'story_08_03000/2401_1001_0100_10': 'Well, that was an easy win!\nAll right, old man, make with the badge.',
 'story_08_03000/2401_1001_0200_10': 'No. Pryce wasn’t really giving it his all\nin that battle.',
@@ -13989,7 +13989,7 @@
 'story_08_03000/2401_1001_0900_10': 'What is it?',
 'story_08_03000/2401_1001_1000_10': 'Missing...?',
 'story_08_03000/2401_1001_1100_10': 'Think hard about it, you two. You’ll need to find\nthe answer before we meet Pryce again.',
-}, 
+}], 
 'story_08_04000_en.lsd': {
 'story_08_04000/2401_1001_0100_10': 'For s-s-some reason, it’s even colder than\nit was b-before...',
 'story_08_04000/2401_1001_0200_10': '...',
@@ -14017,7 +14017,7 @@
 'story_08_04000/2401_1001_2400_10': 'Yeah, let’s battle together!',
 'story_08_04000/2401_1001_2500_10': 'Oh, I like that determined expression.\nThis will be good.',
 'story_08_04000/2401_1001_2600_10': 'I am known as the Winter Trainer.\nLet me show you what I’m capable of!',
-}, 
+}], 
 'story_08_05000_en.lsd': {
 'story_08_05000/2401_1001_0100_10': 'All right! We finally worked together and won!',
 'story_08_05000/2401_1001_0200_10': 'YES! But hey, old man, you weren’t going easy\non us that time, were you?',
@@ -14045,7 +14045,7 @@
 'story_08_05000/2401_1001_2400_10': 'Hey! I knew it! You’ve b-b-been cold\nall along, too, h-haven’t you, Barry?!',
 'story_08_05000/2401_1001_2500_10': 'Ah, man! You got me!',
 'story_08_05000/2401_1001_2600_10': 'Ha ha! I can tell things are going to be\nvery interesting from here on out.',
-}, 
+}], 
 'story_09_01000_en.lsd': {
 'story_09_01000/2401_1001_0100_10': 'The city seems particularly bustling with\nactivity today.',
 'story_09_01000/2401_1001_0200_10': 'Now that you mention it...it does seem busier\nthan usual around here.',
@@ -14066,7 +14066,7 @@
 'story_09_01000/2401_1001_1700_10': 'Eeek!\nWhat was that?!',
 'story_09_01000/2401_1001_1800_10': 'Team Break must be causing trouble again!\nCome on! We should go help!',
 'story_09_01000/2401_1001_1900_10': 'Right! I’ll go with you!\nIs that OK, Rosa? [Name:PlayerNickname ]?',
-}, 
+}], 
 'story_09_02000_en.lsd': {
 'story_09_02000/2401_1001_0100_10': '[Name:PlayerNickname ]! More of those\nbaddies are heading right this way!',
 'story_09_02000/2401_1001_0200_10': 'Wait a sec... Isn’t that the Champion of\nthe Unova region?',
@@ -14075,7 +14075,7 @@
 'story_09_02000/2401_1001_0500_10': '[Name:PlayerNickname ], these thugs are\ntrying to steal Iris’s Haxorus!',
 'story_09_02000/2401_1001_0600_10': 'Wha—? My Haxorus?!\nWe can’t let that happen!',
 'story_09_02000/2401_1001_0700_10': 'Right—we have to do something about this.\nIf we don’t stop them soon, even more innocent\npeople will get dragged into the fray!',
-}, 
+}], 
 'story_09_03000_en.lsd': {
 'story_09_03000/2401_1001_0100_10': 'Hah! I was told that a few Trainers were in\na tussle with Team Break, so I came to have\na look... Turns out it’s just you amateurs!',
 'story_09_03000/2401_0301_0200_10': 'You...',
@@ -14097,7 +14097,7 @@
 'story_09_03000/2401_1001_1800_10': 'Yeah, I think I know what you mean.\nWorking together as a team is probably a lot\nharder if you’re all worked up and angry.',
 'story_09_03000/2401_1001_1900_10': 'Indeed... It sounds like young Iris here is\nalready much wiser about these things than\nour haughty friend, Lear.',
 'story_09_03000/2401_1001_2000_10': 'Come! I think perhaps it’s time to show him\nexactly what this team is capable of!',
-}, 
+}], 
 'story_09_04000_en.lsd': {
 'story_09_04000/2401_1001_0100_10': 'Ugh! What are you still doing here?\nI thought I told you to stay out of my way!',
 'story_09_04000/2401_1001_0200_10': 'Lear, you’re wrong! [Name:PlayerNickname ]’s\nteam is NOT pathetic!',
@@ -14117,7 +14117,7 @@
 'story_09_04000/2401_1001_1600_10': 'Argh! Not again!\nThey just keep coming and coming!',
 'story_09_04000/2401_1001_1700_10': 'Don’t worry, Iris. I’m right here with you, and so is\n[Name:PlayerNickname ]. We’ve got your back.',
 'story_09_04000/2401_1001_1800_10': 'Now...let me show you why they call me\nthe Winter Trainer.',
-}, 
+}], 
 'story_09_05000_en.lsd': {
 'story_09_05000/2401_1001_0100_10': 'Looks like that was the last of them, finally...\nHow dare those troublemakers drain away\nso much of my precious time!',
 'story_09_05000/2401_1001_0200_10': 'As for you—how dare you ignore my wishes!\nI told you to stay out of my business, yet here\nyou are again!',
@@ -14133,7 +14133,7 @@
 'story_09_05000/2401_1001_1200_10': 'then let’s settle this with a battle—a special\none-on-one battle, just this once.',
 'story_09_05000/2401_1001_1300_10': 'You shall see that you’re no match\nfor my superior power!',
 'story_09_05000/2401_1001_1400_10': 'And I’ll prove you wrong! \nI’m going to win this for my friends!',
-}, 
+}], 
 'story_09_06000_en.lsd': {
 'story_09_06000/2401_1001_0100_10': 'Come on, Haxorus!',
 'story_09_06000/2401_1001_0200_10': 'Go, Krookodile!',
@@ -14160,7 +14160,7 @@
 'story_09_06000/2401_1001_2300_10': 'Mr. Pryce was right. The bond between\nTrainers and Pokémon is really important\nwhen it comes to battling!',
 'story_09_06000/2401_1001_2400_10': '[Name:PlayerNickname ]... Do you think we\ncould have a battle?',
 'story_09_06000/2401_1001_2500_10': 'I kinda want to try a team battle!',
-}, 
+}], 
 'story_09_07000_en.lsd': {
 'story_09_07000/2401_1001_0100_10': 'Wow, that was so cool! Team battling really is\na whole different experience!',
 'story_09_07000/2401_1001_0200_10': 'I wish I could do it more...',
@@ -14172,7 +14172,7 @@
 'story_09_07000/2401_1001_0800_10': 'With Iris on our team now, I’m even more\nexcited about what’s to come!',
 'story_09_07000/2401_1001_0900_10': 'Me too! Let’s all do our best, team!\nSo...what’s next?',
 'story_09_07000/2401_1001_1000_10': 'Wanna head back to the city for now?\nLet’s go search for another PML Leader\nand earn our next badge!',
-}, 
+}], 
 'story_10_01000_en.lsd': {
 'story_10_01000/2401_1001_0100_10': 'Well, team, it’s been a pretty eventful journey\nso far, but I think I’m ready to get back to\ncollecting badges.',
 'story_10_01000/2401_1001_0200_10': 'The only one we’re missing now is the\nPride Badge. Once we get our hands on that,\nwe’ll be able to compete in the PML!',
@@ -14185,7 +14185,7 @@
 'story_10_01000/2401_1001_0900_10': 'But supposedly, she’s got some serious talent,\ndespite her age. Rumor has it she’s a kahuna\non one of the Alolan islands...',
 'story_10_01000/2401_1001_1000_10': 'Aha! Interesting... I wonder if she’s a little\nlike me, then! It sounds like she could be!',
 'story_10_01000/2401_1001_1100_10': 'Maybe we’ll end up being super good friends!\nCome on, hurry up! What are we waiting for?!',
-}, 
+}], 
 'story_10_02000_en.lsd': {
 'story_10_02000/2401_1001_0100_10': 'Too bad, my friend! No badge for you today.\nBetter luck next time!',
 'story_10_02000/2401_1001_0200_10': 'Argh! What gives?\nWhy can’t I win...',
@@ -14201,7 +14201,7 @@
 'story_10_02000/2401_1001_1200_10': 'Today must be my lucky day...\nWith all of these Pokémon in one place,\nI’ll barely have to lift a finger to steal them!',
 'story_10_02000/2401_1001_1300_10': 'Team Break! Ugh, they always pick the worst\ntimes to show up... My Pokémon’s still tired\nfrom that last battle.',
 'story_10_02000/2401_1001_1400_10': 'Don’t worry! You can leave this one to us!\nCome on, [Name:PlayerNickname ]! Let’s go!',
-}, 
+}], 
 'story_10_03000_en.lsd': {
 'story_10_03000/2401_1001_0100_10': 'Tsk... Who do you kids think you are?\nYou have no right to be this good.',
 'story_10_03000/2401_1001_0200_10': 'But don’t worry—my associates should be\narriving any minute now. I hope they\nwipe those smiles off your faces...',
@@ -14218,7 +14218,7 @@
 'story_10_03000/2401_1001_1300_10': 'I’m just gonna run ahead to scope out the area.\nDon’t worry—I won’t do anything stupid.',
 'story_10_03000/2401_1001_1400_10': 'Why’s he in such a rush all of a sudden...?',
 'story_10_03000/2401_1001_1500_10': 'Mmm... This is a tad bit worrying.\nIt may be a good idea to follow him.',
-}, 
+}], 
 'story_10_04000_en.lsd': {
 'story_10_04000/2401_1001_0100_10': 'Argh! We must not have rested enough \nafter that battle with Hapu, Rockruff... \nStill, I can’t believe we lost to those goons.',
 'story_10_04000/2401_1001_0200_10': 'Paulo! Are you all right?',
@@ -14231,7 +14231,7 @@
 'story_10_04000/2401_0401_0900_10': 'It seems you’re not one to put up with\nfoolish nonsense, either...\nMm-hmm! A kindred spirit indeed!',
 'story_10_04000/2401_0302_1000_10': 'You’d better take that back, mister!',
 'story_10_04000/2401_0402_1100_10': 'It seems you’re not one to put up with\nfoolish nonsense, either...\nMm-hmm! A kindred spirit indeed!',
-}, 
+}], 
 'story_10_05000_en.lsd': {
 'story_10_05000/2401_1001_0100_10': 'Hmph. It seems these kids are a bit more\nthan we can handle at present...',
 'story_10_05000/2401_1001_0200_10': 'Let’s retreat for now. But mark my words...\nthe next time we meet, we’ll be far stronger!',
@@ -14259,7 +14259,7 @@
 'story_10_05000/2401_0302_2400_10': 'We’ll grow even more powerful\nthan that!',
 'story_10_05000/2401_0402_2500_10': 'Hahaha!\nI like your enthusiasm!',
 'story_10_05000/2401_1001_2600_10': 'All right! Let’s head out as soon as this\nrest stop is over. Final badge, here we come!',
-}, 
+}], 
 'story_10_06000_en.lsd': {
 'story_10_06000/2401_1001_0100_10': 'Ah, there you are...\nHm? Is that all of you?',
 'story_10_06000/2401_1001_0200_10': 'Yeah... Paulo ran off saying he needed to\nget stronger.',
@@ -14283,7 +14283,7 @@
 'story_10_06000/2401_0302_2000_10': 'Let’s do this! No holding back!',
 'story_10_06000/2401_0402_2100_10': 'I was hoping you’d say that!',
 'story_10_06000/2401_1001_2200_10': 'Thank you, my friends. Come on, then!\nI will battle you with everything I have!',
-}, 
+}], 
 'story_10_07000_en.lsd': {
 'story_10_07000/2401_1001_0100_10': 'Phew... I’ve been thoroughly defeated.\nWhat a grand battle that was!',
 'story_10_07000/2401_1001_0200_10': 'I used every bit of strength I could muster,\nbut it still wasn’t enough... Sounds like\nit’s high time for some more training!',
@@ -14305,7 +14305,7 @@
 'story_10_07000/2401_1001_1800_10': 'I see...\nIt looks like he’s made up his mind, then.',
 'story_10_07000/2401_1001_1900_10': 'Huh? Made up his mind for what?',
 'story_10_07000/2401_1001_2000_10': 'Well, it will be interesting to see how\nall of this plays out... Hee hee.',
-}, 
+}], 
 'story_10_51000_en.lsd': {
 'story_10_51000/2401_1001_0100_10': 'Look, [Name:PlayerNickname ]!\nThe arena’s just up ahead!',
 'story_10_51000/2401_1001_0200_10': 'All we have to do is register right over there,\nand we’ll be all set to compete in the PML!',
@@ -14329,7 +14329,7 @@
 'story_10_51000/2401_0302_2000_10': 'I won’t hold back, Brock!',
 'story_10_51000/2401_0402_2100_10': 'I wouldn’t want you to!\nThanks!',
 'story_10_51000/2401_1001_2200_10': 'Come on, [Name:PlayerNickname ]!\nShow me how strong you’ve become!',
-}, 
+}], 
 'story_10_53000_en.lsd': {
 'story_10_53000/2401_1001_0100_10': '... ... ...',
 'story_10_53000/2401_1001_0200_10': 'You did great! Look at how strong you’ve\nbecome, [Name:PlayerNickname ].',
@@ -14347,7 +14347,7 @@
 'story_10_53000/2401_1001_1400_10': 'Tee-hee! I didn’t think it was possible to be\nMORE excited for the tournament!',
 'story_10_53000/2401_1001_1500_10': 'The rest of us will be right there with you!\nWe’ve all grown sooo much since we\nfirst met each other, huh!',
 'story_10_53000/2401_1001_1600_10': 'I’m so ready! Come on!\nPokémon Masters League, here we come!',
-}, 
+}], 
 'story_10_54000_en.lsd': {
 'story_10_54000/2401_1001_0100_10': 'Ladies and gentlemen, welcome to the\nPokémon Masters League.\nLet the opening ceremony begin!',
 'story_10_54000/2401_1001_0200_10': 'I am Lear, host and founder of this tournament.\nI expect your undivided attention now!',
@@ -14399,7 +14399,7 @@
 'story_10_54000/2401_1001_4800_10': 'A lot’s happened since we arrived\nhere, [Name:PlayerNickname ].\nWe both managed to make it this far.',
 'story_10_54000/2401_1001_4900_10': 'But I worked harder than ever to get to this point.\nI don’t plan on losing anytime soon!',
 'story_10_54000/2401_1001_5000_10': 'I’ll see you in the finals!',
-}, 
+}], 
 'story_11_01000_en.lsd': {
 'story_11_01000/2401_1001_0100_10': 'Alola!\nI guess we’re your first match!',
 'story_11_01000/2401_1001_0200_10': 'My name’s Hau, and this is Sophocles!\nWe’re buddies from Alola!',
@@ -14416,7 +14416,7 @@
 'story_11_01000/2401_0402_1300_10': 'Yeah! That’s what I like to hear!',
 'story_11_01000/2401_1001_1400_10': 'All right, let’s get this started!\nLet’s do this, Sophocles!',
 'story_11_01000/2401_1001_1500_10': 'Y-yeah!',
-}, 
+}], 
 'story_11_02000_en.lsd': {
 'story_11_02000/2401_1001_0100_10': 'W-we lost...',
 'story_11_02000/2401_1001_0200_10': 'But I still had a lot of fun!\nI’m glad I got the chance to compete.',
@@ -14440,7 +14440,7 @@
 'story_11_02000/2401_1001_2000_10': 'Yeah? Then from here on out, let’s enjoy the\ntournament our own way!',
 'story_11_02000/2401_1001_2100_10': 'For sure!',
 'story_11_02000/2401_1001_2200_10': 'All right, then! Let’s do this!\nWe’re gonna have so much fun!',
-}, 
+}], 
 'story_12_01000_en.lsd': {
 'story_12_01000/2401_1001_0100_10': 'Oooh, but why, Blaine? Why?!',
 'story_12_01000/2401_1001_0200_10': 'Just when I need him the most, he has to go\nand throw out his back!',
@@ -14485,7 +14485,7 @@
 'story_12_01000/2401_1001_4100_10': 'Yes! Let’s form a team, Flint—a team of flames,\nigniting our passion for Pokémon battling!',
 'story_12_01000/2401_1001_4200_10': 'That’s what I’m talkin’ about, Shauntal!',
 'story_12_01000/2401_1001_4300_10': 'Let’s burn the competition down to cinders!',
-}, 
+}], 
 'story_12_02000_en.lsd': {
 'story_12_02000/2401_1001_0100_10': 'Oh, so we’re up against you, huh?\nI’ve heard a lot about you—and how\nyou’re supposedly the new up-and-comer!',
 'story_12_02000/2401_1001_0200_10': 'Let’s give it all we’ve got and have a burning-hot\nbattle! With Shauntal and me together, you’re up\nagainst two fiery Elite Four members!',
@@ -14496,7 +14496,7 @@
 'story_12_02000/2401_1001_0700_10': 'Let’s show ’em just how hot we can get!',
 'story_12_02000/2401_1001_0800_10': 'Right! We’ll give it everything we’ve got!',
 'story_12_02000/2401_1001_0900_10': 'All right, [Name:PlayerNickname ]!\nLet’s see how fiery your passion for battles is!',
-}, 
+}], 
 'story_12_03000_en.lsd': {
 'story_12_03000/2401_1001_0100_10': '... ...',
 'story_12_03000/2401_1001_0200_10': '... ...',
@@ -14521,7 +14521,7 @@
 'story_12_03000/2401_0402_2100_10': 'Aww, c’mon! You can never have too much heat!\nLet me on the team. I promise you won’t regret it!',
 'story_12_03000/2401_1001_2200_10': 'Oh, and in case you didn’t catch my name,\nI’m Flint, a Fire-type user who specializes\nin burning-hot battles!',
 'story_12_03000/2401_1001_2300_10': 'I’m looking forward to teaming up with you!',
-}, 
+}], 
 'story_13_01000_en.lsd': {
 'story_13_01000/2401_1001_0100_10': 'So...you’re sure you don’t want to join our\nteam, then?',
 'story_13_01000/2401_1001_0200_10': 'Yeah, I’m sorry...\nI really love the team I’m on already!',
@@ -14541,7 +14541,7 @@
 'story_13_01000/2401_1001_1600_10': 'Aha ha ha ha ha!',
 'story_13_01000/2401_1001_1700_10': 'Clair still has so much of that boasting, youthful\noverconfidence, doesn’t she... I suppose that’s\nwhere she and Lance are different.',
 'story_13_01000/2401_1001_1800_10': 'Then again, maybe that’s what makes her\nso fun to watch... Good luck, Clair.\nI’ll be right there with you.',
-}, 
+}], 
 'story_13_02000_en.lsd': {
 'story_13_02000/2401_1001_0100_10': 'Ah, [Name:PlayerNickname ]! There you are...\nI’m Clair. I’ve been looking forward to this battle.',
 'story_13_02000/2401_1001_0200_10': 'Step right up and witness the might of our\nteam of dragon masters! Your streak of\ngood luck ends here.',
@@ -14549,7 +14549,7 @@
 'story_13_02000/2401_1001_0400_10': 'We’ve trained hard, too.\nWatch out, or I’ll put your Pokémon on ice!',
 'story_13_02000/2401_1001_0500_10': 'I hope you’re ready, [Name:PlayerNickname ].',
 'story_13_02000/2401_1001_0600_10': 'It’s time for you to learn a lesson in strength\nfrom a world-class master of dragons and a\nqueen of ice!',
-}, 
+}], 
 'story_13_03000_en.lsd': {
 'story_13_03000/2401_1001_0100_10': 'How could I lose...',
 'story_13_03000/2401_1001_0200_10': 'I can’t accept this...\nThere must be some mistake.',
@@ -14579,7 +14579,7 @@
 'story_13_03000/2401_1001_2600_10': 'Don’t embarrass yourself, all right?',
 'story_13_03000/2401_1001_2700_10': 'Don’t worry, [Name:PlayerNickname ]! You can\nrest assured with Kingdra and I on the team.',
 'story_13_03000/2401_1001_2800_10': 'I, the greatest dragon master of all time,\nshall tip the scales in our favor!',
-}, 
+}], 
 'story_14_01000_en.lsd': {
 'story_14_01000/2401_1001_0100_10': 'A boy with innocent eyes...\nand a Beedrill with a poisonous stinger...',
 'story_14_01000/2401_1001_0200_10': 'The contrast they create is simply sublime.\nFantastic! Just fantastic!',
@@ -14599,7 +14599,7 @@
 'story_14_01000/2401_1001_1600_10': 'With you and me together, Bugsy, we can show\nthe world how fantastic Bug-type Pokémon are!',
 'story_14_01000/2401_1001_1700_10': 'OK!',
 'story_14_01000/2401_1001_1800_10': 'Bug-type Pokémon are our best friends!\nNow let’s get ready to smile for all the cameras!',
-}, 
+}], 
 'story_14_02000_en.lsd': {
 'story_14_02000/2401_1001_0100_10': 'You must be the sync pair I’ve been hearing\nabout—the one they say can’t be stopped!',
 'story_14_02000/2401_1001_0200_10': 'Ooh, and such a photogenic face, too!\nPerfect for a picture! Let me go ahead\nand take one right now.',
@@ -14615,7 +14615,7 @@
 'story_14_02000/2401_1001_1200_10': 'What is it?',
 'story_14_02000/2401_1001_1300_10': 'I was wondering if we could take a victory\nphoto with Beedrill and Surskit! Pleeease?',
 'story_14_02000/2401_1001_1400_10': 'That idea sounds...fantastic!',
-}, 
+}], 
 'story_14_03000_en.lsd': {
 'story_14_03000/2401_1001_0100_10': 'You and your Pokémon make the best sync pair\naround! Just fantastic!',
 'story_14_03000/2401_1001_0200_10': 'We lost... But...for some reason, I don’t really feel\nall that bad about it.',
@@ -14646,7 +14646,7 @@
 'story_14_03000/2401_1001_2700_10': 'I guess so. But I hope we get to team up\ntogether again someday!',
 'story_14_03000/2401_1001_2800_10': 'Oh, that tearful look in your eyes at the thought of\nleaving my side! Fantastic! Just fantastic!',
 'story_14_03000/2401_1001_2900_10': 'I...I’m not crying!',
-}, 
+}], 
 'story_15_01000_en.lsd': {
 'story_15_01000/2401_1001_0100_10': 'So, are you our match for today?',
 'story_15_01000/2401_1001_0200_10': 'Whew, this one looks really tough, Grimsley.\nThis might be the end of the road for us.',
@@ -14663,7 +14663,7 @@
 'story_15_01000/2401_1001_1300_10': 'Well, as you can see, kid, we’re just a couple\nof oddballs.',
 'story_15_01000/2401_1001_1400_10': 'Let’s see how you handle opponents like us.',
 'story_15_01000/2401_1001_1500_10': 'Nothing too serious, though.',
-}, 
+}], 
 'story_15_02000_en.lsd': {
 'story_15_02000/2401_1001_0100_10': 'Whew, you got us good.',
 'story_15_02000/2401_1001_0200_10': 'You said you’re [Name:PlayerNickname ], right?\nYou sure are something.',
@@ -14683,7 +14683,7 @@
 'story_15_02000/2401_1001_1600_10': 'There’s only room for one wild card in any\ngood deck. ',
 'story_15_02000/2401_1001_1700_10': 'Is that right.',
 'story_15_02000/2401_1001_1800_10': 'Well, guess it’ll just be me, then.\nLooking forward to working with you kids.',
-}, 
+}], 
 'story_15_03000_en.lsd': {
 'story_15_03000/2401_1001_0100_10': 'Guess this is the end of the road for\nour little team.',
 'story_15_03000/2401_1001_0200_10': 'And it was me who bugged you about teaming up\nin the first place, wasn’t it? Sorry about that.',
@@ -14709,7 +14709,7 @@
 'story_15_03000/2401_1001_2200_10': 'Come visit Alola sometime.',
 'story_15_03000/2401_1001_2300_10': 'Let’s get some Sushi High Roller. My treat.',
 'story_15_03000/2401_1001_2400_10': 'I’ll think about it, old man.',
-}, 
+}], 
 'story_16_01000_en.lsd': {
 'story_16_01000/2401_1001_0100_10': 'Here they are, Father!\nIt’s [Name:PlayerNickname ]’s team!',
 'story_16_01000/2401_1001_0200_10': 'Fwahahaha!\nPrepare for defeat, [Name:PlayerNickname ]!',
@@ -14723,7 +14723,7 @@
 'story_16_01000/2401_1001_1000_10': 'But that is not the truth. A true ninja masters\nmany strategic techniques!',
 'story_16_01000/2401_1001_1100_10': 'Don’t think that your conventional strategies\nwill work against us!',
 'story_16_01000/2401_1001_1200_10': 'Allow us to show you that there are battles\nyou cannot overcome with strength alone!',
-}, 
+}], 
 'story_16_02000_en.lsd': {
 'story_16_02000/2401_1001_0100_10': 'Fwahahaha!\nA splendid display! We concede!',
 'story_16_02000/2401_1001_0200_10': 'You stuck to your earnest and straightforward\ntactics, and we stuck to our ninja tactics.\nWe may have lost, but we have no regrets!',
@@ -14761,7 +14761,7 @@
 'story_16_02000/2401_1001_3400_10': 'You may have beaten me, but don’t forget\nthat I am a member of the Indigo Elite Four.',
 'story_16_02000/2401_1001_3500_10': 'I will definitely be of use to your team.',
 'story_16_02000/2401_1001_3600_10': 'As long as we can watch each other’s back\nand try to cover each other’s weaknesses,\nwe can surely surpass our current limits!',
-}, 
+}], 
 'story_17_01000_en.lsd': {
 'story_17_01000/2401_1001_0100_10': 'We’ll be facing quite the formidable\nopponent in our next battle.\nIt’s [Name:PlayerNickname ]’s team.',
 'story_17_01000/2401_1001_0200_10': 'They may not be the most experienced, but they’ve\ngot a lot of momentum. An opponent like that can\nbe tough to handle when they’re on a roll.',
@@ -14784,7 +14784,7 @@
 'story_17_01000/2401_1001_1900_10': 'Yeah! I think so, too!',
 'story_17_01000/2401_1001_2000_10': 'Then let’s give it our all out there and show\neveryone the strength of Ghost-type Pokémon!',
 'story_17_01000/2401_1001_2100_10': 'Yes, ma’am!',
-}, 
+}], 
 'story_17_02000_en.lsd': {
 'story_17_02000/2401_1001_0100_10': 'This is it—the real thing. Are you girls ready?',
 'story_17_02000/2401_1001_0200_10': 'Acerola here, ready to go!',
@@ -14798,7 +14798,7 @@
 'story_17_02000/2401_0402_1000_10': 'Ahahaha, perhaps this will be over\nbefore the battle begins?',
 'story_17_02000/2401_1001_1100_10': 'Enough with the formalities! Let’s get started.\nAfter all, Pokémon are—',
 'story_17_02000/2401_1001_1200_10': 'For battling! I know!',
-}, 
+}], 
 'story_17_03000_en.lsd': {
 'story_17_03000/2401_1001_0100_10': 'Oh my! I can’t believe we lost.\nYou’re quite the Trainer!',
 'story_17_03000/2401_1001_0200_10': 'It seems that you all have a better grasp\non what it takes to truly battle as a team.',
@@ -14833,7 +14833,7 @@
 'story_17_03000/2401_0302_3100_10': 'Let’s fight hard together!',
 'story_17_03000/2401_0402_3200_10': 'You bet! I’m giving this everything I’ve got!',
 'story_17_03000/2401_1001_3300_10': 'Ready when you are, [Name:PlayerNickname ]!\nSee you around soon, Agatha, Phoebe!',
-}, 
+}], 
 'story_18_01000_en.lsd': {
 'story_18_01000/2401_1001_0100_10': '... ... ...',
 'story_18_01000/2401_1001_0200_10': 'Hey, Cheren.\nWhat’s with the long face?',
@@ -14870,7 +14870,7 @@
 'story_18_01000/2401_1001_3300_10': 'So you’ll join our team then?\nI look forward to battling together!',
 'story_18_01000/2401_1001_3400_10': 'Yeah, right back at ya!',
 'story_18_01000/2401_1001_3500_10': 'All right! Now that we have a full team,\nlet’s train! Victory or bust!',
-}, 
+}], 
 'story_18_02000_en.lsd': {
 'story_18_02000/2401_1001_0100_10': 'Good luck, [Name:PlayerNickname ]...\nIt looks like we’re your opponents this round.',
 'story_18_02000/2401_1001_0200_10': 'You and your team have built up quite the\nreputation for yourselves—defeating Gym Leaders,\nElite Four members, and other famous Trainers.',
@@ -14879,7 +14879,7 @@
 'story_18_02000/2401_1001_0500_10': 'But not just that! We trained together on Pasio,\nstrengthening our bonds!',
 'story_18_02000/2401_1001_0600_10': 'We’ll show you our teamwork!',
 'story_18_02000/2401_1001_0700_10': 'Let’s give this battle everything we’ve got!\nNo regrets on either side!',
-}, 
+}], 
 'story_18_03000_en.lsd': {
 'story_18_03000/2401_1001_0100_10': 'Wow, [Name:PlayerNickname ]...\nThanks for such an incredible battle.',
 'story_18_03000/2401_1001_0200_10': 'It stinks that we lost, but we did everything\nwe could.',
@@ -14901,7 +14901,7 @@
 'story_18_03000/2401_0302_1800_10': 'Let’s help each other win this!',
 'story_18_03000/2401_0402_1900_10': 'Absolutely! In fact, I think that moving forward,\nteamwork is exactly what’s going to separate the\nwinners from the losers!',
 'story_18_03000/2401_1001_2000_10': 'Personally, I want us to win this!\nSo let’s put our hands and our hearts together\nand make it happen as a team!',
-}, 
+}], 
 'story_18_51000_en.lsd': {
 'story_18_51000/2401_1001_0100_10': 'Looks like the tournament matches are\nramping up!',
 'story_18_51000/2401_1001_0200_10': 'That being said, I’m still amazed that you’ve\ngotten this strong, [Name:PlayerNickname ].',
@@ -14937,49 +14937,49 @@
 'story_18_51000/2401_1001_3200_10': 'A battle—right here, right now!\nIf you refuse, I shall revoke your right to compete!\nLose the battle, and you’ll be just as gone!',
 'story_18_51000/2401_1001_3300_10': 'Watch! I shall beat you to a pulp,\njust like last time, and you will be out\nof this competition for good.',
 'story_18_51000/2401_1001_3400_10': 'And let this be a lesson to you! \nBonds and teamwork are nothing \nbut a ridiculous load of garbage!',
-}, 
+}], 
 'story_19_01000_en.lsd': {
-}, 
+}], 
 'story_19_02000_en.lsd': {
-}, 
+}], 
 'story_19_03000_en.lsd': {
-}, 
+}], 
 'story_19_04000_en.lsd': {
-}, 
+}], 
 'story_20_01000_en.lsd': {
-}, 
+}], 
 'story_20_02000_en.lsd': {
-}, 
+}], 
 'story_20_03000_en.lsd': {
-}, 
+}], 
 'story_20_04000_en.lsd': {
-}, 
+}], 
 'story_20_05000_en.lsd': {
-}, 
+}], 
 'story_20_06000_en.lsd': {
-}, 
+}], 
 'story_20_07000_en.lsd': {
-}, 
+}], 
 'story_20_08000_en.lsd': {
-}, 
+}], 
 'story_20_09000_en.lsd': {
-}, 
+}], 
 'story_21_01000_en.lsd': {
-}, 
+}], 
 'story_21_02000_en.lsd': {
-}, 
+}], 
 'story_21_03000_en.lsd': {
-}, 
+}], 
 'story_21_04000_en.lsd': {
-}, 
+}], 
 'story_21_05000_en.lsd': {
-}, 
+}], 
 'story_21_06000_en.lsd': {
-}, 
+}], 
 'story_21_51000_en.lsd': {
-}, 
+}], 
 'story_21_52000_en.lsd': {
-}, 
+}], 
 'story_99_00010_en.lsd': {
 'story_99_00010/2401_1001_0100_10': 'Konnichiwa! Bonjour! Pleasure to meet you.\nI’m Professor Bellis.',
 'story_99_00010/2401_1001_0200_10': 'I’m doing research on sync pairs here on Pasio.',
@@ -15000,14 +15000,14 @@
 'story_99_00010/2401_1001_1700_10': 'Perfect! You successfully edited your team.',
 'story_99_00010/2401_1001_1800_10': 'Feel free to use team editing to your advantage\nwhenever you meet new sync pairs!',
 'story_99_00010/2401_1001_1900_10': 'Thank you for stopping by.\nI look forward to your next visit!',
-}, 
+}], 
 'story_99_00030_en.lsd': {
 'story_99_00030/2401_1001_0100_10': 'Welcome! Since you’re a first-time customer,\nwe’d like to offer you a Training Machine\nfree of charge!',
 'story_99_00030/2401_1001_0200_10': 'By the way, you can use Training Machines to...\nyou guessed it! Train with your partner\nPokémon to improve their strength!',
 'story_99_00030/2401_1001_0300_10': 'Why don’t you try using this Training Machine\nto teach your Pikachu a new move!',
 'story_99_00030/2401_1001_0400_10': 'Wow! Nice work!\nYour Pikachu looks stronger than ever!',
 'story_99_00030/2401_1001_0500_10': 'Yep! That Training Machine sure seems to have\ndone the trick. I’ll have to keep plenty in stock!\nCome again soon!',
-}, 
+}], 
 'story_99_00040_en.lsd': {
 'story_99_00040/2401_1001_0100_10': 'Hey you. You, in the shoddy hat.\nYou have got some serious nerve, \nwaltzing in here wearing an eyesore like that.',
 'story_99_00040/2401_1001_0200_10': 'Hang on a minute... You’re Lear, right? \nI don’t appreciate you and your cronies ganging \nup on my friend, [Name:PlayerNickname ].',
@@ -15026,37 +15026,37 @@
 'story_99_00040/2401_1001_1500_10': 'I can’t believe he just insulted us like that\nout of nowhere... Don’t let jerks like him\nget to you, all right, [Name:PlayerNickname ]?',
 'story_99_00040/2401_1001_1600_10': 'You’ve already shown me that you \nand your Pokémon have got some promise \nin this tournament!',
 'story_99_00040/2401_1001_1700_10': 'So c’mon! It’s time to take our next step\ntoward competing in the PML!',
-}, 
+}], 
 'story_99_00060_en.lsd': {
 'story_99_00060/2401_1001_0100_10': 'Ah, [Name:PlayerNickname ]!\nI was hoping I’d run into you!',
 'story_99_00060/2401_1001_0200_10': 'I’ve made leaps and bounds in my research on\nsync pairs lately. If my new hypothesis is correct,\nyou should be able to grow even stronger now!',
 'story_99_00060/2401_1001_0300_10': 'I believe you and your Pokémon can unleash\nan even greater power together! Why don’t we\nmeet up here—I’d love to test out my theory!',
-}, 
+}], 
 'story_99_00061_en.lsd': {
 'story_99_00061/2401_1001_0100_10': 'Velkommen! Show us what you’re capable of! \nProve your strength against this tough young man!',
 'story_99_00061/2401_1001_0200_10': 'I won’t go easy on you!',
 'story_99_00061/2401_1001_0300_10': 'Whoa! You guys are seriously strong!',
 'story_99_00061/2401_1001_0400_10': 'Fantástico! You’ve truly proven your\nstrength today—and my hypothesis as well!',
 'story_99_00061/2401_1001_0500_10': 'Congratulations. May you and your Pokémon\ncontinue to grow and unlock even greater\npotential as a sync pair!',
-}, 
+}], 
 'story_99_00070_en.lsd': {
 'story_99_00070/2401_1001_0100_10': 'Congratulations! From now on, you’ll be able to\nparticipate in any events that are going on!',
 'story_99_00070/2401_1001_0200_10': 'Events only last for a limited time, though.\nAct fast, or you might miss your chance at\nexploring the new areas!',
 'story_99_00070/2401_1001_0300_10': 'Feel free to check out the news for a list of\nall the events currently going on.',
-}, 
+}], 
 'story_99_00080_en.lsd': {
 'story_99_00080/2401_1001_0100_10': '',
 'story_99_00080/2401_1001_0200_10': '',
-}, 
+}], 
 'story_99_00081_en.lsd': {
 'story_99_00081/2401_1001_0100_10': '',
 'story_99_00081/2401_1001_0200_10': '',
 'story_99_00081/2401_1001_0300_10': '',
-}, 
+}], 
 'story_99_00090_en.lsd': {
 'story_99_00090/2401_1001_0100_10': 'You’ve done a fantastique job so far\nimproving your strength as a sync pair!\nVery impressive!',
 'story_99_00090/2401_1001_0200_10': 'But did you know there’s a way to push that\neven further? Beyond your current limits?\nIf you’d like to find out...meet me here.',
-}, 
+}], 
 'story_99_00091_en.lsd': {
 'story_99_00091/2401_1001_0100_10': 'Ah! I had a feeling you’d come and find me.\nNow then, step right up and show us all\nhow strong you’ve become!',
 'story_99_00091/2401_1001_0200_10': 'I’ll be the judge of that!\nAnd I won’t go easy on you!',
@@ -15064,7 +15064,7 @@
 'story_99_00091/2401_1001_0400_10': 'Très bien! You’ve certainly earned a prize\nfor yourselves today. I would love for you\nto have this!',
 'story_99_00091/2401_1001_0500_10': 'If you equip this, your team will be stronger\nthan ever! Brilliant, don’t you think?!',
 'story_99_00091/2401_1001_0600_10': 'There’s a whole range of equipment out there\nwith all sorts of different perks. Try searching\nfor some the next time you go exploring!',
-}, 
+}], 
 'story_zako_battle_01_01_en.lsd': {
 'story_zako_battle_01_01/3701_0101_0100_10': 'Come on, you guys know the rules, don’tcha?\nIf two Trainers’ eyes meet, they hafta battle!',
 'story_zako_battle_01_01/3701_0101_0200_10': 'We fight who we want!\nIf you get in our way, we’ll fight you, too!',
@@ -15073,7 +15073,7 @@
 'story_zako_battle_01_01/3801_0101_0100_10': 'Now scram! We came here to fight Cynthia,\nand we’re not leavin’ till we do it!\nWhat are you gettin’ in our way for?!',
 'story_zako_battle_01_01/3801_0101_0200_10': 'These blockheads won’t even be a good\nwarm-up, but if they want a whoopin’,\na whoopin’ they’ll get!',
 'story_zako_battle_01_01/3801_0501_0100_10': 'Graahhh! We missed our opportunity thanks to you!',
-}, 
+}], 
 'story_zako_battle_02_01_en.lsd': {
 'story_zako_battle_02_01/3801_0101_0300_10': 'Sync pair alert! Sync pair alert!\nIf we take your strong Pokémon, \nwe will get stronger, too!',
 'story_zako_battle_02_01/3801_0101_0400_10': 'You there! Hand over your partner Pokémon!',
@@ -15095,12 +15095,12 @@
 'story_zako_battle_02_01/3803_0101_0200_10': 'You wanna get past me? Be my guest.',
 'story_zako_battle_02_01/3803_0101_0300_10': 'Well, I’d like to say that, but I should at least\ndo my job, right? Hand over your Pokémon!',
 'story_zako_battle_02_01/3803_0501_0100_10': 'Well, I did my job as well as I could.\nNobody can say I didn’t try.',
-}, 
+}], 
 'story_zako_battle_03_01_en.lsd': {
 'story_zako_battle_03_01/3701_0101_0100_10': 'I just won a battle, so I’m in a great mood!',
 'story_zako_battle_03_01/3701_0501_0200_10': 'Forget this! My mood is ruined!',
 'story_zako_battle_03_01/3701_0601_0100_10': 'I’m going to sleep!',
-}, 
+}], 
 'story_zako_battle_05_01_en.lsd': {
 'story_zako_battle_05_01/3801_0101_0100_10': 'Aww, more cute little sync pairs!',
 'story_zako_battle_05_01/3801_0101_0200_10': 'If you want to move on, you have to get past me!',
@@ -15113,7 +15113,7 @@
 'story_zako_battle_05_01/3702_0101_0500_10': 'We must save [EN:Gen Ref="255" M="him" F="her" ]!\nIt’s OK. Just leave everything to us!',
 'story_zako_battle_05_01/3702_0501_0100_10': 'Why do you reject restoration?!',
 'story_zako_battle_05_01/3702_0501_0200_10': 'Meh, it’s not that big of a deal.\n[EN:Gen Ref="255" M="He’s" F="She’s" ] free to believe what [EN:Gen Ref="255" M="he" F="she" ] wants.',
-}, 
+}], 
 'story_zako_battle_06_01_en.lsd': {
 'story_zako_battle_06_01/3702_0101_0100_10': 'And that is why it is imperative to carefully\nthink of the best roles for each pair and...',
 'story_zako_battle_06_01/3702_0101_0200_10': 'All in all, I’m just glad I was able to be on\nyour team!',
@@ -15121,7 +15121,7 @@
 'story_zako_battle_06_01/3702_0101_0400_10': 'Trainers! Perfect timing!\nI can show her how cool I am if we win!',
 'story_zako_battle_06_01/3702_0501_0100_10': 'Aw, shucks. We lost. But that was so much fun!\n...Maybe it was so fun because I was with you.',
 'story_zako_battle_06_01/3702_0501_0300_10': 'Have you two forgotten that I am a part of\nthe team, too?!',
-}, 
+}], 
 'story_zako_battle_07_01_en.lsd': {
 'story_zako_battle_07_01/3701_0101_0100_10': 'This is the right way to the gathering spot, right?',
 'story_zako_battle_07_01/3701_0101_0200_10': 'Aaah, jeez! What a pain in the neck. Why’d you\nhave to make eye contact with me, huh?\nSeriously, give me a break.',
@@ -15144,7 +15144,7 @@
 'story_zako_battle_07_01/3803_0101_0300_10': 'Yeah! Can you count how many girls are on\nthis team? That’s right—one!\nThe same as my average test score!',
 'story_zako_battle_07_01/3803_0101_0400_10': 'Bet you think we’re going down the wrong path\ndon’t you? Well, think again! ’Cause we’re the\naces of bein’ bad!',
 'story_zako_battle_07_01/3803_0501_0100_10': 'We’ll let you off easy this time!',
-}, 
+}], 
 'story_zako_battle_08_01_en.lsd': {
 'story_zako_battle_08_01/3701_0101_0100_10': 'I don’t even feel the cold here...\nCould this be my special talent...?!',
 'story_zako_battle_08_01/3701_0101_0200_10': 'Get ready for the power of a hiker that the cold\nnever bothers!',
@@ -15166,7 +15166,7 @@
 'story_zako_battle_08_01/3802_0501_0100_10': 'Do you see now? The reason they won is because\nthey properly operate as a team!',
 'story_zako_battle_08_01/3802_0501_0200_10': 'Sorry. I shouldn’t have said those things.\nYour glasses are really nice.',
 'story_zako_battle_08_01/3802_0501_0300_10': 'We had forgotten that we needed all three of us\nto win. Let’s wipe the slate clean and start over.\nThis time, together!',
-}, 
+}], 
 'story_zako_battle_09_01_en.lsd': {
 'story_zako_battle_09_01/3701_0101_0100_10': 'Hahaha!\nThis town belongs to us now!',
 'story_zako_battle_09_01/3701_0101_0200_10': 'Ma’am! These are those brats that we were\ntelling you about!',
@@ -15193,7 +15193,7 @@
 'story_zako_battle_09_01/3803_0101_0300_10': 'Now, send out your Pokémon!\nWe’ll be having a Pokémon battle now!',
 'story_zako_battle_09_01/3803_0501_0100_10': 'Training is complete!\nHow was that? Realistic, huh?',
 'story_zako_battle_09_01/3803_0501_0200_10': 'That was a good workout before fighting\nTeam Break!',
-}, 
+}], 
 'story_zako_battle_10_01_en.lsd': {
 'story_zako_battle_10_01/3801_0101_0100_10': 'I’m an Ace Trainer... I can’t lose...',
 'story_zako_battle_10_01/3801_0101_0200_10': 'H-hey! I’m an Ace Trainer. One step away from\nthe main tournament matches of the PML!',
@@ -15218,11 +15218,11 @@
 'story_zako_battle_10_01/3803_0101_0200_10': 'You were lookin’ at me weren’t ya? Let’s battle!',
 'story_zako_battle_10_01/3803_0501_0100_10': 'Hey, thanks for havin’ that battle with me!\nI appreciate you not runnin’!',
 'story_zako_battle_10_01/3803_0501_0200_10': 'I’ve got a bit of a mean lookin’ face, so most\npeople run away before battlin’ me.',
-}, 
+}], 
 'story_zako_battle_20_02_en.lsd': {
-}, 
+}], 
 'story_zako_battle_20_06_en.lsd': {
-}, 
+}], 
 'tutorial_general_talk_01_en.lsd': {
 'tutorial_general_talk_01/2701_0701_0100_10': 'Did you know that every sync pair has a type\nthat it’s weak against? It’s a scientific fact!',
 'tutorial_general_talk_01/2701_0701_0200_10': 'Before you depart on a journey or task, I highly\nrecommend that you check the area’s weakness\ntype and edit your team accordingly!',
@@ -15244,16 +15244,16 @@
 'tutorial_general_talk_01/2710_0701_0100_10': 'The abbreviation “PML” gets thrown around \nquite a bit, doesn’t it?\nDo you remember what it stands for?',
 'tutorial_general_talk_01/2710_0701_0200_10': 'It’s short for “Pokémon Masters League”—\nthe tournament currently being held here on Pasio.',
 'tutorial_general_talk_01/2710_0702_0100_10': '“P” for “Pokémon,” “M” for “Masters,” and “L” for\n“League!” See? It’s quite simple to remember!',
-}, 
+}], 
 'tutorial_quest_01_en.lsd': {
 'tutorial_quest_01/0601_0701_0100_10': 'Hey! Brock and Misty were telling me\nabout you. It looks like you’re getting\nthe hang of Pokémon battles!',
 'tutorial_quest_01/0601_0701_0200_10': 'I’ll teach you more advanced techniques.\nYou’d better not blow me off!',
 'tutorial_quest_01/0602_0701_0100_10': 'There you are!\nAll right, let’s get down to business!',
 'tutorial_quest_01/0602_0702_0100_10': 'Hey, not too shabby! But then again, I’m the one\nteaching you, so it’s only natural!',
 'tutorial_quest_01/0602_0702_0200_10': 'Maybe you can become as good as me someday!\nDon’t let that get to your head. You gotta keep\ntraining for that to happen!',
-}, 
+}], 
 'version_en.lsd': {
-}, 
+}], 
 'battle_en.lsd': {
 'battle/battle_003': 'AUTO',
 'battle/battle_009': 'Weakness',
@@ -15382,7 +15382,7 @@
 'battle/284': 'Confirm',
 'battle/285': 'Are you sure you want to return to the\nPokémon Center?\nNote: If you go back now, you won’t \nreceive the reward if your friends win.',
 'battle/291': 'You lost to [Name:TrainerNameAndType ]!',
-}, 
+}], 
 'cafe_en.lsd': {
 'cafe/filter_001': '',
 'cafe/filter_002': '',
@@ -15649,7 +15649,7 @@
 'cafe/sptraining_033': 'You learned\na new skill!',
 'cafe/sptraining_034': '',
 'cafe/sptraining_035': 'Already Learned',
-}, 
+}], 
 'inventory_en.lsd': {
 'inventory/login_bonus': '[Name:LoginBonus ] Reward',
 'inventory/temporary_item': 'Overflow Items',
@@ -15663,7 +15663,7 @@
 'inventory/campaign_1': '[Name:Campaign ] Present',
 'inventory/campaign_2': '[Name:Campaign ] Completion Reward',
 'inventory/autosold_item': '',
-}, 
+}], 
 'matching_en.lsd': {
 'matching/matching_001': 'Matching Lobby',
 'matching/matching_002': 'Matching',
@@ -15695,7 +15695,7 @@
 'matching/matching_028': 'NPC2',
 'matching/matching_029': 'GO!',
 'matching/matching_030': '.',
-}, 
+}], 
 'mission_en.lsd': {
 'mission/mission_cell_reward_button_disable_text_001': 'In progress',
 'mission/mission_cell_reward_button_disable_text_002': 'Claimed',
@@ -15726,7 +15726,7 @@
 'mission/mission_027': 'You received the rewards below!',
 'mission/mission_028': 'Mission Complete',
 'mission/mission_029': 'All Missions Complete',
-}, 
+}], 
 'porygon_en.lsd': {
 'porygon/item_category_001': '',
 'porygon/item_category_002': '',
@@ -15916,7 +15916,7 @@
 'porygon/gamecenter_001': 'You need to activate Game Center in\nyour iOS device’s settings to use\nthis feature.',
 'porygon/gamecenter_002': 'You need to install Google Play Games\nto use this feature.',
 'porygon/gamecenter_003': 'Confirm',
-}, 
+}], 
 'presentbox_en.lsd': {
 'presentbox/presentbox_001': 'Present Box',
 'presentbox/presentbox_002': 'Date Received',
@@ -15938,7 +15938,7 @@
 'presentbox/receive_failed_title': '',
 'presentbox/receive_failed_description': 'You’ve exceeded the limit of how much you can hold, so you were unable to claim some items.',
 'presentbox/receive_failed_description_002': 'You’ve hit your item limit, so some weren’t claimed.',
-}, 
+}], 
 'quest_en.lsd': {
 'quest/field_menu_001': '',
 'quest/field_menu_002': '',
@@ -15989,7 +15989,7 @@
 'quest/dialog_001': 'Continue',
 'quest/dialog_002': 'Would you like to move forward\nto the next area?',
 'quest/cutin_001': 'GO!',
-}, 
+}], 
 'setting_en.lsd': {
 'setting/Interruption_001': 'Settings',
 'setting/Interruption_004': 'Close',
@@ -16071,7 +16071,7 @@
 'setting/quest_002': 'Text Auto-play',
 'setting/quest_003': 'Story text will continue automatically.',
 'setting/quest_004': 'Text Speed',
-}, 
+}], 
 'tutorial_en.lsd': {
 'tutorial/tutorial_swipe_001': 'Try looking around!',
 'tutorial/tutorial_swipe_002': 'You can explore the Pokémon Center\nby swiping left or right on the screen.\n\nThere are always a handful of\nTrainers around the lobby to talk to\nand get to know better!',
@@ -16215,5 +16215,5 @@
 'tutorial/tutorial_shinka_002_11': 'In order to participate in sync pair\nstories about Pokémon Evolution,\nyou’ll need some Evolution materials.',
 'tutorial/tutorial_shinka_002_21': 'You can exchange certain items for\nEvolution materials in the shop!',
 '今使ってないもの（一応しばらく残しておく）': '',
-}, 
+}], 
 }

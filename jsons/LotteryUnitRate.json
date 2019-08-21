@@ -1,4 +1,4 @@
-{ "entries": [
+[
 { "lotteryName": "event_M1_1W_Normal_01", "characterId": "10005000000", "dropRate": 11111111 },
 { "lotteryName": "event_M1_1W_Normal_01", "characterId": "10010000000", "dropRate": 36500000 },
 { "lotteryName": "event_M1_1W_Normal_01", "characterId": "10011000000", "dropRate": 11111111 },
@@ -308,4 +308,4 @@
 { "lotteryName": "release_201902_gacha1", "characterId": "10096000000", "dropRate": 11111111 },
 { "lotteryName": "release_201902_gacha1", "characterId": "10097000000", "dropRate": 36500000 },
 { "lotteryName": "tutorial_gacha1", "characterId": "10026000000", "dropRate": 1000000000 },
-]}
+]

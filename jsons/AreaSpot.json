@@ -1,4 +1,4 @@
-{ "entries": [
+[
 { "u1": 1, "u2": 1, "name": "ダミー", "u4": "製品版ID　位置仮", "u5": "area_spot_01", "texBig": "ui/image/Background/s030_200_Downtown_01/s030_200_Downtown_01_512_512.ktx", "texSmall": "ui/image/Background/s030_200_Downtown_01/s030_200_Downtown_01_512_128.ktx" },
 { "u1": 1010, "u2": 1, "name": "0章_01", "u4": "製品版ID　位置仮", "u5": "area_spot_01", "texBig": "ui/image/Background/s030_010_Downtown/s030_010_Downtown_512_512.ktx", "texSmall": "ui/image/Background/s030_010_Downtown/s030_010_Downtown_512_128.ktx" },
 { "u1": 1020, "u2": 1, "name": "1章_01", "u4": "製品版ID　位置仮", "u5": "area_spot_01", "texBig": "ui/image/Background/s030_200_Downtown_01/s030_200_Downtown_01_512_512.ktx", "texSmall": "ui/image/Background/s030_200_Downtown_01/s030_200_Downtown_01_512_128.ktx" },
@@ -180,4 +180,4 @@
 { "u1": 21008000, "u2": 1, "name": "s210_080_Volcano", "u4": "製品版ID　位置仮", "u5": "area_spot_01", "texBig": "ui/image/Background/s210_080_Volcano/s210_080_Volcano_512_512.ktx", "texSmall": "ui/image/Background/s210_080_Volcano/s210_080_Volcano_512_128.ktx" },
 { "u1": 21008002, "u2": 1, "name": "s210_080_Volcano_02", "u4": "製品版ID　位置仮", "u5": "area_spot_01", "texBig": "ui/image/Background/s210_080_Volcano_02/s210_080_Volcano_02_512_512.ktx", "texSmall": "ui/image/Background/s210_080_Volcano_02/s210_080_Volcano_02_512_128.ktx" },
 { "u1": 21024000, "u2": 1, "name": "s210_240_Volcano", "u4": "製品版ID　位置仮", "u5": "area_spot_01", "texBig": "ui/image/Background/s210_240_Volcano/s210_240_Volcano_512_512.ktx", "texSmall": "ui/image/Background/s210_240_Volcano/s210_240_Volcano_512_128.ktx" },
-]}
+]
