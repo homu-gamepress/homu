@@ -20,4 +20,4 @@
 { "unk1": "19", "unk2": "1", "name": "17章", "desc": "UT版_世界地図", "icon": "ui/image/icon.png", "position": "pin_pos_lc_11", "button": "btn_area_xbt_11", "effect": "area_open_eff_lc_11", "lbdat": "ui/QuestList/Map/lbproj/world_01/area_map_11.lbdat" },
 { "unk1": "20", "unk2": "1", "name": "18章", "desc": "UT版_世界地図", "icon": "ui/image/icon.png", "position": "pin_pos_lc_11", "button": "btn_area_xbt_11", "effect": "area_open_eff_lc_11", "lbdat": "ui/QuestList/Map/lbproj/world_01/area_map_11.lbdat" },
 { "unk1": "21", "unk2": "1", "name": "18.5章", "desc": "UT版_世界地図", "icon": "ui/image/icon.png", "position": "pin_pos_lc_11", "button": "btn_area_xbt_11", "effect": "area_open_eff_lc_11", "lbdat": "ui/QuestList/Map/lbproj/world_01/area_map_11.lbdat" },
-]}
+[]]}

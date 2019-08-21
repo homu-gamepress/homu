@@ -532,4 +532,4 @@
 { "questId": "1030505030011000", "Type": "firstReward", "rewardId": 361 },
 { "questId": "1030505030011100", "Type": "completionReward", "rewardId": 376 },
 { "questId": "1030505030011100", "Type": "firstReward", "rewardId": 362 },
-]}
+[]]}

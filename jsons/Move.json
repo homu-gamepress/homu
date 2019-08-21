@@ -469,4 +469,4 @@
 { "MoveID": 75800, "Category": "Physical", "u3": 1, "User": "Pokemon", "Group": "Sync", "Type": "Rock", "Target": "OpponentSingle", "u8": 1, "Drain": 0, "Power": 250, "Accuracy": 0, "Use": 0 },
 { "MoveID": 75900, "Category": "Special", "u3": 1, "User": "Pokemon", "Group": "Sync", "Type": "Electric", "Target": "OpponentSingle", "u8": 1, "Drain": 0, "Power": 250, "Accuracy": 0, "Use": 0 },
 { "MoveID": 77000, "Category": "Special", "u3": 1, "User": "Pokemon", "Group": "Sync", "Type": "Water", "Target": "OpponentSingle", "u8": 1, "Drain": 0, "Power": 200, "Accuracy": 0, "Use": 0 },
-]}
+[]]}
