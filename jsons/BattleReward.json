@@ -1,4 +1,4 @@
-[
+{ "entries": [
 { "battlerewardId": 0, "rewardXp": 0, "rewardCoin": 0, "u4": 0, "dropTableId": [ ] },
 { "battlerewardId": 100010201, "rewardXp": 0, "rewardCoin": 0, "u4": 15, "dropTableId": [ ] },
 { "battlerewardId": 100010202, "rewardXp": 16, "rewardCoin": 40, "u4": 15, "dropTableId": [ ] },
@@ -244,4 +244,4 @@
 { "battlerewardId": 510700301, "rewardXp": 1720, "rewardCoin": 550, "u4": 30, "dropTableId": [ 260, 260, 271, 282 ] },
 { "battlerewardId": 510700302, "rewardXp": 250, "rewardCoin": 400, "u4": 30, "dropTableId": [ 317, 317, 15, 25, 35, 5, 55, 55, 65, 65, 75, 75, 45, 45, 91 ] },
 { "battlerewardId": 510700303, "rewardXp": 600, "rewardCoin": 1500, "u4": 30, "dropTableId": [ 320, 320, 320, 320, 15, 15, 15, 25, 25, 25, 35, 35, 35, 55, 65, 75, 174, 175, 176, 191, 167, 185 ] },
-]
+]}

@@ -1,4 +1,4 @@
-[
+{ "entries": [
 { "trainer": "ch0000_00_red", "monster": "pm0006_00_lizardon", "unk3": 0, "unk4": -70, "unk5": 0, "unk6": -100, "unk7": 0, "number": "50", "empty": "" },
 { "trainer": "ch0002_00_kotone", "monster": "pm0152_00_chicorita", "unk3": 0, "unk4": -50, "unk5": 0, "unk6": -50, "unk7": 0, "number": "50", "empty": "" },
 { "trainer": "ch0002_00_kotone", "monster": "pm0153_00_bayleaf", "unk3": 0, "unk4": -50, "unk5": 0, "unk6": -80, "unk7": 0, "number": "50", "empty": "" },
@@ -146,4 +146,4 @@
 { "trainer": "ch0101_00_mei", "monster": "pm0497_00_jalorda", "unk3": 1, "unk4": -84, "unk5": 0, "unk6": 62, "unk7": 35, "number": "16061", "empty": "" },
 { "trainer": "ch0101_00_mei", "monster": "pm0497_00_jalorda", "unk3": 2, "unk4": -52, "unk5": 0, "unk6": 0, "unk7": 0, "number": "50", "empty": "" },
 { "trainer": "ch0110_01_kasumi", "monster": "pm0121_00_starmie", "unk3": 0, "unk4": -50, "unk5": 0, "unk6": -50, "unk7": 0, "number": "50", "empty": "" },
-]
+]}

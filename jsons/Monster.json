@@ -1,4 +1,4 @@
-{"entries": [
+{ "entries": [
 { "trainerId": "20002000000", "monsterId": 20015201, "syncMoveId": 40500, "hpValues": [ 132, 222, 305, 635 ], "atkValues": [ 11, 29, 47, 113 ], "defValues": [ 18, 34, 49, 104 ], "spaValues": [ 12, 43, 73, 183 ], "spdValues": [ 17, 38, 56, 133 ], "speValues": [ 11, 36, 60, 148 ] },
 { "trainerId": "20002000001", "monsterId": 20015301, "syncMoveId": 40500, "hpValues": [ 155, 247, 337, 695 ], "atkValues": [ 13, 31, 49, 115 ], "defValues": [ 21, 37, 52, 107 ], "spaValues": [ 16, 47, 77, 187 ], "spdValues": [ 21, 43, 64, 141 ], "speValues": [ 14, 39, 63, 151 ] },
 { "trainerId": "20002000002", "monsterId": 20015401, "syncMoveId": 71000, "hpValues": [ 177, 275, 365, 722 ], "atkValues": [ 17, 35, 53, 119 ], "defValues": [ 26, 42, 57, 112 ], "spaValues": [ 22, 53, 83, 193 ], "spdValues": [ 27, 50, 71, 159 ], "speValues": [ 20, 45, 69, 157 ] },

@@ -1,4 +1,4 @@
-[
+{ "entries": [
 { "monsterId": "20000100", "monsterNameId": 0, "dexNumber": 1, "u4": 0, "u5": 1, "nameJp": "フシギダネ", "u7": 1, "u8": 1, "u9": 100, "strength": 6900, "u11": 0, "u12": 0, "u13": 0, "u14": 0 },
 { "monsterId": "20000101", "monsterNameId": 0, "dexNumber": 1, "u4": 0, "u5": 1, "nameJp": "フシギダネ（♀）", "u7": 1, "u8": 2, "u9": 100, "strength": 6900, "u11": 0, "u12": 0, "u13": 0, "u14": 0 },
 { "monsterId": "20000200", "monsterNameId": 0, "dexNumber": 2, "u4": 0, "u5": 1, "nameJp": "フシギソウ", "u7": 2, "u8": 1, "u9": 100, "strength": 13000, "u11": 0, "u12": 0, "u13": 0, "u14": 0 },
@@ -252,4 +252,4 @@
 { "monsterId": "20085300", "monsterNameId": 0, "dexNumber": 853, "u4": 0, "u5": 1, "nameJp": "キテルグマ", "u7": 2, "u8": 1, "u9": 100, "strength": 135000, "u11": 0, "u12": 0, "u13": 0, "u14": 0 },
 { "monsterId": "20085400", "monsterNameId": 0, "dexNumber": 854, "u4": 0, "u5": 1, "nameJp": "バクガメス", "u7": 2, "u8": 1, "u9": 100, "strength": 212000, "u11": 0, "u12": 0, "u13": 0, "u14": 0 },
 { "monsterId": "20085800", "monsterNameId": 0, "dexNumber": 858, "u4": 0, "u5": 1, "nameJp": "トゲデマル", "u7": 1, "u8": 2, "u9": 100, "strength": 3300, "u11": 0, "u12": 0, "u13": 0, "u14": 0 },
-]
+]}
